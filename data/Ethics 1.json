@@ -1,0 +1,510 @@
+{
+  "quiz_title": "Ethics 1",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Taking \"the ethical point of view\" means",
+      "options": [
+        "choosing to sacrifice your own good for the good of someone else",
+        "deciding that other people and their core values are worthy of your respect",
+        "putting your self-interest above the interests of everyone else",
+        "refusing to accept help from other people",
+        "abiding by your religious beliefs even when it is difficult"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "An association of people organized under a system of rules designed to advance the good of its members over time is called a",
+      "options": [
+        "government",
+        "business",
+        "society",
+        "monopoly",
+        "constitution"
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "Rules of conduct describing what people ought and ought not to do in various situations are called",
+      "options": [
+        "morality",
+        "virtues",
+        "ideals",
+        "philosophy",
+        "a denominations"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "Ethics is",
+      "options": [
+        "a rational examination of people's moral beliefs",
+        "a branch of philosophy",
+        "one way to determine which activities are \"good\" and which are \"evil\"",
+        "a field of study more than 2",
+        "All of the above"
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "Generally, what does it mean to make an ethical decision?",
+      "options": [
+        "Choosing the option that benefits the individual the most",
+        "Making a decision based solely on emotional response",
+        "Following the law and societal rules without question",
+        "Considering the impact of your actions on the well-being of others"
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "How can cultural differences impact ethical perceptions?",
+      "options": [
+        "They have no impact; ethical principles are the same worldwide",
+        "Ethics are purely individual and not influenced by culture",
+        "Different cultures may prioritize different values leading to varied ethical judgments",
+        "Cultural differences make it impossible to have a common ethical ground"
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "What is the role of empathy in ethical decision-making?",
+      "options": [
+        "It is irrelevant to ethical considerations",
+        "It only applies to personal relationships and not to ethical decisions",
+        "It can hinder making rational ethical decisions",
+        "It helps understand the perspectives and feelings of others affected by decisions"
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "Why is it important to consider the consequences of our actions when making ethical decisions?",
+      "options": [
+        "Consequences are the only factors that determine the ethicality of actions",
+        "Considering consequences helps predict and mitigate potential harm",
+        "Ethical decisions should be based solely on intentions not consequences",
+        "Consequences are irrelevant; what matters is following rules"
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "What does the concept of fairness imply in ethical decision-making?",
+      "options": [
+        "Treating everyone the same regardless of circumstances",
+        "Giving everyone exactly what they deserve",
+        "Maximizing benefits for a few people",
+        "Ensuring that decisions do not favor one party over another unjustly"
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "How does accountability relate to ethical behavior?",
+      "options": [
+        "It means following orders without questioning them",
+        "Accountability is only relevant in legal contexts",
+        "It involves ensuring personal gain from ethical decisions",
+        "It implies taking responsibility for the consequences of one's actions"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "In what way can ethical dilemmas arise?",
+      "options": [
+        "Ethical dilemmas do not truly exist; there is always a best choice",
+        "When there is a clear right and wrong choice",
+        "Only in professional settings not in personal life",
+        "When there are conflicting ethical principles or values at stake"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "What role does integrity play in ethics?",
+      "options": [
+        "It ensures compliance with laws and regulations",
+        "It ensures compliance with the holy books",
+        "Integrity is about gaining the approval of your friends",
+        "It involves consistently upholding moral principles even when it's challenging"
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "What is one of the reasons people live in communities?",
+      "options": [
+        "It allows individuals to specialize and focus on particular activities",
+        "People are more prone to external dangers",
+        "It helps stay away from personal relationships",
+        "Everyone can do all activities without the need to specialize"
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "A responsible community member",
+      "options": [
+        "take the needs and desires of only their friends into account when they make decisions",
+        "take the needs and desires of other people into account when they make decisions",
+        "does not share core values with others",
+        "makes decisions that benefits only their friends"
+      ]
+    },
+    {
+      "question_number": 15,
+      "question": "Chinese scientist He Jiankui announced to the world that he successfully did what?",
+      "options": [
+        "used the gene-editing tool CRISPR-Cas9 to modify the DNA of two embryos before birth",
+        "used the gene-editing tool CRISPR-Cas9 to offer custom designer babies as needed by the mother",
+        "changed the race of a baby",
+        "used the gene-editing tool CRISPR-Cas9 to offer custom designer babies as needed by both parents"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "Josef Mengele was known as",
+      "options": [
+        "the angel of life",
+        "the devil of death",
+        "the devil of life",
+        "the angel of death"
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "In class, we discussed how mostly everyone shares \"core values\" desiring what",
+      "options": [
+        "happiness",
+        "beach living",
+        "fasting",
+        "bull fighting"
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "One of the reasons as society has rules is to",
+      "options": [
+        "advance the good of members over time",
+        "make sure every person can do what they like",
+        "hinder community growth",
+        "destroy progress"
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "____ is what people ought / ought not to do in various situations",
+      "options": [
+        "community",
+        "morality",
+        "philosophy",
+        "psycology"
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "_____ is a rational examination of morality",
+      "options": [
+        "psycology",
+        "philosophy",
+        "ethics",
+        "community"
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "We used _____ in class to learn about how we are wired (in this case our visual system)",
+      "options": [
+        "perceptual illusions",
+        "magic",
+        "binoculars",
+        "a magnifying glass"
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "People donate more to ONE named person than to many unnamed people. This has been called the",
+      "options": [
+        "Group Effect",
+        "Identifiable Victim Effect",
+        "Donation Effect",
+        "Identifiable Group Effect"
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "Choice aversion in donations is an example of how",
+      "options": [
+        "Morality is defined by technology",
+        "Morality is subjective and imperfect",
+        "Morality is about financial gains",
+        "Ethical theories are based on real experiences"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "______ is the philosophical study of morality and a rational examination into people's moral beliefs and behavior",
+      "options": [
+        "Theology",
+        "Anthropology",
+        "Computer Science",
+        "Ethics"
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "_____ produces persuasive explanation for a skeptical yet open-minded audience",
+      "options": [
+        "Morality",
+        "Digital communications",
+        "Workable Ethical theory",
+        "Society"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "Workable Ethical theories are often used (in computing) to",
+      "options": [
+        "collect requirements",
+        "test code",
+        "convert algorithm to code",
+        "explain algorithms involving human choice"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "What does ethical relativism primarily propose?",
+      "options": [
+        "Moral principles are entirely objective and independent of human perspectives",
+        "Moral principles are determined by individual choice",
+        "Moral values and principles are relative to the cultural societal or personal context",
+        "There are universal moral principles applicable to all cultures"
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "According to ethical relativism: when is an action considered morally right?",
+      "options": [
+        "When it aligns with universal moral laws",
+        "When it maximizes utility for the greatest number of people",
+        "When it conforms to natural law",
+        "When it is approved by the majority in a particular society"
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "What challenge does relativism pose to moral judgments?",
+      "options": [
+        "It suggests that moral judgments are universally valid",
+        "It implies that moral judgments are infallible",
+        "It makes moral judgments subjective and potentially varies from one culture to another",
+        "It denies the possibility of moral progress"
+      ]
+    },
+    {
+      "question_number": 30,
+      "question": "Ethical relativism often leads to which of the following conclusions",
+      "options": [
+        "There is one true moral code that all societies should follow",
+        "Societies cannot judge the moral practices of other societies",
+        "Moral principles should be based on the outcomes they produce",
+        "Ethical standards are independent of human beliefs and culture"
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "What is the central claim of cultural relativism?",
+      "options": [
+        "Moral truths exist independently of cultural perspectives",
+        "Cultural traditions have no influence on the validity of moral principles",
+        "All cultures ultimately share the exact same fundamental moral principles",
+        "Moral values and practices are valid only within their own cultural context"
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "Cultural relativism suggests that:",
+      "options": [
+        "What is considered morally right in one culture can be deemed morally wrong in another",
+        "Cultural traditions should not influence moral judgments",
+        "Ethics is determined by genetics",
+        "There is a single universal moral standard applicable across all cultures"
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "Which of the following would be a criticism of cultural relativism?",
+      "options": [
+        "It may prevent moral criticism of harmful practices within a culture",
+        "It encourages a deeper understanding of foreign cultures",
+        "It can lead to moral absolutism",
+        "It overemphasizes the role of reason in moral decision-making"
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "According to cultural relativism how should moral disagreements between cultures be approached?",
+      "options": [
+        "Through the lens of one's own cultural moral standards",
+        "By understanding and respecting the moral frameworks of the respective cultures",
+        "By adopting a universal moral standard to judge all cultures",
+        "By assuming that some cultures are more morally advanced than others"
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "One of the cons of cultural relativism is that",
+      "options": [
+        "It provides clear guidelines for cultures in conflict",
+        "Acknowledges cultural contexts",
+        "It accounts for different social contexts that demand different moral guidelines",
+        "It doesn't account for evolution of moral guidelines"
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "What does the Divine Command Theory propose?",
+      "options": [
+        "Ethical principles are the result of social contracts",
+        "Moral values exist independently of divine commands",
+        "An action is morally right if it is commanded by God",
+        "Morality is determined by rational analysis"
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "How does Divine Command Theory resolve moral dilemmas?",
+      "options": [
+        "By consulting divine commands as revealed in sacred texts",
+        "Through democratic consensus",
+        "By referring to natural laws",
+        "By applying utilitarian principles"
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "Which of the following is a criticism of Divine Command Theory?",
+      "options": [
+        "It enhances moral autonomy by encouraging individual moral reasoning",
+        "It fails to recognize the diversity of religious beliefs",
+        "None of the above",
+        "It asserts that morality is arbitrary depending on God's will"
+      ]
+    },
+    {
+      "question_number": 39,
+      "question": "Divine Command Theory primarily emphasizes the role of:",
+      "options": [
+        "Individual conscience in moral decision-making",
+        "God's will in determining the morality of actions",
+        "Logical reasoning in ethics",
+        "Cultural norms and values"
+      ]
+    },
+    {
+      "question_number": 40,
+      "question": "What is the main principle of ethical egoism?",
+      "options": [
+        "An action is morally right if it primarily benefits the individual making the decision",
+        "Actions are morally right if they promote the greatest good for the greatest number",
+        "Moral principles are inherent in the nature of the universe",
+        "Morality is determined by the expectations of society"
+      ]
+    },
+    {
+      "question_number": 41,
+      "question": "Ethical egoism advocates that:",
+      "options": [
+        "Altruism is the basis of moral action",
+        "Personal well-being is the ultimate moral aim",
+        "Ethical decisions should be made without considering personal consequences",
+        "Individuals have a moral obligation to serve others"
+      ]
+    },
+    {
+      "question_number": 42,
+      "question": "Which of the following scenarios exemplifies ethical egoism?",
+      "options": [
+        "Sacrificing personal interests for the welfare of the group",
+        "Sharing user data without consent to paid advertisers",
+        "Following laws and social norms",
+        "Donating to charity online"
+      ]
+    },
+    {
+      "question_number": 43,
+      "question": "A criticism of ethical egoism is that it:",
+      "options": [
+        "Leads to a lack of concern for the well-being of others",
+        "Encourages too much altruism",
+        "Is too difficult to apply in real-world situations",
+        "Undermines personal freedom and autonomy"
+      ]
+    },
+    {
+      "question_number": 44,
+      "question": "Kantian ethics is based on:",
+      "options": [
+        "The inherent evil in people",
+        "The principle of utility",
+        "The consequences of actions",
+        "The intention behind the action and adherence to duty"
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "Which of the following is a key component of Kant's Categorical Imperative?",
+      "options": [
+        "Act to maximize the overall happiness",
+        "Act only according to that maxim whereby you can at the same time will that it should become a universal law",
+        "Follow the holy books",
+        "Treat others as means to an end"
+      ]
+    },
+    {
+      "question_number": 46,
+      "question": "Alex decides to return a lost wallet because he believes it is his duty to do so regardless of any reward. According to Kantianism is Alex's action morally commendable?",
+      "options": [
+        "No because he did not consider the happiness his action would bring",
+        "Yes because he acted out of duty with no regard for personal gain",
+        "Yes because returning the wallet maximizes social welfare",
+        "No because he should have kept the wallet to benefit himself"
+      ]
+    },
+    {
+      "question_number": 47,
+      "question": "Jamie tells the truth to a friend even though it may hurt the friend's feelings. Kantianism would view Jamie's action as:",
+      "options": [
+        "Morally wrong since it would not benefit society",
+        "Morally right if the intention was to respect the principle of honesty as a universal duty",
+        "Morally right since it would benefit only Jamie",
+        "Morally wrong since it does not prioritize the friend's happiness"
+      ]
+    },
+    {
+      "question_number": 48,
+      "question": "According to Kantianism: You may claim credit for code written by someone else",
+      "options": [
+        "No since the proposed moral rule is self-defeating",
+        "No since it is not a divine commans",
+        "Yes since it increases overall happiness",
+        "Yes since the universal rule is logical"
+      ]
+    },
+    {
+      "question_number": 49,
+      "question": "Which of the following is a workable ethical theory?",
+      "options": [
+        "Kantianism",
+        "Divine Command theory",
+        "Egoism",
+        "Cultural relativism"
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "The Trolley Problem is commonly used in ethics to explore which moral issue?",
+      "options": [
+        "The role of emotions in political decision-making",
+        "Choosing between saving more people (utilitarianism) or following moral rules",
+        "How laws determine right and wrong behavior",
+        "Whether moral decisions should be based on personal benefit"
+      ]
+    }
+  ]
+}

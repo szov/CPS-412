@@ -1,0 +1,508 @@
+{
+  "quiz_title": "Privacy",
+  "total_questions": 50,
+  "scraped_at": "2026-04-19T21:15:35.403286",
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Privacy can be defined as",
+      "options": [
+        "the quality or state of being accountable. especially an obligation or willingness to accept responsibility or to account for one's actions.",
+        "the claim to the likelihood of successful human performance within specified timeframes and environmental conditions.",
+        "choosing to sacrifice your own good for the good of someone else and refusing to accept help from others.",
+        "the claim of individuals or groups or institutions to determine for themselves when how and to what extent information about them is communicated to others."
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "Alan Westin is best known for",
+      "options": [
+        "providing the required legislative framework for morality as law",
+        "changing the recent Canadian privacy act in 2018.",
+        "the earliest and most significant work on the problem of consumer data privacy and data protection",
+        "his new ethical theories on consumer behavior"
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "Protecting a person against undue interference and information that violates his or her moral sense refers to their:",
+      "options": [
+        "Negative Privacy",
+        "Informational privacy",
+        "Territorial privacy",
+        "Personal Privacy"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "Protecting a physical area surrounding a person that may not be violated without the permission of the person refers to:",
+      "options": [
+        "Informational privacy",
+        "Territorial privacy",
+        "Personal Privacy",
+        "Negative Privacy"
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "_____ deals with the gathering or compilation and selective dissemination of information",
+      "options": [
+        "Informational privacy",
+        "Negative Privacy",
+        "Territorial privacy",
+        "Personal Privacy"
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "When we think about privacy - the notion of access refers to:",
+      "options": [
+        "Knowledge about a person",
+        "Neither physical proximity not knowledge about a person",
+        "Physical proximity to a person",
+        "Both physical proximity to a person and knowledge about a person"
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "Privacy advocates who argue that the 'default assumption that data collection is harmful is misguided' instead recommend:",
+      "options": [
+        "An enforcement of laws that stop all data collection",
+        "A focus on using robots for data sorting",
+        "A focus on colorful data visualization practcies that make use of the collected data",
+        "A focus on regulating misuse rather than banning data collection"
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "Surveillance Cameras maybe able to:",
+      "options": [
+        "reduce abuse of power by law enforcement",
+        "help protect victims of domestic violence.",
+        "Locate missing people - especially children",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "Privacy Principles include",
+      "options": [
+        "Maximizing benefits for a few people.",
+        "Lawfulness and Fairness",
+        "Giving everyone exactly what they deserve.",
+        "Validity of data"
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "How does Information Technology contribute to privacy erosion?",
+      "options": [
+        "It reduces our critical thinking skills",
+        "It makes people spend more time away from their families",
+        "It does not.",
+        "It makes collection; exchange; combination and distribution of information easier than ever"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "Can privacy be bad in certain instances?",
+      "options": [
+        "Yes - it helps cover for illegal and immoral activities",
+        "No because privacy laws can be customized by the individual",
+        "No - privacy is always good",
+        "Yes - it ignores the rich in society"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "Who authored the first publication in the United States to advocate a right to privacy in 1890?",
+      "options": [
+        "James Warren and Louis Wright",
+        "James Warren and Louis Brandeis",
+        "Samuel Warren and Louis Brandeis",
+        "Samuel Warren and James Wright"
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "In which year was the first publication to advocate a right to privacy in the United States authored?",
+      "options": [
+        "1990",
+        "1980",
+        "1890",
+        "1908"
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "The right to privacy is",
+      "options": [
+        "the right to be with others",
+        "the right to be let alone",
+        "the right to make decisions",
+        "the right to be inclusive"
+      ]
+    },
+    {
+      "question_number": 15,
+      "question": "The right to privacy is generally considered",
+      "options": [
+        "a negative right",
+        "a positive right",
+        "both a positive and a negative right",
+        "neither a positive nor a negative right"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "Which Harvard Law Review influenced all Canadian conceptions of Privacy",
+      "options": [
+        "The Right to Digital Democracy",
+        "The Right to Privacy",
+        "The Right to Life",
+        "The Right to Live"
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "One of the risks of over-sharing on social media (ex:over-sharenting) is:\u201d",
+      "options": [
+        "not many people may get to know you",
+        "you know everyone who follows you",
+        "the unknown of the invisible audience",
+        "the lack of good background images to use"
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "Privacy is not a natural right but a prudential right because:",
+      "options": [
+        "it hinders community growth",
+        "it provides a net benefit to society",
+        "it helps some people",
+        "it destroys progress"
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "A public record is:",
+      "options": [
+        "posts to social network sites",
+        "forced disclosures that are of benefit to the public community",
+        "information about an incident or action reported to a government agency for purpose of informing the public",
+        "a means by which the psycology of a society can be better understood and historically studied"
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "_____ is an example of what would be a public record",
+      "options": [
+        "Purchases made with gift cards",
+        "Deed to property",
+        "Instagram posts",
+        "Credit card purchases"
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "Computerized shopping carts maybe used to",
+      "options": [
+        "provide personalized service based on buying habits",
+        "ensure user privacy by tracking buying habits",
+        "track a user even after they leave the store",
+        "replace shopping carts as they are cheaper to manufacture"
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "_____ is an example of a technology that provides increased customization at the cost of user privacy.",
+      "options": [
+        "Vending machines",
+        "Self-driving cars",
+        "Phishing detection software",
+        "Body scanners in clothing stores"
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "RFID tags typically",
+      "options": [
+        "can distinguish between readers",
+        "cannot track equipment",
+        "cannot distinguish between readers",
+        "have cloneable serial numbers"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "RFID stands for:",
+      "options": [
+        "Real feature identification",
+        "Radio frequency injection",
+        "Radio frequency identification",
+        "Real frequency identification"
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "RFID tags have been implanted in humans to",
+      "options": [
+        "pay for purchases",
+        "allow celebrities to be tracked by their fans",
+        "increase individual privacy",
+        "monitor social media posts"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "Changing from paper-based to electronic medical records has",
+      "options": [
+        "increased patient survival rates for rare diseases",
+        "made it difficult to find data trends",
+        "made it harder to access patient information",
+        "lowered healthcare costs"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "What is a significant privacy concern associated with Smart TVs?",
+      "options": [
+        "They are incompatible with older home theater systems - forcing users to upgrade their equipment.",
+        "They require a constant power supply to function - increasing electricity bills.",
+        "They can collect and share data about viewing habits and preferences without explicit consent.",
+        "They only support a limited number of streaming services and reducing content diversity."
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "What is a goal of data mining?",
+      "options": [
+        "To enhance internet speed for users.",
+        "To increase the storage capacity of databases.",
+        "To secure databases from unauthorized access.",
+        "To create profiles of individuals by searching for patterns in databases."
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "What does Google use to personalize search results?",
+      "options": [
+        "The speed of your internet connection.",
+        "Only the time of day you search.",
+        "The type of device you are using.",
+        "Your search queries and visited Web pages."
+      ]
+    },
+    {
+      "question_number": 30,
+      "question": "What is collaborative filtering?",
+      "options": [
+        "A data mining technique to predict individual preferences based on collective data.",
+        "A security measure to prevent data breaches.",
+        "A method to filter water.",
+        "A process to filter out unwanted emails."
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "In the context of transaction information - what does opt-in mean?",
+      "options": [
+        "Both parties agree to share information without consent.",
+        "Information can be shared without consumer's permission.",
+        "Information is automatically deleted after a transaction.",
+        "The consumer must explicitly permit sharing information."
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "What are credit reports used for?",
+      "options": [
+        "To determine eligibility for employment based on cultural fit and language proficiency.",
+        "To assess an individual's creditworthiness by potential lenders.",
+        "To track the online activities of individuals.",
+        "To monitor internet browsing habits."
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "How do businesses use targeted direct mail?",
+      "options": [
+        "To increase the cost of postage.",
+        "To advertise to those most likely to purchase products.",
+        "To send mail to every potential customer.",
+        "To collect feedback on products."
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "What is microtargeting primarily used for in political campaigns?",
+      "options": [
+        "To predict weather patterns for outdoor events.",
+        "To identify and reach out to potential supporters.",
+        "To find suitable locations for campaign offices.",
+        "To increase the general awareness of the population around microbes"
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "What is the purpose of price customization?",
+      "options": [
+        "To lower the prices for all online products.",
+        "To increase the transparency of pricing in online retail.",
+        "To standardize prices across all customers.",
+        "To offer different prices to different people based on shopper profiles."
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "How is social network analysis used by companies like Bharti Airtel?",
+      "options": [
+        "To offer special promotions to influential customers.",
+        "To provide internet services.",
+        "To improve their website's design.",
+        "To create new social media platforms."
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "What is a secondary use of information as mentioned in the context of Google's personalized search?",
+      "options": [
+        "Information is collected for one purpose and used for another.",
+        "Information is deleted after initial use.",
+        "Information is used only for the purpose it was collected.",
+        "Information is stored indefinitely without any use."
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "How do political campaigns utilize GIS data in microtargeting?",
+      "options": [
+        "To design campaign logos.",
+        "To predict economic trends.",
+        "To locate most likely supporters for targeted outreach.",
+        "To improve their own data security."
+      ]
+    },
+    {
+      "question_number": 39,
+      "question": "Why might banks combine social network data with credit reports?",
+      "options": [
+        "To determine an individual's creditworthiness.",
+        "To increase their followers on social media.",
+        "To create social media content.",
+        "To advertise to other banks on social media."
+      ]
+    },
+    {
+      "question_number": 40,
+      "question": "What was the primary reason for the consumer backlash against Lotus Development Corporation?",
+      "options": [
+        "Developing a CD with information on 120 million Americans",
+        "Launching a new software",
+        "Increasing the price of their products",
+        "Misleading advertising campaigns"
+      ]
+    },
+    {
+      "question_number": 41,
+      "question": "Which scandal involved Facebook and led to widespread criticism over privacy concerns in 2018?",
+      "options": [
+        "Indian interference in elections",
+        "Data breach exposing user passwords",
+        "Cambridge Analytica",
+        "Fake news proliferation using deepfakes"
+      ]
+    },
+    {
+      "question_number": 42,
+      "question": "What was the controversy surrounding the Netflix Prize for optimizing their recommendation system?",
+      "options": [
+        "Released movie ratings were not truly anonymous",
+        "The prize amount was too low",
+        "The winning algorithm was stolen",
+        "The competition was rigged"
+      ]
+    },
+    {
+      "question_number": 43,
+      "question": "Which iPhone app was discovered to be uploading address books without permission in 2012?",
+      "options": [
+        "LinkedIn",
+        "Whatsapp",
+        "Snapchat",
+        "Path"
+      ]
+    },
+    {
+      "question_number": 44,
+      "question": "How did Instagram come under fire regarding user data in 2021?",
+      "options": [
+        "By changing its terms of service",
+        "By selling user personal data to OpenAI for a small sum of money",
+        "By sharing 79% of its users' personal data with third parties",
+        "By failing to encrypt user data for 7% of its users"
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "What action was taken by malls after protests against tracking shoppers via cell phones?",
+      "options": [
+        "Quickly halted the study",
+        "Issued an apology but continued the study",
+        "Expanded the tracking program",
+        "Offered free icecream to all shoppers in return for their data"
+      ]
+    },
+    {
+      "question_number": 46,
+      "question": "Which of these is a privacy risk when using AI chatbots?",
+      "options": [
+        "They only store data temporarily and never reuse it",
+        "They may collect and store your personal information",
+        "They only respond with pre-written answers",
+        "They cannot process personal data"
+      ]
+    },
+    {
+      "question_number": 47,
+      "question": "Why is lack of transparency a concern with AI chatbots?",
+      "options": [
+        "They only store data on personal devices",
+        "They may not clearly explain how personal information is used, stored, or shared",
+        "They always clearly explain how data is used and shared, especially within for their own training",
+        "They do not use any data at all, since recent AI chatbots are fully rule-based systems"
+      ]
+    },
+    {
+      "question_number": 48,
+      "question": "What is a potential future risk of sharing information with AI chatbots?",
+      "options": [
+        "The chatbot may create profiles or make decisions about you",
+        "The chatbot cannot remember anything",
+        "The data will automatically disappear forever",
+        "The data will only be used once"
+      ]
+    },
+    {
+      "question_number": 49,
+      "question": "A student shares personal experiences with an AI chatbot for advice. Later, similar details appear in responses to other users. Which privacy issue does this scenario best illustrate?",
+      "options": [
+        "Hardware malfunction in AI systems when used by many individual users simultaneously",
+        "Unauthorized disclosure and secondary use of personal information",
+        "Lack of internet security protocols",
+        "Inefficient data storage practices, especially by large AI companies"
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "In the context of data protection - what does profiling involve?",
+      "options": [
+        "Unrestricted data processing",
+        "Unlimited data storage for user profiles that can sometimes use cloud storage",
+        "Creating data from fake websites",
+        "Creating user profiles based on personal data for automated decision making"
+      ]
+    }
+  ]
+}

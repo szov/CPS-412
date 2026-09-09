@@ -1,0 +1,162 @@
+.header {
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.brand h1 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--text-main);
+}
+
+.header-actions {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.header-stats {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.stat-pill {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.stat-label {
+    font-size: 0.75rem;
+    color: var(--text-sub);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
+}
+
+.stat-pill strong {
+    font-size: 1.125rem;
+    color: var(--text-main);
+    font-weight: 600;
+}
+
+.confidence-stat .stat-green { color: var(--conf-green); }
+.confidence-stat .stat-yellow { color: var(--conf-yellow); }
+.confidence-stat .stat-red { color: var(--conf-red); }
+
+.pass-nav {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    background: var(--primary-light);
+    padding: 0.375rem;
+    border-radius: var(--radius);
+}
+
+.pass-btn {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.625rem 0.5rem;
+    background: transparent;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.2s;
+    font-family: inherit;
+}
+
+.pass-btn:hover {
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.pass-btn.active {
+    background: var(--bg-card);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] .pass-btn:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.pass-number {
+    font-size: 0.875rem;
+    font-weight: 700;
+    color: var(--text-sub);
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: transparent;
+}
+
+.pass-btn.active .pass-number {
+    background: var(--primary);
+    color: white;
+}
+
+.pass-name {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--text-sub);
+}
+
+.pass-btn.active .pass-name {
+    color: var(--text-main);
+    font-weight: 600;
+}
+
+.pass-descriptions {
+    margin-bottom: 1.5rem;
+}
+
+.pass-description {
+    display: none;
+    font-size: 0.8125rem;
+    color: var(--text-sub);
+    text-align: center;
+    padding: 0.5rem;
+    background: var(--primary-light);
+    border-radius: 6px;
+}
+
+.pass-description.active {
+    display: block;
+}
+
+.topic-nav {
+    display: flex;
+    gap: 1.25rem;
+    margin-bottom: 2rem;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+    scrollbar-width: none;
+}
+
+.filter-link {
+    background: none;
+    border: none;
+    font-family: inherit;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--text-sub);
+    cursor: pointer;
+    white-space: nowrap;
+    transition: color 0.2s;
+}
+
+.filter-link:hover { color: var(--text-main); }
+.filter-link.active { color: var(--text-main); font-weight: 600; }

@@ -1,0 +1,506 @@
+{
+  "quiz_title": "ACM Code of Ethics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "A software engineer copies large portions of code from an online tutorial into a company project without permission or citation. What ethical issue does this BEST illustrate? (keep in mind the ACM Code of Ethics)",
+      "options": [
+        "Protecting trade secrets through closed-source development.",
+        "Respecting reasonable uses of intellectual work.",
+        "Efficient reuse of existing computing artifacts.",
+        "Failure to respect copyrights and properly credit original creators."
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "Kai is working on a private company project stored in a restricted GitHub repository. To get help debugging, he copies sections of proprietary code into a public Stack Overflow post without asking permission. What ethical issue BEST reflects ACM Principle 1.7?",
+      "options": [
+        "Kai honored confidentiality because he did not share the full repository.",
+        "Posting code publicly is acceptable as long as no client names are included.",
+        "Kai violated confidentiality by disclosing protected organizational information in an unauthorized public space.",
+        "Kai is practicing open collaboration, which is always encouraged."
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "When thinking through a particular issue - how should a computing professional use the ACM Code of Ethics?",
+      "options": [
+        "The ACM Code of Ethics does not apply to specific issues",
+        "Take multiple principles into account as different principles will have different relevance to the issue.",
+        "Start with the first principle as it is always the best fit",
+        "Centralize decision-making around the principles in the first section only since other sections are irrelevant to individual issues."
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "A researcher develops an innovative algorithm and shares it with colleagues under a specific license. Another team modifies it slightly and publishes it as entirely their own invention. Under ACM Principle 1.5, what is the MOST significant ethical concern?",
+      "options": [
+        "The modified version is technically different, so no credit is necessary.",
+        "Sharing algorithms openly always removes the need for attribution.",
+        "The original creators were not credited and the intellectual contribution was misappropriated.",
+        "The algorithm may not perform well in different environments."
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "Emma is designing a learning platform that collects student emotional engagement data. She ensures the data is stored securely and only accessible to authorized staff. However, students were never told this data was being collected in the first place. Which ethical issue BEST applies here? (recap the ACM Code of Ethics)",
+      "options": [
+        "Confidentiality is violated because the data was kept secure.",
+        "Privacy is violated because students were not informed or given consent about data collection.",
+        "Neither privacy nor confidentiality is relevant in digital learning systems.",
+        "The issue is only about software usability, not about ethics."
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "Sonia is a software engineer at EdNova and has signed a non-disclosure agreement (NDA). During lunch, her friend asks about a new AI tutoring product the company is building. Sonia shares some internal design details making sure not to give her all the details because her friend is curious and not a competitor. According to ACM Principle 1.7 (Honor Confidentiality), what is the MOST ethical evaluation?",
+      "options": [
+        "Sonia acted ethically because her friend is not employed in the same industry.",
+        "Sonia violated confidentiality because NDA-protected information should not be disclosed without authorization.",
+        "Confidentiality only applies if the product has already been released and if ALL design details are shared. Thus, Sonia acted ethically according to the ACM Code of Ethics.",
+        "Sonia's sharing is acceptable since it was an informal conversation."
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "Based on the ACM Code of Ethics, Loki is working on a research project funded by an external grant. The grant agreement specifies that collected participant data must remain within the university's secure servers. Loki considers uploading the dataset to a personal cloud drive for convenience while traveling. What is the MOST ethical action?",
+      "options": [
+        "Upload only anonymized records, since anonymity removes contractual responsibility.",
+        "Follow the assigned obligations and data-handling agreement, keeping the dataset in approved secure environments.",
+        "Upload the data if it is password-protected, since convenience improves productivity.",
+        "Ignore the restriction, since research progress outweighs administrative constraints."
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "Negative consequences of computing include",
+      "options": [
+        "threats to physical and mental health only",
+        "threats to health; safety; personal security and privacy only",
+        "threats to privacy only",
+        "threats to politics; money; health; safety; personal security and privacy."
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "Under the ACM Code of Ethics professionals are encouraged to:",
+      "options": [
+        "Focus only on their own professional growth.",
+        "Keep their knowledge secret to maintain a competitive edge especially when looking for a new job.",
+        "Share knowledge only with people they like an can trust within their own organizations",
+        "Extend their professional knowledge and to contribute to the knowledge of others."
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "A student software team builds a study-app that logs user behavior and stores identifiers to personalize feedback. The data is collected with general consent through a long terms-of-service page, but the team has not considered legal frameworks such as GDPR or PIPEDA. Which action BEST aligns with the ACM Code of Ethics?",
+      "options": [
+        "Store the data securely and assume legality follows automatically from strong encryption.",
+        "Rely on user consent alone, since agreeing to terms satisfies legal obligations.",
+        "Ensure data practices comply with applicable privacy laws and regulations, not just technical convenience or informal consent.",
+        "Avoid collecting any data at all, since legal compliance is too complex for student developers."
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "Dr. Pu discovers that Ash, a teaching assistant, has been sharing confidential student performance data (grades and learning analytics) with other students to \"help them compare progress.\" Dr. Pu is unsure whether to report it because Ash meant no harm and wanted to help other students. According to ACM Principle 1.7, what is the MOST ethical response?",
+      "options": [
+        "Publicly confront Ash in front of the class to discourage others.",
+        "Post anonymized student grades online so everyone benefits equally.",
+        "Ignore the situation since the information was shared with good intentions.",
+        "Protect confidentiality by reporting the issue through appropriate institutional authorities, since student data is sensitive and regulations may be violated."
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "In designing an AI-based Intelligent Tutoring System (AI-ITS), which of the following actions BEST reflects the ACM ethical principle of Avoid Harm?",
+      "options": [
+        "Optimizing the tutoring model solely for highest test-score improvement, even if some learner groups consistently receive more intrusive monitoring.",
+        "Deploying the system widely first, and addressing unintended negative consequences only after enough user data reveals patterns of harm.",
+        "Continuously evaluating whether adaptive feedback mechanisms may unfairly disadvantage certain students, and reporting any detected system risks before full-scale deployment.",
+        "Allowing instructors complete control over the AI's decisions, since ethical responsibility belongs entirely to the human user rather than the system designer."
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "According to the ACM Code of Ethics which of the following is most important when managing personal data?",
+      "options": [
+        "Maximizing the profitability of data.",
+        "Ensuring the accuracy confidentiality and integrity of personal information.",
+        "Sharing data widely to promote data transparency.",
+        "Using personal data for user profiling as much as possible."
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "A developer uses an open-source library in a commercial app. According to ACM Principle 1.5, what is the MOST ethical action?",
+      "options": [
+        "Remove the library name from documentation to make the product appear fully original.",
+        "Use the library freely without attribution since it is publicly available.",
+        "Rewrite only a small portion of the library and claim full ownership of the code.",
+        "Give appropriate credit to the creators and follow the library's license requirements."
+      ]
+    },
+    {
+      "question_number": 15,
+      "question": "What does the ACM Code of Ethics advise regarding software testing and validation?",
+      "options": [
+        "It is optional and can be skipped to speed up deployment especially if the software is not mission-critical and the market is highly competitive.",
+        "Testing and validation should be performed by new interns to ensure software meets appropriate standards of reliability and safety.",
+        "Professionals should perform thorough testing and validation to ensure software meets appropriate standards of reliability and safety.",
+        "Testing should be outsourced to reduce responsibility."
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "How does the ACM Code of Ethics suggest professionals should handle conflicts of interest?",
+      "options": [
+        "Avoid them when possible and disclose them when they cannot be avoided.",
+        "Seek to benefit from conflicts of interest whenever possible.",
+        "Use conflicts of interest to negotiate higher salaries.",
+        "Ignore conflicts of interest as they are considered part of a Computing Professional's job."
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "What were some features that were added to ITS like AutoGrader over the years?",
+      "options": [
+        "Blockchain credentialing, digital certificates, secure transcripts",
+        "Fingerprint scanning, face ID login, two-factor authentication",
+        "Eye tracking, body pressure measurement, posture patterns",
+        "Cloud hosting, database sharding, load balancing"
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "What does the ACM Code of Ethics say about the public statements made by professionals?",
+      "options": [
+        "Public statements need to be speculative to encourage debate.",
+        "They should be clear and only based on proper and accepted factual evidence.",
+        "Statements should prioritize the interests of the employer when they have less than 50 employees.",
+        "Computing professionals are discouraged from making public statements."
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "In keeping with the ACM Code of Ethics, which of the following statement is untrue about designing an AI-ITS?",
+      "options": [
+        "AI-ITS should protect student privacy and handle learner data responsibly.",
+        "Ethical concerns are important in educational AI-ITS even when the goal is learning.",
+        "AI-ITS designers should ensure the system supports fairness and avoids biased treatment of learners.",
+        "Student consent is unnecessary since the AI-ITS system improves performance."
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "An educational software system collects detailed student learning data, including mistakes, time spent on tasks, and emotional engagement. The developers decide to share this data with third-party advertisers to generate revenue, without student consent. Which action BEST aligns with ACM Principle 1.6?",
+      "options": [
+        "Sharing the data is acceptable as long as student names are removed.",
+        "Privacy does not apply when data is collected in digital learning environments.",
+        "Sharing is ethical because the system needs funding to operate and make it available to other under-privileged communities so students around the world can have equal access.",
+        "Personal information should only be used for legitimate educational purposes and with respect for learners' rights and consent."
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "Based on the ACM Code of Ethics, which responsibility is MOST important when an organization is developing a new computing system?",
+      "options": [
+        "Ensuring the system is released quickly once the technical design is complete.",
+        "Making sure only engineers define requirements, since they best understand the technology.",
+        "Ensuring that the needs of users and affected stakeholders are clearly articulated in requirements and that the system is later validated against them.",
+        "Prioritizing organizational efficiency over user concerns during requirements gathering."
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "An AI-based Intelligent Tutoring System (AI-ITS) assesses students' reading comprehension using passages about Thanksgiving dinner. The system gives higher scores to responses that mention culturally specific ideas such as \"turkey,\" \"family reunion,\" and \"American traditions.\" A student from a different cultural background provides an accurate interpretation of the passage but is scored lower because they describe the event using unfamiliar cultural references. According to ethical principles for AI-ITS design, what is the MOST significant concern raised by this situation?",
+      "options": [
+        "The system should increase the difficulty of passages to ensure stronger comprehension outcomes.",
+        "The system is overly focused on semantic similarity rather than measuring learning progress over time.",
+        "The system risks embedding cultural norms into its assessment criteria, leading to unfair evaluation of learners from diverse backgrounds.",
+        "The student should adjust their answer style to match the expected framing used in the tutoring system."
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "What are Intelligent Tutoring Systems?",
+      "options": [
+        "Computer-based systems that provides digital, non-interactive lecture videos and quizzes to make it's learners more intelligent.",
+        "Computer-based systems that provide personalized instruction and feedback to learners, adapting to individual needs in real-time",
+        "Television programs that provide customized instruction to educators to use to provide feedback to learners.",
+        "Computer-based systems that uses a one-size-fits-all approach to maximize efficiency while making it's learners more intelligent."
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "A student is developing a software project for a capstone course. Which action BEST demonstrates ACM Principle 2.1?",
+      "options": [
+        "Submitting code that works but is poorly structured and lacks comments because only functionality matters for capstone projects.",
+        "Copying code quickly from online sources to meet the course deadline but making sure to modify the variable names to avoid any ethical issues.",
+        "Writing clean, readable, well-documented code that can be maintained and understood by others.",
+        "Prioritizing speed over testing, but making sure that users can report bugs later using the tool."
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "The ACM Code of Ethics emphasizes a professional's obligation to:",
+      "options": [
+        "Prioritize self care over all other concerns.",
+        "Ignore minor ethical violations to avoid conflict.",
+        "Act consistently with the public interest.",
+        "Follow only those ethical guidelines that are legally binding."
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "While working on a team software project, De notices that the system meets all functional requirements, but the implementation relies on tightly coupled modules, minimal testing, and undocumented assumptions that future developers may not recognize. The project deadline is close. Which choice BEST reflects adhering to the ACM Code of Ethics?",
+      "options": [
+        "Focus only on performance optimization, since quality is mainly measured by efficiency.",
+        "Postpone improvements indefinitely because the company follows agile processes and software can always be refactored after release.",
+        "Raise concerns and improve maintainability and clarity where feasible, recognizing that long-term quality is part of professional dignity.",
+        "Deliver the system as-is since professional responsibility is satisfied once requirements are met and the deadline is met on time."
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "The ACM Code of Ethics highlights the importance of what type of behavior towards colleagues?",
+      "options": [
+        "Respectful and fair",
+        "Competitive",
+        "Secretive and protective of personal work",
+        "Dismissive of ideas that are differnt to that of the team"
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "In terms of compliance with the law the ACM Code of Ethics states that computing professionals should:",
+      "options": [
+        "Follow the law in the jurisdiction in which they work except where it conflicts with ethical responsibilities.",
+        "Consider legal compliance only when convenient.",
+        "Prioritize ethical considerations over legal requirements.",
+        "Always use legal advice from certified professionals to circumvent inconvenient laws."
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "Ra works at a university and has access to student disability accommodation records. He does not collect the data himself, but he shares a student's record with a colleague who is not authorized to view it. What is the primary ethical violation? (recap the ACM Code of Ethics)",
+      "options": [
+        "Privacy, because the university should not store records at all.",
+        "No violation, since the colleague also works at the university.",
+        "The violation is only technical, not ethical.",
+        "Confidentiality, because Ra disclosed protected information to someone without proper authority."
+      ]
+    },
+    {
+      "question_number": 30,
+      "question": "A software engineer is asked to recommend a vendor for a major company contract. One of the shortlisted vendors is owned by a close family member, but the engineer believes the vendor offers a good product at a fair price. The engineer does not mention the relationship during the decision process. Which statement BEST describes the ethical issue in this situation?",
+      "options": [
+        "A conflict of interest exists, and the engineer should disclose the personal relationship to ensure transparency and trust.",
+        "The engineer is acting ethically because personal relationships are irrelevant in professional recommendations.",
+        "There is no ethical concern as long as the vendor provides the best technical solution.",
+        "The engineer should only disclose the relationship if other employees complain about bias."
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "What is a good feature of an ITS?",
+      "options": [
+        "Provides identical lessons for every student regardless of need under principles of equality.",
+        "Works as a static digital textbook with no interaction",
+        "Requires a human teacher to manually deliver all feedback",
+        "Provide immediate, tailored feedback"
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "What is advised by the ACM Code of Ethics regarding the design of systems?",
+      "options": [
+        "Systems should be designed with a focus on maximizing the owner's profit.",
+        "Design considerations should prioritize aesthetics over functionality.",
+        "Systems should be designed to respect user privacy and to provide adequate security to protect users from harm.",
+        "Systems should be designed to collect as much user data as possible."
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "Regarding professional reviews of peers' work the ACM Code of Ethics suggests:",
+      "options": [
+        "Reviews should be honest and objective.",
+        "Reviews should emphasize the negatives to encourage improvement.",
+        "Professional reviews should be traded for professional favors and never for personal favors.",
+        "Reviews should be superficial and use words of endearnace to maintain good relationships."
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "The ACM Code of Ethics recommends what approach when reporting on the limitations of computer systems?",
+      "options": [
+        "Reporting limitations should be avoided as it might lead to public distrust.",
+        "Limitations should be disclosed in a way that is clear and understood by relevant parties.",
+        "Only report limitations that are obvious to standardize employee or consumer behavior.",
+        "Report only those limitations that are legally required to be disclosed."
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "What are the key components of an Intelligent Tutoring System (ITS)?",
+      "options": [
+        "Domain Model, Hardware Model, Pedagogical Model",
+        "Hardware Model, Student Model, Pedagogical Model",
+        "Domain Model, Student Model, Hardware Model",
+        "Domain Model, Student Model, Pedagogical Model"
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "According to the ACM Code of Ethics in their professional roles computing professionals must:",
+      "options": [
+        "Take credit for work that they supervise.",
+        "Avoid all forms of discrimination harassment and bullying.",
+        "Avoid discriminationt harassment and bullying of employees on their team or those that report to them.",
+        "Ensure ongoing focus primarily on maximizing stakeholder value."
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "Based on the ACM Code of Ethics, Nemo helps build an online quiz platform where students must complete timed assessments. The system has passed functional tests, but Nemo has not examined edge cases such as Wi-Fi interruptions, time-sync errors, or accessibility accommodations. Which response BEST reflects ethical responsibility?",
+      "options": [
+        "Conduct a thorough evaluation of risks and impacts, including failure scenarios and fairness/accessibility consequences for students.",
+        "Shift responsibility to instructors, since they decide how grades are assigned.",
+        "Add more server capacity, since performance is the only meaningful risk factor.",
+        "Functional correctness is sufficient, since technical failures are unavoidable in real systems."
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "A student finds a detailed solution to a programming assignment posted by another user on an online discussion board. The student copies most of the solution into their own submission without mentioning the original author, reasoning that \"it was publicly available online.\" According to ACM Principle 1.5 (Respect the work required to produce new ideas and computing artifacts), what is the MOST ethical interpretation?",
+      "options": [
+        "The student acted unethically by failing to acknowledge the original creator and misusing someone else's intellectual work.",
+        "The student's action is acceptable because anything posted online is free to reuse without credit.",
+        "The student's action is only unethical if the discussion board explicitly prohibits reuse of code.",
+        "Copying is ethical as long as the student understands the solution they submitted."
+      ]
+    },
+    {
+      "question_number": 39,
+      "question": "The ACM Code of conduct is concerned with",
+      "options": [
+        "how fundamental ethical principles apply to green computing.",
+        "how corporate culture influences a computing professional's conduct.",
+        "how fundamental ethical principles apply to a computing professional's conduct.",
+        "how fundamental corporate principles apply to a computing professional's morals and ethics."
+      ]
+    },
+    {
+      "question_number": 40,
+      "question": "Based on the ACM Code of Ethics, Kit is preparing to deploy a feature that automatically flags suspicious code submissions in a programming course. The feature works in Kit's tests, but no one else on the team has reviewed the implementation. What is the MOST ethical professional action?",
+      "options": [
+        "Deploy immediately, since review is optional when deadlines are tight.",
+        "Ask for an appropriate peer review to evaluate correctness, maintainability, and potential unintended consequences before release.",
+        "Release the system but only review it after student complaints reveal problems.",
+        "Avoid deployment entirely, since automated detection tools are inherently unethical."
+      ]
+    },
+    {
+      "question_number": 41,
+      "question": "When an AI-based Intelligent Tutoring System (AI-ITS) is used for student assessment, which practice BEST aligns with the ACM Code of Ethics?",
+      "options": [
+        "Allowing the AI system to assign final grades automatically, since automated assessment removes human subjectivity and ensures neutrality.",
+        "Using continuous learner monitoring and collecting as much behavioral data as possible to maximize grading accuracy, even if students are unaware of the full extent of data use.",
+        "Prioritizing system performance metrics (speed and correctness of grading) over interpretability, since students need final scores rather than explanations.",
+        "Designing assessments that are transparent, minimize bias, protect student privacy, and include instructor oversight when high-stakes decisions are made."
+      ]
+    },
+    {
+      "question_number": 42,
+      "question": "According to the ACM Code of Ethics how should computing professionals approach problems that fall outside their area of competence?",
+      "options": [
+        "Provide full disclosure of their limitations and seek additional expertise.",
+        "They should attempt to solve the problem without disclosing their limitations.",
+        "Only work within areas where they have been certified.",
+        "Hand off the problem to someone else without further involvement."
+      ]
+    },
+    {
+      "question_number": 43,
+      "question": "Based on the ACM Code of Ethics, what is a key ethical responsibility of organizational leaders regarding computing systems?",
+      "options": [
+        "Restricting system knowledge to senior experts to reduce misuse.",
+        "Delegating all training responsibilities entirely to external vendors.",
+        "Assuming employees will learn system limitations naturally through daily use.",
+        "Creating opportunities for members of the organization to understand both the principles and limitations of computer systems."
+      ]
+    },
+    {
+      "question_number": 44,
+      "question": "When it comes to errors in their work the ACM Code of Ethics requires professionals to:",
+      "options": [
+        "Conceal them to protect their own reputation.",
+        "Address them immediately and take steps to correct them.",
+        "Conceal them to protect their and their employer's reputation.",
+        "Correct them in confidence when caught"
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "What is the primary purpose of the ACM Code of Ethics?",
+      "options": [
+        "To provide legal guidelines for computing professionals.",
+        "To establish financial guidelines for software companies.",
+        "To outline the ethical responsibilities of computing professionals.",
+        "To define professional relationships in IT departments."
+      ]
+    },
+    {
+      "question_number": 46,
+      "question": "An AI-based Intelligent Tutoring System (AI-ITS) provides automated feedback on student writing. However, the system occasionally produces incorrect explanations and cannot reliably detect when it is uncertain. The developers choose not to inform students of these limitations because they fear it will reduce trust in the system. According to ACM Principle 1.3 (Be honest and trustworthy), what is the MOST ethical design response?",
+      "options": [
+        "Allow the AI-ITS to present its responses as authoritative, since automated tutoring systems are designed to replace human judgment.",
+        "Remove instructor involvement entirely to avoid conflicts of interest between human grading and AI feedback.",
+        "Continue withholding system limitations, since students benefit more from confidence in the tutor than from transparency.",
+        "Disclose the AI-ITS's limitations and uncertainty clearly, so learners and instructors can interpret feedback appropriately."
+      ]
+    },
+    {
+      "question_number": 47,
+      "question": "A company collects employee productivity data (keyboard activity, login times, and software usage) to improve workflow efficiency. A manager later uses the same data to evaluate employees for layoffs, without informing them of this new purpose. According to ACM Principle 1.6 (Respect privacy), what is the MOST ethical concern?",
+      "options": [
+        "Using personal information for a different purpose without disclosure violates individuals' privacy rights.",
+        "The data is company-owned, so employees have no privacy rights in this case.",
+        "Productivity monitoring is always unethical regardless of intent.",
+        "Layoff decisions should be based only on subjective managerial judgment after a board meeting."
+      ]
+    },
+    {
+      "question_number": 48,
+      "question": "A developer is assigned to integrate a machine-learning component into an advising system that will recommend academic pathways for students. The developer has not previously worked with fairness evaluation but assumes standard model accuracy testing is sufficient. Under ACM Principle 2.2, what is the MOST ethical professional response?",
+      "options": [
+        "Deploy the component but include a disclaimer that the model may be imperfect.",
+        "Avoid using the model entirely, since AI systems cannot be ethically deployed in education.",
+        "Proceed, since competence in software engineering implies competence in deploying ML tools.",
+        "Seek relevant knowledge or expert guidance on fairness, bias, and validation before relying on the model for real student decisions."
+      ]
+    },
+    {
+      "question_number": 49,
+      "question": "Which of these statements is not true of the ACM Code of Ethics?",
+      "options": [
+        "The Code is an algorithm for solving ethical problems",
+        "The Code serves as a basis for ethical decision-making",
+        "The Code applies to a computing professional's conduct",
+        "The Code is informed by fundamental ethical principles"
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "What does the ACM Code of Ethics not say about retiring legacy systems?",
+      "options": [
+        "Use care when modifying or retiring systems.",
+        "Users should be notified of the risks of continued use of the unsupported system long before support ends.",
+        "The developer should assist stakeholders' graceful migration from the system to an alternative.",
+        "Users should be immediately forced to move to the newer systems to maintain required levels of security."
+      ]
+    }
+  ]
+}

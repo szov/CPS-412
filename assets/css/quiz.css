@@ -1,0 +1,204 @@
+.question-card {
+    background: var(--bg-card);
+    padding: 2rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    margin-bottom: 2rem;
+}
+
+.card-meta {
+    margin-bottom: 1.25rem;
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.tag-topic {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text-sub);
+    background: var(--primary-light);
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+}
+
+.tag-confidence {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+}
+
+.tag-green {
+    background: var(--conf-green-light);
+    color: var(--conf-green);
+}
+
+.tag-yellow {
+    background: var(--conf-yellow-light);
+    color: var(--conf-yellow);
+}
+
+.tag-red {
+    background: var(--conf-red-light);
+    color: var(--conf-red);
+}
+
+.question-text {
+    font-size: 1.25rem;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 2rem;
+    color: var(--text-main);
+}
+
+.options-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.option-btn {
+    background: transparent;
+    border: 1px solid var(--border);
+    padding: 1rem;
+    border-radius: var(--radius);
+    text-align: left;
+    font-family: inherit;
+    font-size: 0.9375rem;
+    cursor: pointer;
+    transition: background 0.2s, border-color 0.2s, box-shadow 0.2s;
+    display: flex;
+    gap: 1rem;
+    color: var(--text-main);
+}
+
+.option-btn:hover:not(:disabled) {
+    background: var(--primary-light);
+}
+
+.option-btn.selected {
+    border-color: var(--primary);
+    background: var(--primary-light);
+    box-shadow: 0 0 0 2px var(--primary);
+}
+
+.option-letter {
+    color: var(--text-sub);
+    font-weight: 600;
+}
+
+.option-btn.selected-correct { border-color: var(--success); color: var(--success); }
+.option-btn.selected-wrong { border-color: var(--error); color: var(--error); }
+.option-btn.correct-answer { border-color: var(--success); border-style: dashed; }
+
+.feedback-stage {
+    margin-top: 2rem;
+    padding: 1.25rem;
+    border-top: 1px solid var(--border);
+}
+
+.feedback-indicator {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    font-size: 0.875rem;
+}
+
+.correct .feedback-indicator { color: var(--success); }
+.incorrect .feedback-indicator { color: var(--error); }
+
+.explanation-text {
+    color: var(--text-sub);
+    font-size: 0.875rem;
+    margin-bottom: 1.5rem;
+}
+
+.confidence-controls {
+    margin-bottom: 1.5rem;
+}
+
+.confidence-label {
+    font-size: 0.875rem;
+    color: var(--text-sub);
+    margin-bottom: 0.75rem;
+    font-weight: 500;
+}
+
+.confidence-buttons {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.conf-btn {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.875rem 0.5rem;
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg-card);
+    cursor: pointer;
+    transition: border-color 0.2s, background 0.2s, transform 0.2s;
+    font-family: inherit;
+    position: relative;
+}
+
+.conf-btn:hover {
+    transform: translateY(-1px);
+}
+
+.conf-btn.conf-green:hover,
+.conf-btn.conf-green:focus {
+    border-color: var(--conf-green);
+    background: var(--conf-green-light);
+}
+
+.conf-btn.conf-yellow:hover,
+.conf-btn.conf-yellow:focus {
+    border-color: var(--conf-yellow);
+    background: var(--conf-yellow-light);
+}
+
+.conf-btn.conf-red:hover,
+.conf-btn.conf-red:focus {
+    border-color: var(--conf-red);
+    background: var(--conf-red-light);
+}
+
+.conf-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.conf-green .conf-dot { background: var(--conf-green); }
+.conf-yellow .conf-dot { background: var(--conf-yellow); }
+.conf-red .conf-dot { background: var(--conf-red); }
+
+.conf-text {
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: var(--text-main);
+}
+
+.conf-key {
+    position: absolute;
+    top: 4px;
+    right: 6px;
+    font-size: 0.625rem;
+    color: var(--text-sub);
+    background: var(--primary-light);
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-weight: 600;
+}
+
+.btn-reference {
+    display: block;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    font-size: 0.875rem;
+}

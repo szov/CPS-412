@@ -1,0 +1,507 @@
+{
+  "quiz_title": "Green computing",
+  "total_questions": 50,
+  "scraped_at": "2026-04-19T21:32:43.905247",
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which of these data points are used to calculate the energy and emission of a web page (for ex: by websitecarbon.com)",
+      "options": [
+        "Website traffic",
+        "Closed captioning",
+        "Color contrast of images",
+        "Multi-lingual settings"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "____ is a distributed computing framework that brings enterprise applications closer to data sources such as IoT devices or local edge servers.",
+      "options": [
+        "Virtualization",
+        "Containerization",
+        "Gamification",
+        "Edge computing"
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "A functional unit (with respect to ecodesign) is",
+      "options": [
+        "A unit of reference that corresponds to profit margins",
+        "A unit of reference that corresponds to a user goal.",
+        "A unit of reference that is not obvious",
+        "A unit of reference that does not function"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "How does cloud computing contribute to green software practices?",
+      "options": [
+        "By requiring more personal devices per user.",
+        "By increasing the overall power consumption per service.",
+        "By centralizing resources and optimizing server utilization",
+        "By using more servers continuously."
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "The first step in Ecodesign is to",
+      "options": [
+        "Define the functional unit",
+        "Define green computing",
+        "Cost out the design to be economical",
+        "Ensure Economic stability management"
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "The Impact Framework is put forth by the",
+      "options": [
+        "Government of Canada",
+        "Green Software Foundation",
+        "Privacy Commissioner of Canada",
+        "Environmental Office of Canada"
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "Ecodesign is about integrating the environment",
+      "options": [
+        "from the beginning of the design process of a product and at every step of its life-cycle.",
+        "at the very end of its life-cycle.",
+        "at the beginning of the design process.",
+        "at every debug step of a product's life-cycle."
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "Sustainable web design suggests that",
+      "options": [
+        "The user is immediately taken to the last page of a complex process which requires data and documents.",
+        "The usability of the website becomes increasingly challenging for complex processes.",
+        "The user is alerted at the beginning of a complex process to the nature of the required data and documents.",
+        "No complex processes eer be included on a website"
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "70% state that ____ and ____ are in direct conflict.",
+      "options": [
+        "sustainability; compute performance",
+        "sustainability; cost",
+        "cost; performance",
+        "hardware cost; green computing"
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "Which feature is essential in developing green software for mobile devices?",
+      "options": [
+        "High-resolution graphics",
+        "Continuous data syncing",
+        "Energy-efficient background processes",
+        "Frequent automatic updates"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "Ecodesign needs to be applied",
+      "options": [
+        "On the first step of the life-cycle of the service",
+        "On all the steps of the life-cycle of the service",
+        "On the last step of the life-cycle of the service",
+        "On all the unit-testing steps of the life-cycle of the service"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "Plugins in the Impact framework help convert",
+      "options": [
+        "impact into observations",
+        "observations into impact",
+        "impact into measurements",
+        "observations into marketability"
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "Which practice supports the concept of green hardware at the end of its lifecycle?",
+      "options": [
+        "Landfill disposal",
+        "Incineration",
+        "Reuse and recycling of components",
+        "Long-term storage in warehouses"
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "Which strategy helps achieve green software in the realm of data storage?",
+      "options": [
+        "Storing all data indefinitely.",
+        "Using energy-efficient data storage technologies and compressing data when possible.",
+        "Multiplying data storage sites.",
+        "Ensuring data is only stored in physical formats."
+      ]
+    },
+    {
+      "question_number": 15,
+      "question": "What is not an example of a functional unit (with respect to ecodesign)?",
+      "options": [
+        "booking an appointment on the website",
+        "checking your bank balance on the website",
+        "buying a ticket for an event",
+        "adding alt tags to all the images on the homepage"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "Which of these statements is true?",
+      "options": [
+        "Quantum computers are slower than classical computers",
+        "The possibility of quantum computing was first proposed by physicist Richard Feynman in 2022.",
+        "Quantum computing just might save the planet",
+        "Quantum computing requires extremely hot temperatures"
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "Impact Framework allows you to calculate the environmental impacts of your software applications by writing a simple ___ file.",
+      "options": [
+        "config",
+        "plugin",
+        "green",
+        "manifest"
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "___ is a software deployment process that bundles an application’s code with all the files and libraries it needs to run on any infrastructure.",
+      "options": [
+        "Virtualization",
+        "Containerization",
+        "Gamification",
+        "Edge computing"
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "Green software is",
+      "options": [
+        "software that is responsible for emitting higher greenhouse gases.",
+        "software that is responsible for measuring greenhouse gases.",
+        "software that is responsible for emitting fewer greenhouse gases.",
+        "software that is responsible for making greenhouse gases."
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "Why do we need green computing?",
+      "options": [
+        "To increase visibility for Canada",
+        "To address the need to reduce carbon footprints",
+        "To contribute to growing carbon footprints",
+        "To promote a more inclusive work place"
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "How do modular design principles contribute to green hardware?",
+      "options": [
+        "They allow for easier upgrades and repairs; reducing the need for complete replacements.",
+        "They make devices significantly more expensive to produce.",
+        "They use more materials; increasing environmental impact.",
+        "They are purely aesthetic having no practical benefit."
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "Why is power management considered an important feature in green hardware?",
+      "options": [
+        "It ensures that hardware can operate at its maximum capacity at all times.",
+        "It minimizes energy usage when devices are idle or in low-power states",
+        "It allows devices to use the maximum amount of available power.",
+        "It increases the heat generated by devices."
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "The website www.websitecarbon.com provides a methodology to",
+      "options": [
+        "calculate the usability of website",
+        "calculate the carbon emissions of website",
+        "calculate the carbon content required to host the website",
+        "calculate the carbon footprint of the website development team"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "What role does software play in enhancing the green potential of hardware?",
+      "options": [
+        "Software cannot influence hardware sustainability.",
+        "Software increases the hardware's need for power.",
+        "Software development is unrelated to green hardware principles.",
+        "Effective software optimization can reduce the hardware's need for frequent upgrades."
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "Created by the World Wide Web Consortium's Sustainable Web Design community group the Web Sustainability Guidelines consist of ___ recommendations to help teams create more sustainable digital products and services.",
+      "options": [
+        "114",
+        "98",
+        "39",
+        "93"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "What is Green computing?",
+      "options": [
+        "Green computing refers to the design development and implementation of computer systems that have a minimal negative impact on the environment.",
+        "Green computing refers to the design development and implementation of computer systems that have greatest impact on equity",
+        "Green computing refers to the design development and implementation of computer systems that have least impact on equity",
+        "Green computing refers to the design development and implementation of computer systems that have greatest negative impact on the environment"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "What is a benefit of using virtualization technologies in green software development?",
+      "options": [
+        "It duplicates physical hardware needs.",
+        "It decreases the efficiency of resource use.",
+        "It allows for the consolidation of server roles onto fewer physical machines reducing energy usage.",
+        "It simplifies software interfaces."
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "What is ecodesign?",
+      "options": [
+        "the approach to designing technology with the environment in mind.",
+        "the approach to designing technology with minimalism in mind.",
+        "the approach to designing technology with economics in mind.",
+        "All of the above"
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "What defines green software?",
+      "options": [
+        "Software that requires extensive computational resources.",
+        "Software that is designed to be energy-efficient.",
+        "Software that is exclusively used for environmental management.",
+        "Software developed without standard coding practices."
+      ]
+    },
+    {
+      "question_number": 30,
+      "question": "The Impact Framework is not",
+      "options": [
+        "Predictable",
+        "Auditable",
+        "Replicable",
+        "Verifiable"
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "Which of the following is not generally measured by the Impact Framework?",
+      "options": [
+        "Number of developers",
+        "CPU Utilization",
+        "Page views",
+        "Number of installs"
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "Ecodesign is",
+      "options": [
+        "a continuous process.",
+        "a hidden cost.",
+        "a hidden process.",
+        "a one-time optimization process."
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "Which practice contributes to making software greener?",
+      "options": [
+        "Minimizing the code and resources required to perform a task efficiently.",
+        "Designing software that only runs on the latest hardware.",
+        "Increasing the frequency of updates and patches.",
+        "Using less efficient data structures and algorithms."
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "How can software developers reduce the energy consumption of an application?",
+      "options": [
+        "By increasing the memory requirements.",
+        "By optimizing algorithms to reduce CPU intensive processes.",
+        "By utilizing high-performance computing models.",
+        "By expanding the codebase with more features."
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "What role does software scalability play in promoting green software?",
+      "options": [
+        "Scalability increases the number of software instances needed.",
+        "Scalable software can handle increased loads without proportionally increasing resource usage.",
+        "Scalability is unrelated to green software practices.",
+        "Decreasing software scalability is key to reducing energy use."
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "____ contains all the necessary configurations for Impact Framework",
+      "options": [
+        "The manifest file",
+        "The config file",
+        "The Green software foundation framework",
+        "The patent file"
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "How does the use of recycled materials benefit green hardware manufacturing?",
+      "options": [
+        "It increases the hardware's performance.",
+        "It decreases the dependence on new raw materials and reduces landfill waste.",
+        "It enhances the aesthetic appeal of the hardware.",
+        "It makes the hardware more reliable"
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "What is the primary goal of green hardware?",
+      "options": [
+        "To maximize hardware processing power",
+        "To reduce the environmental impact of hardware production and disposal",
+        "To reduce the cost of hardware production",
+        "To decrease the lifespan of hardware without maintenance"
+      ]
+    },
+    {
+      "question_number": 39,
+      "question": "What is a common feature of green hardware related to energy consumption?",
+      "options": [
+        "High energy consumption to maximize performance",
+        "Energy-efficient components that reduce overall power usage",
+        "Use of non-renewable energy sources",
+        "High-performance components regardless of energy consumption"
+      ]
+    },
+    {
+      "question_number": 40,
+      "question": "Sustainable web design requires to",
+      "options": [
+        "Minimize the price a user would pay for your service.",
+        "Provide a way for visitors to use the website for free.",
+        "Provide a way for visitors to find out about your development team.",
+        "Provide a way for visitors to find out about new content and services."
+      ]
+    },
+    {
+      "question_number": 41,
+      "question": "Why is code optimization important for green software?",
+      "options": [
+        "It enhances the graphical user interface.",
+        "It increases the number of necessary server requests.",
+        "It reduces the software's runtime and energy consumption.",
+        "It is only necessary for gaming software."
+      ]
+    },
+    {
+      "question_number": 42,
+      "question": "What impact does efficient software have on hardware sustainability?",
+      "options": [
+        "It requires frequent hardware upgrades.",
+        "It has no effect on hardware sustainability.",
+        "It increases hardware overheating and failures.",
+        "It extends the lifespan of hardware by reducing wear from excessive processing."
+      ]
+    },
+    {
+      "question_number": 43,
+      "question": "Which phase is the most important during ecodesign?",
+      "options": [
+        "The manufacturing phase",
+        "The debug phase",
+        "The install phase",
+        "The licensing phase"
+      ]
+    },
+    {
+      "question_number": 44,
+      "question": "Server and storage virtualization",
+      "options": [
+        "Allows multiple physical servers to run on a single virtual machine",
+        "Allows a single virtual machine to run on a single physical server",
+        "Allows multiple virtual machines to run on a single physical server",
+        "Allows multiple virtual processes to run on a single virtual machine"
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "What impact does designing hardware for easy disassembly have on the environment?",
+      "options": [
+        "It increases the complexity of hardware design.",
+        "It facilitates recycling and reduces waste.",
+        "It has no significant impact on environmental sustainability.",
+        "It decreases the durability of hardware."
+      ]
+    },
+    {
+      "question_number": 46,
+      "question": "A green data center could",
+      "options": [
+        "Implement power management systems that automatically increase power usage of idle servers.",
+        "Deploy high-power servers",
+        "Implement power management systems that automatically shut down or reduce power usage of idle servers.",
+        "follow the TRIPS agreement"
+      ]
+    },
+    {
+      "question_number": 47,
+      "question": "____ is a framework to Model Measure siMulate and Monitor the environmental impacts of software.",
+      "options": [
+        "Green Framework",
+        "Impact Framework",
+        "AODA",
+        "WCAG 2.0"
+      ]
+    },
+    {
+      "question_number": 48,
+      "question": "What does the term e-waste refer to in the context of green hardware?",
+      "options": [
+        "Efficient wireless communication systems",
+        "Waste produced by electronic hardware that is environmentally friendly",
+        "Discarded electronic appliances and devices harmful to the environment",
+        "A new technology in CPU design"
+      ]
+    },
+    {
+      "question_number": 49,
+      "question": "Which of these is not an environmental indicator for Ecodesign?",
+      "options": [
+        "Water consumption",
+        "Resource Use",
+        "Eco-toxicity",
+        "Adding Close captioning"
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "Which certification would you look for to ensure a piece of hardware meets environmental standards?",
+      "options": [
+        "FCC",
+        "ISO 9001",
+        "Energy Star",
+        "CE"
+      ]
+    }
+  ]
+}

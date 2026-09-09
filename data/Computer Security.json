@@ -1,0 +1,508 @@
+{
+  "quiz_title": "Computer Security",
+  "total_questions": 50,
+  "scraped_at": "2026-04-19T21:05:13.634719",
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "One way to make deepfakes uses a _____ which pits two artificial intelligence algorithms against each other.",
+      "options": [
+        "generative adversarial network",
+        "router",
+        "Natural Language Processing approach",
+        "human"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "What does \u201cdouble extortion\u201d refer to in the context of ransomware attacks?",
+      "options": [
+        "Encrypting a victim's data twice to increase decryption difficulty",
+        "Targeting two victims at the same time with the same attack",
+        "Charging the victim two separate ransom payments for the same data",
+        "Encrypting data and also threatening to leak stolen data if the ransom is not paid"
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "Why is cryptocurrency often used in cybercrime-related payments?",
+      "options": [
+        "It is regulated by all governments equally and thus is more equitable",
+        "It requires users to reveal their full identity publicly",
+        "It can only be used within one country, thus providing a protection layer",
+        "It allows for fast and potentially anonymous or pseudonymous transactions"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "___________ is a special form of attack using which hackers' exploit \u2013 human psychology.",
+      "options": [
+        "Insecure network",
+        "Cross Site Scripting",
+        "Social Engineering",
+        "Reverse Engineering"
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "Backdoor trojans are often used to",
+      "options": [
+        "deliver spyware and adware",
+        "perform a data analysis of the user's activities",
+        "help user remember their passwords",
+        "install antivirus software"
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "Implementing effective cybersecurity measures is particularly challenging today because",
+      "options": [
+        "attackers are becoming more innovative",
+        "attacks are becoming simpler",
+        "there are very few attackers",
+        "there are very few attacks"
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "a piece of self-replicating code embedded within another program/host",
+      "options": [
+        "Self-contained program",
+        "able to spread on it's own",
+        "not harmful",
+        "a piece of self-replicating code embedded within another program/host"
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "_____ is a loosely organized international movement of hacktivists",
+      "options": [
+        "Anonymous",
+        "Github",
+        "Reddit",
+        "Discord"
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "What did John Draper use to make free phone calls?",
+      "options": [
+        "Captain Crunch Whistle",
+        "Digital Frequency Machine",
+        "A mini-computer",
+        "A virus"
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "Increasing use of computers leads to",
+      "options": [
+        "decreasing importance of computer security",
+        "growing importance of computer security",
+        "decreasing number of hackers",
+        "growing cost of computers"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "A collection of bot-infected computers controlled by the same command-and-control program is called a",
+      "options": [
+        "botnet",
+        "megabot",
+        "commandbot",
+        "botcommand"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "A software application installed on a single computer that can selectively block network traffic to and from that computer is called a",
+      "options": [
+        "switch",
+        "router",
+        "proxy",
+        "firewall"
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "relies on tricking and deceiving someone to provide secure information",
+      "options": [
+        "is rarely used today",
+        "relies on tricking and deceiving someone to provide secure information",
+        "requires a computer and Internet connection",
+        "never works"
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "Which of the following statements is true?",
+      "options": [
+        "Do not use a word from the dictionary.",
+        "Do not use two-factor authentication.",
+        "Always reuse passwords.",
+        "Do not use long passwords."
+      ]
+    },
+    {
+      "question_number": 15,
+      "question": "________ is the practice of foraging in garbage that has been put out on the street in dumpsters for discarded items that may still be valuable",
+      "options": [
+        "Spamming",
+        "Dumpster diving",
+        "Eavesdropping",
+        "Social Engineering"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "______ prevents legitimate users from making use of a computer service",
+      "options": [
+        "Cross-site scripting",
+        "Social Engineering",
+        "Dumpster Diving",
+        "Denial of service attack"
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "Which of the following does not comes under Social Engineering?",
+      "options": [
+        "Pretexting",
+        "Tailgating",
+        "Phishing",
+        "Spamming"
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "What is a computer worm?",
+      "options": [
+        "It is software that replicates itself in order to spread to other computers.",
+        "It is software designed to analyze and search for open ports.",
+        "It is a software utilized to scan packets on open networks.",
+        "It is a software designed to protect against viruses"
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "______ is a method of attacking a database-driven Web application with improper security",
+      "options": [
+        "Social Engineering",
+        "SQL Injection",
+        "Cross-site scripting",
+        "Dumpster Diving"
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "Cyber crime continues to exist because",
+      "options": [
+        "Legislation around cyber crime has been removed",
+        "Computers have become slower",
+        "Less people use computers",
+        "Criminal organizations make significant amounts of money from malware"
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "As mentioned in class, what does \u201cAI vs AI\u201d in cybersecurity typically refer to?",
+      "options": [
+        "The use of AI by both attackers and defenders to outsmart each other",
+        "AI systems competing with each other to replace human cybersecurity experts entirely",
+        "The elimination of all cyber threats through automation",
+        "AI systems shutting down other AI systems permanently"
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "In cross-site scripting an attacker",
+      "options": [
+        "injects client-side script into a Web site",
+        "replicates malicious code",
+        "uses social engineering to get your password.",
+        "distributes spam"
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "________ is to secretly listen to a conversation",
+      "options": [
+        "Dumpster diving",
+        "Spamming",
+        "Eavesdropping",
+        "Social Engineering"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "A _____ is someone who uses different frequencies to explore communication networks",
+      "options": [
+        "Communicator",
+        "Phreaker",
+        "Frequencer",
+        "Spammer"
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "What is Ransomware-as-a-Service (RaaS)?",
+      "options": [
+        "A cybersecurity service that protects users from ransomware attacks",
+        "A subscription-based model where cybercriminals provide ransomware tools to others for a share of the profits",
+        "A cloud storage system service designed to recover encrypted files",
+        "A subscription-based model service provided by a government program that tracks ransomware attacks globally"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "Identify the oldest phone hacking technique used by hackers to make free calls.",
+      "options": [
+        "Phreaking",
+        "Cracking",
+        "Spamming",
+        "Phishing"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "talking to a person to get the know their password",
+      "options": [
+        "talking to a person to get the know their password",
+        "installing unauthorized code on a installing unauthorized code on a server",
+        "secretly listening to a conversation",
+        "hijacking of an open Web session by capturing a user's cookie"
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "Under the Canadian Criminal Code, which of the following actions constitutes mischief in relation to computer data?",
+      "options": [
+        "Sharing open-source software with others through tools like Github",
+        "Willfully interfering with or denying someone's lawful access to computer data",
+        "Backing up personal files to a secure drive to keep them secure from others",
+        "Accessing publicly available information online from your phone using public internet access"
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "______is a type of software designed to help the user's computer detect viruses and avoid them",
+      "options": [
+        "Adware",
+        "Rootkit",
+        "Antivirus",
+        "Malware"
+      ]
+    },
+    {
+      "question_number": 30,
+      "question": "In the early days of computing hackers were",
+      "options": [
+        "shipped away to a different city",
+        "stoned to death.",
+        "mostly using postal mail.",
+        "praised for their skills."
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "What is a key risk associated with AI-generated phishing attacks?",
+      "options": [
+        "They can create highly personalized and convincing messages at scale",
+        "They require physical access to a victim's device to run the LLM",
+        "They are easier to detect because they contain more spelling errors",
+        "They only target large corporations and not individuals"
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "Under the Canadian Criminal Code, what does \u201cmischief\u201d generally refer to?",
+      "options": [
+        "Causing minor inconvenience without affecting property",
+        "Engaging in harmless pranks with no consequences",
+        "Borrowing property without permission but returning it later",
+        "Willfully destroying or interfering with the lawful use, enjoyment, or operation of property"
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "Which of these is NOT a benefit of Online Voting?",
+      "options": [
+        "Voter privacy",
+        "Votes would be counted more quickly",
+        "More people would vote",
+        "Cost less money"
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "Which of the following statements is false?",
+      "options": [
+        "Do not reuse passwords.",
+        "Do not use long passwords.",
+        "Enable two-factor authentication if available.",
+        "Give ridiculous answers to security questions."
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "Which of these was not an original meaning of hacker?",
+      "options": [
+        "Crackers",
+        "System innovator",
+        "Risk taker",
+        "Explorer"
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "It is never a good idea to join an unknown Wireless access point beacuse",
+      "options": [
+        "you cannot play games on it.",
+        "you maybe hacked.",
+        "it maybe slow.",
+        "it maybe faster than your home network.",
+        "it could stop working."
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "What is a type of spyware that displays pop-up advertisements related to user's activity?",
+      "options": [
+        "Virus",
+        "Adware",
+        "Spy Worm",
+        "Spam"
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "BlueSecurity failed because it",
+      "options": [
+        "could not protect its customers from DDoS attacks and virus-laced emails",
+        "became too expensive",
+        "was asked to shut down by the Government.",
+        "was taken over by a large corporation"
+      ]
+    },
+    {
+      "question_number": 39,
+      "question": "Someone who controls a botnet is called a",
+      "options": [
+        "bot",
+        "bot herder",
+        "spammer",
+        "white-hat hacker"
+      ]
+    },
+    {
+      "question_number": 40,
+      "question": "Which of the following refers to programs that surreptitiously monitor activity on a computer system and report that information to others without the user's consent?",
+      "options": [
+        "Spyware",
+        "Malware",
+        "Botnet",
+        "Adware"
+      ]
+    },
+    {
+      "question_number": 41,
+      "question": "Watching an individual enter a security code on a keypad without her permission is known as _______",
+      "options": [
+        "Shoulder surfing",
+        "Finger scanning",
+        "Code watching",
+        "Keypad eavesdropping"
+      ]
+    },
+    {
+      "question_number": 42,
+      "question": "in a distributed denial of service attack",
+      "options": [
+        "in a distributed denial of service attack",
+        "to send spam",
+        "to scrape the web",
+        "all of the above"
+      ]
+    },
+    {
+      "question_number": 43,
+      "question": "Ransomware attacks most commonly target which type of organizations?",
+      "options": [
+        "Individuals with no internet access",
+        "Organizations that provide essential public services and cannot afford downtime",
+        "Organizations that store all their data in paper format and do not use digital systems",
+        "Small business owners that do not use computers and have limited digital literacy"
+      ]
+    },
+    {
+      "question_number": 44,
+      "question": "Attempting to gain unauthorized access to data in a system or computer.",
+      "options": [
+        "Attempting to gain unauthorized access to data in a system or computer.",
+        "Disseminating misinformation",
+        "Spreading computer viruses.",
+        "Attempting to access your own data in computer."
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "The aim of a _____ attack is not to steal information but to disrupt a server's ability to respond to its clients",
+      "options": [
+        "DoS",
+        "Cross-site scripting",
+        "Social Engineering",
+        "Dumpster Diving"
+      ]
+    },
+    {
+      "question_number": 46,
+      "question": "What is cybersecurity?",
+      "options": [
+        "the practice of protecting people from pickpockets.",
+        "the practice of protecting systems and programs from digital attacks.",
+        "the practice of securing emails.",
+        "the practice of protecting mobile phones."
+      ]
+    },
+    {
+      "question_number": 47,
+      "question": "at least six times more expensive than paper voting",
+      "options": [
+        "at least six times more expensive than paper voting",
+        "not accessible to people with home computers",
+        "an obvious target for a DDoS attack",
+        "better for user privacy"
+      ]
+    },
+    {
+      "question_number": 48,
+      "question": "Who was the worlds most wanted hacker in the 90s?",
+      "options": [
+        "Kevin Mitnik",
+        "John Draper",
+        "Bill Gates",
+        "Josh Draper"
+      ]
+    },
+    {
+      "question_number": 49,
+      "question": "What is social engineering?",
+      "options": [
+        "Using engineering for social good.",
+        "Working together as a society to improve Computer Engineering.",
+        "Working together as a society to improve Engineering Eductaion.",
+        "The use of deception to manipulate individuals into divulging confidential or personal information that may be used for fraudulent purposes."
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "Cyber attacks are usually aimed at:",
+      "options": [
+        "Protecting computers",
+        "Accessing changing or destroying sensitive information",
+        "Protecting people",
+        "Upgrading networks one day at a time"
+      ]
+    }
+  ]
+}

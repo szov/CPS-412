@@ -1,0 +1,509 @@
+{
+  "quiz_title": "CS as a Catalyst",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "What is the application of scientific knowledge for practical purposes?",
+      "options": [
+        "Society",
+        "Morality",
+        "Technology",
+        "Ethics"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "What systematizes, defends and recommends concepts for moral conduct?",
+      "options": [
+        "Society",
+        "Ethics",
+        "Technology",
+        "Morality"
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "What is an example of an artificial intelligence (AI) chatbot that uses natural language processing to create humanlike conversational dialogue.",
+      "options": [
+        "PyCharm",
+        "ChatGPT",
+        "Eclipse",
+        "XCode"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "______ is simply a set of steps used to complete a specific task.",
+      "options": [
+        "A data structure",
+        "An algorithm",
+        "A solution",
+        "Code"
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "A moral principle often used while building self-driving cars is:",
+      "options": [
+        "Love thy neighbor",
+        "Be brave",
+        "Return favors",
+        "Minimize harm"
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "What is a group of individuals involved in persistent social interaction?",
+      "options": [
+        "Society",
+        "Technology",
+        "Morality",
+        "Ethics"
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "What is the study of processes that interact with data and that can be represented as data in the form of programs?",
+      "options": [
+        "Computational Thinking",
+        "Computer Science",
+        "Prompt Engineering",
+        "Software Engineering"
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "Who is Muḥammad al-Khwārizmī?",
+      "options": [
+        "Mathematician who is often credited with being the father of algorithms.",
+        "Famous painter who contributed to Computer Graphics",
+        "Inventor of the pencil",
+        "Visionary in Artificial Intelligence"
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "Who has a big role in fuelling worries about job loss?",
+      "options": [
+        "Children",
+        "Media",
+        "Computer Engineers",
+        "Computer Scientists"
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "A ______ was an ancient memory aid device used to record and document numbers or quantities or even messages.",
+      "options": [
+        "tally stick",
+        "paper",
+        "calculator",
+        "pencil"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "_____ is the on-demand availability of computer system resources especially data storage and computing power.",
+      "options": [
+        "Cloud computing",
+        "Quantum computing",
+        "Cyber computing",
+        "Digital computing"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "This robot is a weed-killing crop scanner:",
+      "options": [
+        "Bee-Bot",
+        "Dash",
+        "Lettucebot",
+        "Plantobot"
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "Computer Science is a discipline of ______ - many found inside technology",
+      "options": [
+        "ideas",
+        "code",
+        "hard statistical calculations",
+        "memory chips"
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "Pandora's curiosity released all evils into the world, leaving only _______ behind",
+      "options": [
+        "humans",
+        "joy",
+        "hope",
+        "viciousness"
+      ]
+    },
+    {
+      "question_number": 15,
+      "question": "Russian Multiplication (that we tried in class) was an example of how we can use different ______ to get to the same solution.",
+      "options": [
+        "algorithms",
+        "people",
+        "drawings",
+        "stories"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "What is a technology invented in 1795 by Nicholas-Jacques Conte?",
+      "options": [
+        "Television",
+        "Pencil",
+        "Chocolate",
+        "Computer"
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "The tally stick fire of 1834 is an example of:",
+      "options": [
+        "Hacking dates back to the 1800s.",
+        "Privacy matters.",
+        "Tally sticks were not useful for record keeping.",
+        "All technology has risk."
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "A social problem where image search can be impactful is:",
+      "options": [
+        "Finding missing children",
+        "Finding the right dog walker",
+        "Running",
+        "Upgrading your RAM"
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "The world's first professional computer programmers were:",
+      "options": [
+        "Anna Wilson; John Brown; Anna Jones; Ruth Wilson; George Johnson and Helen Wilson ​",
+        "Kay McNulty; Betty Snyder; Marlyn Wescoff; Ruth Lichterman; Betty Jean Jennings and Fran Bilas",
+        "Mary Jones; Charles Garcia; William Wilson; William Miller; Ruth Jones and Margaret Smith",
+        "William Davis; William Garcia; Mary Miller; George Johnson; Anna Garcia and Charles Davis"
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "Computer Science gives us the opportunity to",
+      "options": [
+        "make sure society is static.",
+        "transport sand.",
+        "talk to Martians.",
+        "reinvent things."
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "What referes to the concept that: Computers are all around us: in our pockets; on our wrists; in our cars; even in our household appliances.",
+      "options": [
+        "Everyday computing",
+        "Movable computing",
+        "Computing for all",
+        "Ubiquitous computing"
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "Self-driving car dilemmas reveal that",
+      "options": [
+        "self-driving cars are needed in the future.",
+        "everyone loves cars.",
+        "moral choices are not universal.",
+        "self-driving cars have no future."
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "The promises and perils of Computer Science are often compared to",
+      "options": [
+        "a pink cat",
+        "a sleeping dog",
+        "Pandora's box",
+        "Shrek"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "Google's old slogan that Steven Levy mentioned as being coined in 2003 is",
+      "options": [
+        "Don't be evil.",
+        "Do no evil.",
+        "Be good",
+        "Do be evil"
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "AI development, nuclear technology, genetic engineering have been compared to the story of Prometheus for their",
+      "options": [
+        "Simplicity of use",
+        "Lack of human involvement",
+        "Financial profitability",
+        "Unintended consequences"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "Many computers during World War II were ____, and they frequently had degrees in mathematics",
+      "options": [
+        "women",
+        "little children",
+        "professors",
+        "men"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "_____ is a compiled English-like computer programming language designed for business use.",
+      "options": [
+        "COBOL",
+        "Java",
+        "C#",
+        "Python"
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "What term is used to describe a high-speed Internet connection?",
+      "options": [
+        "World Wide Web",
+        "the Matrix",
+        "hypertext",
+        "Internet2",
+        "broadband"
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "Why are computers generally better at weather forecasting than humans?",
+      "options": [
+        "Computers can be indoors",
+        "Humans always lie",
+        "The number of parameters that are needed for the calculations are huge",
+        "They are not impacted by the weather"
+      ]
+    },
+    {
+      "question_number": 30,
+      "question": "When was the spring-loaded mousetrap invented jeopardizing the jobs of existing rat catchers?",
+      "options": [
+        "1796",
+        "1794",
+        "1894",
+        "1976"
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "The active smuggling trade in graphite from the graphite mines near Keswick during the Napoleonic wars shows poor",
+      "options": [
+        "engineering.",
+        "use of technology.",
+        "communication.",
+        "morality."
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "What is a way of organizing and storing data in a computer so that it can be accessed and used efficiently?",
+      "options": [
+        "Data structure",
+        "Flow chart",
+        "Code",
+        "Algorithm"
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "High-level programming languages were developed in order to?",
+      "options": [
+        "improve the computation speed of computers.",
+        "make the programming faster and less prone to errors.",
+        "make it possible to program computers in English.",
+        "speed up the translation between English and French during world war II."
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "The two principal catalysts for the Information Age have been",
+      "options": [
+        "telephones and television networks.",
+        "radio and television.",
+        "computers and communication networks.",
+        "newspapers and magazines.",
+        "books and pamphlets."
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "Which of these jobs no longer exists?",
+      "options": [
+        "Food critic",
+        "Park ranger",
+        "Personal Assisstant",
+        "Pin setter"
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "An emerging job title in recent times is",
+      "options": [
+        "Phrenologist",
+        "AI Ethicist",
+        "Physiognomist",
+        "iPhone Accessorizer"
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "The 20th century was about",
+      "options": [
+        "physics and engineering",
+        "digital arts",
+        "online communication",
+        "big data revolution"
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "_____ was first compiled in 1958 and was designed primarily for numerical calculations and it has many built-in functions for mathematical operations.",
+      "options": [
+        "Java",
+        "C#",
+        "Fortran",
+        "Python"
+      ]
+    },
+    {
+      "question_number": 39,
+      "question": "Technological change often causes",
+      "options": [
+        "no change.",
+        "less happiness.",
+        "more happiness.",
+        "societal change."
+      ]
+    },
+    {
+      "question_number": 40,
+      "question": "These notched sticks were used throughout history for record keeping",
+      "options": [
+        "Rulers",
+        "Chopsticks",
+        "Tally sticks",
+        "Walking Sticks"
+      ]
+    },
+    {
+      "question_number": 41,
+      "question": "The mechanical adding machines of Pascal and Leibniz were not widely adopted because?",
+      "options": [
+        "they could not handle fractions.",
+        "they were unreliable.",
+        "they were difficult to program.",
+        "they were expensive."
+      ]
+    },
+    {
+      "question_number": 42,
+      "question": "The 19th century was about",
+      "options": [
+        "the industrial revolution",
+        "the digital revolution",
+        "the internet",
+        "genetic engineering"
+      ]
+    },
+    {
+      "question_number": 43,
+      "question": "_____ is a calculating tool and is also called a counting frame.",
+      "options": [
+        "Calculator",
+        "Digipen",
+        "Abacus",
+        "Computer"
+      ]
+    },
+    {
+      "question_number": 44,
+      "question": "What is the differentiation of intentions, decisions and actions between those that are considered acceptable and those that are not?",
+      "options": [
+        "Society",
+        "Morality",
+        "Technology",
+        "Ethics"
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "_____ considers the challenges in making computers useful and usable and accessible",
+      "options": [
+        "Cyber security",
+        "Human-Computer interaction",
+        "Software engineering",
+        "Data analysis"
+      ]
+    },
+    {
+      "question_number": 46,
+      "question": "One of the first and most important applications of the ARPANET was",
+      "options": [
+        "disseminating anti-Communist propaganda to American citizens.",
+        "voice mail.",
+        "spreading computer viruses.",
+        "stealing secrets from the Soviet Union.",
+        "email."
+      ]
+    },
+    {
+      "question_number": 47,
+      "question": "The 21st century is often referred to as",
+      "options": [
+        "the golden age",
+        "the industrial age",
+        "the digital age",
+        "the agricultural age"
+      ]
+    },
+    {
+      "question_number": 48,
+      "question": "______ is the study of a non-classical model of computation.",
+      "options": [
+        "Ethics",
+        "Software engineering",
+        "Cyber security",
+        "Quantum computing"
+      ]
+    },
+    {
+      "question_number": 49,
+      "question": "Who is considered the first computer programmer in the world?",
+      "options": [
+        "Tim Berners-Lee",
+        "Ada Lovelace",
+        "Benjamin Franklin",
+        "Donald Knuth"
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "____ refers to criminal activities carried out by means of computers or the internet.",
+      "options": [
+        "Cyber crime",
+        "Law and order",
+        "Digital menacing",
+        "Cyber security"
+      ]
+    }
+  ]
+}

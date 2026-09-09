@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CPS 412 Mastery — a three-pass study app for CPS 412 (Social Issues, Ethics and Professionalism). Filter, drill, simulate. Progress syncs across devices.">
+    <meta name="theme-color" content="#475569">
+    <meta property="og:title" content="CPS 412 Mastery">
+    <meta property="og:description" content="Three-pass studying for CPS 412: filter, deep dive, simulate. With cross-device cloud sync.">
+    <meta property="og:type" content="website">
+    <title>CPS 412 Mastery</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23475569'/%3E%3Ctext x='16' y='22' font-family='sans-serif' font-size='16' font-weight='bold' fill='white' text-anchor='middle'%3EC%3C/text%3E%3C/svg%3E">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <a class="skip-link" href="#main">Skip to quiz</a>
+    <div class="app-container">
+        <header class="header">
+            <div class="header-top">
+                <div class="brand">
+                    <h1>CPS 412 Mastery</h1>
+                </div>
+                <div class="header-actions">
+                    <button id="syncBtn" class="btn-text" title="Sync progress">
+                        <span id="syncStatusDot" class="sync-dot" aria-hidden="true"></span>
+                        <span id="syncStatusText">Sync</span>
+                    </button>
+                    <button id="themeToggle" class="btn-text" title="Toggle theme">Theme</button>
+                </div>
+            </div>
+
+            <div class="pass-nav" id="passNav">
+                <button class="pass-btn active" data-pass="1">
+                    <span class="pass-number">1</span>
+                    <span class="pass-name">Filter</span>
+                </button>
+                <button class="pass-btn" data-pass="2">
+                    <span class="pass-number">2</span>
+                    <span class="pass-name">Deep Dive</span>
+                </button>
+                <button class="pass-btn" data-pass="3">
+                    <span class="pass-number">3</span>
+                    <span class="pass-name">Simulation</span>
+                </button>
+            </div>
+
+            <div class="pass-descriptions">
+                <div class="pass-description active" data-pass="1">
+                    Answer & categorize: Green (know it), Yellow (unsure), Red (no idea)
+                </div>
+                <div class="pass-description" data-pass="2">
+                    Focus on Yellow & Red. Use reference when stuck.
+                </div>
+                <div class="pass-description" data-pass="3">
+                    Full simulation. No hints. Aim for 100%!
+                </div>
+            </div>
+
+            <div class="header-stats">
+                <div class="stat-pill">
+                    <span class="stat-label" id="masteryLabel">Progress</span>
+                    <strong id="masteryPercent">0/0</strong>
+                </div>
+                <div class="stat-pill confidence-stat">
+                    <span class="stat-label">Green</span>
+                    <strong id="greenCount" class="stat-green">0</strong>
+                </div>
+                <div class="stat-pill confidence-stat">
+                    <span class="stat-label">Yellow</span>
+                    <strong id="yellowCount" class="stat-yellow">0</strong>
+                </div>
+                <div class="stat-pill confidence-stat">
+                    <span class="stat-label">Red</span>
+                    <strong id="redCount" class="stat-red">0</strong>
+                </div>
+            </div>
+        </header>
+
+        <main class="main-stage" id="main">
+            <nav class="topic-nav" id="studyControls"></nav>
+
+            <div class="stage-content">
+                <div id="loadingSection" class="status-box">
+                    <div class="loader"></div>
+                    <p>Loading...</p>
+                </div>
+
+                <div id="emptyState" class="status-box hidden">
+                    <h2>No questions</h2>
+                    <p>Try clearing filters or review mode.</p>
+                    <button id="resetFilters" class="btn-action">Reset Filters</button>
+                </div>
+
+                <div id="quizSection" class="quiz-stage hidden">
+                    <div class="question-card">
+                        <div class="card-meta">
+                            <span id="topicTag" class="tag-topic">Topic</span>
+                            <span id="confidenceTag" class="tag-confidence hidden">Review</span>
+                        </div>
+
+                        <h2 id="questionText" class="question-text">...</h2>
+
+                        <div id="optionsContainer" class="options-stack"></div>
+
+                        <div id="feedbackContainer" class="feedback-stage hidden" aria-live="polite">
+                            <div class="feedback-indicator">
+                                <span id="feedbackResult">Result</span>
+                            </div>
+                            <p id="explanationText" class="explanation-text"></p>
+
+                            <div id="confidenceControls" class="confidence-controls hidden">
+                                <p class="confidence-label">How well do you know this?</p>
+                                <div class="confidence-buttons">
+                                    <button id="confGreen" class="conf-btn conf-green">
+                                        <span class="conf-dot" aria-hidden="true"></span>
+                                        <span class="conf-text">Know It</span>
+                                        <span class="conf-key">1</span>
+                                    </button>
+                                    <button id="confYellow" class="conf-btn conf-yellow">
+                                        <span class="conf-dot" aria-hidden="true"></span>
+                                        <span class="conf-text">Unsure</span>
+                                        <span class="conf-key">2</span>
+                                    </button>
+                                    <button id="confRed" class="conf-btn conf-red">
+                                        <span class="conf-dot" aria-hidden="true"></span>
+                                        <span class="conf-text">No Idea</span>
+                                        <span class="conf-key">3</span>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <button id="viewReferenceBtn" class="btn-text btn-reference hidden">
+                                View Reference (H)
+                            </button>
+
+                            <button id="nextQuestion" class="btn-action">
+                                Next Question
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <section class="footer-progress">
+                <div class="progress-grid" id="topicProgress"></div>
+            </section>
+        </main>
+    </div>
+
+    <div id="syncModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="syncModalTitle">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="syncModalTitle">Cloud Sync</h2>
+                <button id="closeModal" class="modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="sync-code-section">
+                    <label for="syncCodeInput">Sync Code:</label>
+                    <div class="sync-code-input-group">
+                        <input type="text" id="syncCodeInput" placeholder="Enter your sync code">
+                        <button id="saveSyncCode" class="btn-secondary">Save</button>
+                    </div>
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="rememberSyncCode">
+                        Remember this code
+                    </label>
+                    <p class="sync-help">Use the same code on all your devices</p>
+                </div>
+
+                <div class="sync-status-section">
+                    <div class="sync-status-item">
+                        <span class="status-label">Last synced:</span>
+                        <span id="lastSyncedTime">Never</span>
+                    </div>
+                    <div class="sync-status-item">
+                        <span class="status-label">Local progress:</span>
+                        <span id="localProgressCount">0 answered</span>
+                    </div>
+                </div>
+
+                <div class="sync-actions">
+                    <button id="uploadBtn" class="btn-action btn-upload">
+                        Save to Cloud
+                    </button>
+                    <button id="downloadBtn" class="btn-action btn-download">
+                        Load from Cloud
+                    </button>
+                </div>
+
+                <div class="autosave-section">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="autosaveEnabled" checked>
+                        Autosave after every question
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="toastContainer" class="toast-container" aria-live="polite" aria-atomic="false"></div>
+
+    <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

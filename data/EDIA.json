@@ -1,0 +1,507 @@
+{
+  "quiz_title": "EDIA",
+  "total_questions": 50,
+  "scraped_at": "2026-04-19T21:32:04.694435",
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "In terms of accessibility, what is essential for online learning platforms in computer science?",
+      "options": [
+        "Adding interactive quizzes like Poll everywhere",
+        "Having a teacher available at all times to answer any student questions",
+        "Increasing the number of different modules offered",
+        "Ensuring that all videos have closed captions"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "What is the goal of inclusion initiatives in the workplace?",
+      "options": [
+        "To increase the number of employees in the company",
+        "To ensure that all employees feel respected and valued for their unique contributions",
+        "To standardize employee behavior across different verticals",
+        "To minimize operational costs as the number of employees increases"
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "What does the term accessibility primarily refer to in the context of Computer Science?",
+      "options": [
+        "The speed of a computer network",
+        "The user-friendliness of software",
+        "The extent to which a computer system is available to as many people as possible",
+        "The cost of software"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "How can virtual reality technology be used to improve inclusion in computer science education?",
+      "options": [
+        "By creating immersive experiences that cater to diverse learners",
+        "By replacing all traditional learning methods",
+        "By focusing solely on visual content",
+        "By increasing the immersive experience alongside the overall cost of educational materials"
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "Which strategy is effective in promoting diversity in tech hiring practices?",
+      "options": [
+        "Utilizing software that reduces bias in resume screening",
+        "Conducting all interviews via text chat only",
+        "Focusing on candidates from top-tier universities",
+        "Limiting job postings to local areas"
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "What is an example of a shortcut our brain takes to make snap judgements about people?",
+      "options": [
+        "Unconcious bias",
+        "Critical thinking",
+        "The Lucifer effect",
+        "The Thinking Loss effect"
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "What is an example of an inclusion practice in a computer science workplace?",
+      "options": [
+        "Implementing mandatory overtime",
+        "Offering flexible working hours to accommodate different needs",
+        "Increasing the number of team meetings",
+        "Centralizing decision-making processes"
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "Equality is",
+      "options": [
+        "Treating everyone the same which can sometimes be discriminatory or result in unequal outcomes.",
+        "Treating everyone the same since it is non-discriminatory and always results in equal outcomes.",
+        "Treating everyone differently so it can result in unequal outcomes.",
+        "Treating everyone differently so it can result in equal outcomes."
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "When people are drawn to others who share the same hobbies or pursuits it creates an affinity bias. This can",
+      "options": [
+        "help divese friendships flourish in the workplace",
+        "provide ways to make software more green",
+        "affect resume-screening and career advancement",
+        "help promote equity in the workplace"
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "___ is inherent beliefs, attitudes and practices about the superiority of able-bodied people over those who live with a disability.",
+      "options": [
+        "Intersectionality",
+        "Decolonization",
+        "Ableism",
+        "Accessibility"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "Experts have found that the first step to tackling unconsious bias is to",
+      "options": [
+        "experience unconsious bias",
+        "become aware of it",
+        "conduct a survey on unconsious bias",
+        "read newspaper articles from the 1800s"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "Our brain processes only a small fraction of the information available to it everyday. This means we are",
+      "options": [
+        "always required to seek help with search engines to close the gap.",
+        "unable to distinguish between equity and equality issues around us.",
+        "becoming a more inclusive society.",
+        "constantly takng shortcuts to fill in the blanks leading to bias."
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "What is an example of UDL assistive technology?",
+      "options": [
+        "Speech to text software",
+        "Photo editing software",
+        "Word processing software",
+        "Phishing detection software"
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "An inclusive website should provide:",
+      "options": [
+        "Only high bandwidth content",
+        "Navigation that requires hover functionality",
+        "Content in multiple languages",
+        "Fixed font sizes and color schemes"
+      ]
+    },
+    {
+      "question_number": 15,
+      "question": "How can UDL principles aid in designing software tutorials?",
+      "options": [
+        "By offering tutorials only in advanced programming languages",
+        "Providing step-by-step instructions in multiple formats",
+        "Focusing on competitive coding challenges",
+        "Encouraging memorization of codes"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "What is the main purpose of the AODA?",
+      "options": [
+        "To standardize healthcare across Canada",
+        "To protect the environment",
+        "To ensure accessibility for all Ontarians with disabilities",
+        "To unify educational standards across provinces"
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "Basic principles of accessibility are",
+      "options": [
+        "Perceivable - Operable - Understandable - Robust (POUR)",
+        "Perceivable - Expandable - Accountable - Robust (PEAR)",
+        "Teachable - Operable - Understandable - Robust (TOUR)",
+        "Perceivable - Operable - Understandable - Teachable (POUT)"
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "AODA compliance applies to any information found on a web page or web application, including",
+      "options": [
+        "Text and images only",
+        "Forms and sounds only",
+        "Text; images; forms and sounds.",
+        "Text; images; forms; sounds and code"
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "What is a primary benefit of having diverse perspectives in a software development team?",
+      "options": [
+        "It enhances the team's ability to address a wider range of user needs and experiences",
+        "It allows the team to work fewer hours",
+        "It decreases the overall budget of the project",
+        "It simplifies communication processes"
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "Crenshaw describes ___ as a lens or a prism for seeing the way in which various forms of inequality often operate together and exacerbate each other.",
+      "options": [
+        "Equity",
+        "Intersectionality",
+        "Diversity",
+        "Accessibility"
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "AODA applies to websites and content published after",
+      "options": [
+        "Jan 1 2021",
+        "Jan 1 2012",
+        "Jan 1 2011",
+        "Jan 1 2022"
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "To promote equity in a computer science class, an instructor should",
+      "options": [
+        "Teach at a consistent pace for all students",
+        "Provide advanced students with more complex material only",
+        "Offer additional support to students who need it",
+        "Use only one teaching method"
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "Inclusive design in software development emphasizes",
+      "options": [
+        "Targeting the largest possible market",
+        "Creating different versions of a product for each user group",
+        "Designing products that are adaptable to diverse users from the outset",
+        "Prioritizing speed over usability"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "Which principle is most crucial when designing software to be accessible",
+      "options": [
+        "Aesthetics",
+        "Consistency",
+        "Usability",
+        "Speed"
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "What is a primary goal of inclusive design in CS?",
+      "options": [
+        "To minimize the cost of software development",
+        "To design software products that are usable by as many people as possible",
+        "To increase the complexity of user interfaces",
+        "To focus on a niche market"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "Equity in computer science education ensures that:",
+      "options": [
+        "All students receive an identical curriculum",
+        "Students have access to resources they need to succeed",
+        "Every student uses the same type of computer",
+        "Classrooms are equipped with the latest technology"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "Gender equity in computer science is important because",
+      "options": [
+        "It ensures compliance with local laws",
+        "It leads to better financial performance of big companies",
+        "It makes people spend more time away from their families",
+        "It encourages a balanced team dynamics and promotes idea diversity"
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "When did AODA become law in Ontario?",
+      "options": [
+        "June 13 2005",
+        "June 13 2001",
+        "June 13 2007",
+        "June 13 2021"
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "How can an app be designed to be more inclusive for users with limited hand mobility?",
+      "options": [
+        "By requiring precise gestures for interaction",
+        "By providing voice control options",
+        "By increasing touch target sizes only",
+        "By using fixed screen orientations"
+      ]
+    },
+    {
+      "question_number": 30,
+      "question": "Open-source algorithm often fail to recognise faces of people from certain enthnic groups. This is due to",
+      "options": [
+        "Updates not being installed regularly",
+        "Coded explicit bias",
+        "Coded unconscious bias",
+        "Coded consious bias"
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "Apple Canada continuously works to meet the Web Content Accessibility Guidelines (WCAG) 2.1 Level ____, to comply with Ontario's accessibility laws.",
+      "options": [
+        "2.1",
+        "A",
+        "AAA",
+        "AA"
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "A tendency to rely too heavily on the first piece of information people receive on a topic leads to",
+      "options": [
+        "Anchor bias",
+        "Confirmation bias",
+        "Belief bias",
+        "Like me bias"
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "___ is an approach being adopted by technologists to ensure that products and services are accessible by all.",
+      "options": [
+        "Universal design",
+        "Cultural design",
+        "Critical design",
+        "Temporal design"
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "is a methodology that considers the full range of human diversity to deliver experiences that are usable and open to all.",
+      "options": [
+        "Exclusive design",
+        "Inclusive design",
+        "Critical design",
+        "Temporal design"
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "What is an essential consideration when developing user interfaces to promote inclusivity?",
+      "options": [
+        "Prioritizing visual appeal over functionality",
+        "Ensuring that all text is small for uniformity",
+        "Incorporating feedback mechanisms that cater to different senses",
+        "Designing exclusively for touchscreen devices"
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "Which feature is crucial for making a website accessible to individuals with visual impairments?",
+      "options": [
+        "High-resolution images",
+        "Auto-playing video content",
+        "Complex navigation menus",
+        "Text-to-speech functionality"
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "Which practice promotes equity in a technology-focused classroom?",
+      "options": [
+        "Giving every student the same grade",
+        "Allocating more resources to students who need them to achieve similar educational outcomes as their peers",
+        "Focusing only on students who perform well since they would contribute the most to society",
+        "Using only one form of technology which provides the least pedagogical benefits to the students"
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "Which AODA standard requires service providers to allow assistive devices in their premises?",
+      "options": [
+        "Customer Service Standard",
+        "Employment Standard",
+        "Information and Communications Standard",
+        "Transportation Standard"
+      ]
+    },
+    {
+      "question_number": 39,
+      "question": "Which of these factors is a barrier to accessibility in software development?",
+      "options": [
+        "Non-customizable text sizes",
+        "versioning of software",
+        "unit testing for indvidual features",
+        "black box testing for testing functionality of the application"
+      ]
+    },
+    {
+      "question_number": 40,
+      "question": "One way to adhere to principles of Universal design is by",
+      "options": [
+        "Using strong color contrast to avoid stigmatizing users with color blindnes",
+        "Providing internet services in remote locations universally",
+        "Lowering media consumption of globally available content like cat videos",
+        "Creating new social media platforms."
+      ]
+    },
+    {
+      "question_number": 41,
+      "question": "A tendency to favor and recall information in a way that supports one's prior beliefs or values leads to",
+      "options": [
+        "Anchor bias",
+        "Confirmation bias",
+        "Belief bias",
+        "Like me bias"
+      ]
+    },
+    {
+      "question_number": 42,
+      "question": "By adhering to the principles of Universal design, this writing software",
+      "options": [
+        "accomodates a wide rangle of individual preferences and abilities",
+        "offers different prices to different people based on shopper profiles",
+        "increases literacy through transparency of pricing",
+        "writes your essays automatically"
+      ]
+    },
+    {
+      "question_number": 43,
+      "question": "A diverse team in a tech company is important because:",
+      "options": [
+        "It ensures the company can operate 24/7",
+        "It contributes to a variety of perspectives that can drive innovation",
+        "It simplifies managerial processes",
+        "It reduces the need for marketing"
+      ]
+    },
+    {
+      "question_number": 44,
+      "question": "One way to practice intentional inclusion is by",
+      "options": [
+        "Using multiple colors on a website",
+        "Using a monochrome scheme on a website",
+        "Learning from the experts",
+        "Learning from different people"
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "If you hear or state a salary range before negotiating you may adjust expectations or demands according to that number. This is due to",
+      "options": [
+        "Anchor bias",
+        "Confirmation bias",
+        "Belief bias",
+        "Like me bias"
+      ]
+    },
+    {
+      "question_number": 46,
+      "question": "Removing information such as name address college name or graduation date from candidates applications in an effort to minimize unconscious bias is referred to as",
+      "options": [
+        "Blind Hiring",
+        "Consious Hiring",
+        "Demographic Hiring",
+        "Collective Hiring"
+      ]
+    },
+    {
+      "question_number": 47,
+      "question": "Inclusion differs from diversity in that inclusion specifically focuses on:",
+      "options": [
+        "The numbers or percentages of different groups represented",
+        "How well the contributions, presence and perspectives of different groups are valued and integrated into an environment",
+        "The separation of roles within teams",
+        "Hiring practices"
+      ]
+    },
+    {
+      "question_number": 48,
+      "question": "The AODA sets ___ as its standard for compliance and those who need to comply with this law must ensure their website meets this level of conformance.",
+      "options": [
+        "WCAG 2.0 Level AAA",
+        "WCAG 3.0 Level AA",
+        "WCAG 3.0 Level A",
+        "WCAG 2.0 Level AA"
+      ]
+    },
+    {
+      "question_number": 49,
+      "question": "Which of these is a principle of Universal design",
+      "options": [
+        "Tolerance for Error",
+        "High physical effort",
+        "Rigidity of use",
+        "All of the above"
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "Which initiative is most likely to support diversity in Computer Science Education?",
+      "options": [
+        "Scholarship programs for underrepresented minorities",
+        "Increased advertising spending on technology products",
+        "Development of advanced algorithms",
+        "Expansion of sales targets"
+      ]
+    }
+  ]
+}

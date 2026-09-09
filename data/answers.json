@@ -1,0 +1,2524 @@
+{
+  "quizzes": {
+    "ACM Code of Ethics": [
+      {
+        "question_number": 1,
+        "correct_option_index": 3,
+        "explanation": "Principle 1.5 explicitly requires computing professionals to respect copyrights and credit creators."
+      },
+      {
+        "question_number": 2,
+        "correct_option_index": 2,
+        "explanation": "Principle 1.7 states that confidentiality should be honored; protected info shouldn't be disclosed publicly."
+      },
+      {
+        "question_number": 3,
+        "correct_option_index": 1,
+        "explanation": "The Code is not an algorithm; professionals must weigh multiple principles relevant to the specific context."
+      },
+      {
+        "question_number": 4,
+        "correct_option_index": 2,
+        "explanation": "Principle 1.5 mandates respecting the work required to produce new ideas and avoiding misappropriation."
+      },
+      {
+        "question_number": 5,
+        "correct_option_index": 1,
+        "explanation": "Principle 1.6 states personal information should be used for legitimate ends with valid consent/understanding."
+      },
+      {
+        "question_number": 6,
+        "correct_option_index": 1,
+        "explanation": "Principle 1.7: Confidentiality encompasses protected data like NDA material, regardless of who you talk to."
+      },
+      {
+        "question_number": 7,
+        "correct_option_index": 1,
+        "explanation": "Principle 2.6: Professionals must honor contracts, agreements, and assigned responsibilities."
+      },
+      {
+        "question_number": 8,
+        "correct_option_index": 3,
+        "explanation": "Slide 6 (Principle 1.2) defines harm broadly, including health, safety, security, and privacy."
+      },
+      {
+        "question_number": 9,
+        "correct_option_index": 3,
+        "explanation": "Principle 2.2 encourages extending knowledge and contributing to the profession."
+      },
+      {
+        "question_number": 10,
+        "correct_option_index": 2,
+        "explanation": "Principle 2.3: Know and respect existing laws (like GDPR/PIPEDA) pertaining to professional work."
+      },
+      {
+        "question_number": 11,
+        "correct_option_index": 3,
+        "explanation": "Principle 1.7 / 2.8: Unauthroized disclosure is a violation; reporting to authorities is the correct path."
+      },
+      {
+        "question_number": 12,
+        "correct_option_index": 2,
+        "explanation": "Principle 1.2 (Avoid Harm) and 1.4 (Fairness) require continuous evaluation of impacts and risks."
+      },
+      {
+        "question_number": 13,
+        "correct_option_index": 1,
+        "explanation": "Principle 1.6 emphasizes the integrity and confidentiality of personal data."
+      },
+      {
+        "question_number": 14,
+        "correct_option_index": 3,
+        "explanation": "Principle 1.5: Credit creators and respect license agreements."
+      },
+      {
+        "question_number": 15,
+        "correct_option_index": 2,
+        "explanation": "Principle 2.5: Give comprehensive evaluations; testing ensures reliability and safety."
+      },
+      {
+        "question_number": 16,
+        "correct_option_index": 0,
+        "explanation": "Principle 1.3: Be honest and trustworthy; disclose conflicts of interest."
+      },
+      {
+        "question_number": 17,
+        "correct_option_index": 2,
+        "explanation": "Referencing AutoTutor (Week 3, Slide 8) which uses eye tracking and body pressure sensors."
+      },
+      {
+        "question_number": 18,
+        "correct_option_index": 1,
+        "explanation": "Principle 1.3: Be honest; statements must be based on objective evidence."
+      },
+      {
+        "question_number": 19,
+        "correct_option_index": 3,
+        "explanation": "This statement is FALSE. Principle 1.6 requires respecting privacy and consent regardless of performance."
+      },
+      {
+        "question_number": 20,
+        "correct_option_index": 3,
+        "explanation": "Principle 1.6: Only use info for legitimate ends and with respect for user rights."
+      },
+      {
+        "question_number": 21,
+        "correct_option_index": 2,
+        "explanation": "Principle 3.4 (Leadership): Users' needs must be clearly articulated and validated."
+      },
+      {
+        "question_number": 22,
+        "correct_option_index": 2,
+        "explanation": "Principle 1.4: Be fair and take action not to discriminate (cultural bias)."
+      },
+      {
+        "question_number": 23,
+        "correct_option_index": 1,
+        "explanation": "Standard definition of ITS (Week 3, Slide 7)."
+      },
+      {
+        "question_number": 24,
+        "correct_option_index": 2,
+        "explanation": "Principle 2.1: Strive for high quality process and products (readable code)."
+      },
+      {
+        "question_number": 25,
+        "correct_option_index": 2,
+        "explanation": "Preamble/Principle 1.1: The public interest is paramount."
+      },
+      {
+        "question_number": 26,
+        "correct_option_index": 2,
+        "explanation": "Principle 2.1 implies striving for quality/maintainability is a matter of professional dignity."
+      },
+      {
+        "question_number": 27,
+        "correct_option_index": 0,
+        "explanation": "General Moral Principles (1.4 Fairness) require respectful treatment of colleagues."
+      },
+      {
+        "question_number": 28,
+        "correct_option_index": 0,
+        "explanation": "Principle 2.3: Obey laws unless there is a compelling ethical justification not to."
+      },
+      {
+        "question_number": 29,
+        "correct_option_index": 3,
+        "explanation": "Principle 1.7: Confidentiality allows disclosure only with proper authorization."
+      },
+      {
+        "question_number": 30,
+        "correct_option_index": 0,
+        "explanation": "Principle 1.3: Transparency regarding potential conflicts of interest is required."
+      },
+      {
+        "question_number": 31,
+        "correct_option_index": 3,
+        "explanation": "Key benefit of ITS is immediate, personalized feedback (Week 3, Slide 8)."
+      },
+      {
+        "question_number": 32,
+        "correct_option_index": 2,
+        "explanation": "Principle 3.5: Leaders should support policies protecting dignity, privacy, and security."
+      },
+      {
+        "question_number": 33,
+        "correct_option_index": 0,
+        "explanation": "Principle 2.4: Accept and provide appropriate professional review."
+      },
+      {
+        "question_number": 34,
+        "correct_option_index": 1,
+        "explanation": "Principle 1.3/2.5: Limitations and risks should be clearly disclosed."
+      },
+      {
+        "question_number": 35,
+        "correct_option_index": 3,
+        "explanation": "Key components: Domain Model, Student Model, Pedagogical Model (Week 3, Slide 7)."
+      },
+      {
+        "question_number": 36,
+        "correct_option_index": 2,
+        "explanation": "Principle 1.4 explicitly forbids discrimination, harassment, and bullying."
+      },
+      {
+        "question_number": 37,
+        "correct_option_index": 0,
+        "explanation": "Principle 2.5: Give comprehensive evaluations of systems and their risks."
+      },
+      {
+        "question_number": 38,
+        "correct_option_index": 0,
+        "explanation": "Principle 1.5: Credit creators. 'Publicly available' does not mean 'claim as your own'."
+      },
+      {
+        "question_number": 39,
+        "correct_option_index": 2,
+        "explanation": "The Code applies ethical principles to professional conduct (Week 3, Slide 4)."
+      },
+      {
+        "question_number": 40,
+        "correct_option_index": 1,
+        "explanation": "Principle 2.4: Seek review to ensure quality and correctness."
+      },
+      {
+        "question_number": 41,
+        "correct_option_index": 3,
+        "explanation": "Aligns with Principles 1.4 (Fairness) and 1.6 (Privacy/Transparency)."
+      },
+      {
+        "question_number": 42,
+        "correct_option_index": 0,
+        "explanation": "Principle 1.3: Be honest about qualifications and limitations."
+      },
+      {
+        "question_number": 43,
+        "correct_option_index": 3,
+        "explanation": "Principle 3.6: Leaders must create opportunities for professional development."
+      },
+      {
+        "question_number": 44,
+        "correct_option_index": 1,
+        "explanation": "Implied by Principle 2.1 and 2.5 (Quality and Risk management)."
+      },
+      {
+        "question_number": 45,
+        "correct_option_index": 2,
+        "explanation": "The Code outlines ethical responsibilities (Week 3, Slide 4)."
+      },
+      {
+        "question_number": 46,
+        "correct_option_index": 3,
+        "explanation": "Principle 1.3: Be honest; disclose limitations so users aren't misled."
+      },
+      {
+        "question_number": 47,
+        "correct_option_index": 0,
+        "explanation": "Principle 1.6: Only use personal info for the agreed-upon legitimate ends."
+      },
+      {
+        "question_number": 48,
+        "correct_option_index": 3,
+        "explanation": "Principle 2.2: Acquire competence (specifically regarding new topics like AI bias)."
+      },
+      {
+        "question_number": 49,
+        "correct_option_index": 0,
+        "explanation": "This statement is FALSE. Ethics is a guide, not a mechanical algorithm (Week 4, Slide 20)."
+      },
+      {
+        "question_number": 50,
+        "correct_option_index": 3,
+        "explanation": "This statement is NOT in the code. Migration should be graceful (Principle 3.1 Social Responsibility)."
+      }
+    ],
+    "CS as a Catalyst": [
+      {
+        "question_number": 1,
+        "correct_option_index": 2,
+        "explanation": "Technology is the application of scientific knowledge for practical purposes (Slide 25)."
+      },
+      {
+        "question_number": 2,
+        "correct_option_index": 1,
+        "explanation": "Ethics systematizes, defends, and recommends concepts for moral conduct (Slide 25)."
+      },
+      {
+        "question_number": 3,
+        "correct_option_index": 1,
+        "explanation": "ChatGPT is the standard example of GenAI chatbots discussed in Week 1."
+      },
+      {
+        "question_number": 4,
+        "correct_option_index": 1,
+        "explanation": "An algorithm is a set of steps to complete a specific task (Slide 35)."
+      },
+      {
+        "question_number": 5,
+        "correct_option_index": 3,
+        "explanation": "Minimize harm (or Avoid Harm) is a core principle in ACM/Auto-driving ethics (Slide 5)."
+      },
+      {
+        "question_number": 6,
+        "correct_option_index": 0,
+        "explanation": "Society is a group of individuals involved in persistent social interaction (Slide 25)."
+      },
+      {
+        "question_number": 7,
+        "correct_option_index": 1,
+        "explanation": "Computer Science is the study of processes that interact with data (Slide 23)."
+      },
+      {
+        "question_number": 8,
+        "correct_option_index": 0,
+        "explanation": "Mu\u1e25ammad al-Khw\u0101rizm\u012b is the father of algorithms (Slide 35)."
+      },
+      {
+        "question_number": 9,
+        "correct_option_index": 1,
+        "explanation": "Slide 32 explicitly states: 'Media generates fear'."
+      },
+      {
+        "question_number": 10,
+        "correct_option_index": 0,
+        "explanation": "Tally sticks were ancient memory aid devices (Slide 43)."
+      },
+      {
+        "question_number": 11,
+        "correct_option_index": 0,
+        "explanation": "Cloud computing is on-demand availability of resources."
+      },
+      {
+        "question_number": 12,
+        "correct_option_index": 2,
+        "explanation": "Lettucebot is the weed-killing crop scanner (Standard Week 1 Example)."
+      },
+      {
+        "question_number": 13,
+        "correct_option_index": 0,
+        "explanation": "Computer Science is a discipline of ideas (Slide 48)."
+      },
+      {
+        "question_number": 14,
+        "correct_option_index": 2,
+        "explanation": "Pandora's box released evils, leaving only hope behind (Slide 27)."
+      },
+      {
+        "question_number": 15,
+        "correct_option_index": 0,
+        "explanation": "Russian Peasant Multiplication is an algorithm (Slide 39)."
+      },
+      {
+        "question_number": 16,
+        "correct_option_index": 1,
+        "explanation": "Nicholas-Jacques Conte invented the modern pencil in 1795 (Slide 30 Image)."
+      },
+      {
+        "question_number": 17,
+        "correct_option_index": 3,
+        "explanation": "The Tally Stick fire illustrates that 'All technology has risk' (Slide 43)."
+      },
+      {
+        "question_number": 18,
+        "correct_option_index": 0,
+        "explanation": "Finding missing children is a key social impact of image search/AI."
+      },
+      {
+        "question_number": 19,
+        "correct_option_index": 1,
+        "explanation": "Kay McNulty, Betty Snyder, et al. were the ENIAC programmers (Slide 46 Image)."
+      },
+      {
+        "question_number": 20,
+        "correct_option_index": 3,
+        "explanation": "Computer Science changes everything/reinvent things (Slide 23)."
+      },
+      {
+        "question_number": 21,
+        "correct_option_index": 3,
+        "explanation": "Ubiquitous computing refers to computers being everywhere (Intro concept)."
+      },
+      {
+        "question_number": 22,
+        "correct_option_index": 2,
+        "explanation": "Self-driving dilemmas (Trolley Problem) show moral choices are not universal (Slide 22)."
+      },
+      {
+        "question_number": 23,
+        "correct_option_index": 2,
+        "explanation": "The promises/perils are compared to Pandora's Box (Slide 26)."
+      },
+      {
+        "question_number": 24,
+        "correct_option_index": 0,
+        "explanation": "Google's old slogan was 'Don't be evil' (Slide 2)."
+      },
+      {
+        "question_number": 25,
+        "correct_option_index": 3,
+        "explanation": "Prometheus story relates to scientific responsibility and unintended consequences (Slide 27)."
+      },
+      {
+        "question_number": 26,
+        "correct_option_index": 0,
+        "explanation": "Many 'computers' (human calculators) in WWII were women (Slide 46)."
+      },
+      {
+        "question_number": 27,
+        "correct_option_index": 0,
+        "explanation": "COBOL is the English-like business language (Slide 46)."
+      },
+      {
+        "question_number": 28,
+        "correct_option_index": 4,
+        "explanation": "Broadband is the term for high-speed internet connection."
+      },
+      {
+        "question_number": 29,
+        "correct_option_index": 2,
+        "explanation": "Big Data: The number of parameters needed is huge (Slide 18/22)."
+      },
+      {
+        "question_number": 30,
+        "correct_option_index": 2,
+        "explanation": "The spring-loaded mousetrap was 1894 (Slide 31)."
+      },
+      {
+        "question_number": 31,
+        "correct_option_index": 3,
+        "explanation": "Smuggling is a failure of morality."
+      },
+      {
+        "question_number": 32,
+        "correct_option_index": 0,
+        "explanation": "A data structure organizes/stores data efficiently (Slide 35)."
+      },
+      {
+        "question_number": 33,
+        "correct_option_index": 1,
+        "explanation": "High-level languages (FORTRAN/COBOL) made programming faster/less error-prone (Slide 46)."
+      },
+      {
+        "question_number": 34,
+        "correct_option_index": 2,
+        "explanation": "Computers and communication networks are the catalysts (Slide 46/48)."
+      },
+      {
+        "question_number": 35,
+        "correct_option_index": 3,
+        "explanation": "Pin setter is a job that was automated away (Slide 30)."
+      },
+      {
+        "question_number": 36,
+        "correct_option_index": 1,
+        "explanation": "AI Ethicist is an emerging job (Slide 24 Dr. Evil context)."
+      },
+      {
+        "question_number": 37,
+        "correct_option_index": 0,
+        "explanation": "20th Century was largely defined by physics and engineering advances (Slide 42)."
+      },
+      {
+        "question_number": 38,
+        "correct_option_index": 2,
+        "explanation": "Fortran (1958) was for numerical calculations (Slide 46)."
+      },
+      {
+        "question_number": 39,
+        "correct_option_index": 3,
+        "explanation": "Technological change often causes societal change (Slide 48)."
+      },
+      {
+        "question_number": 40,
+        "correct_option_index": 2,
+        "explanation": "Tally sticks were notched sticks for record keeping (Slide 43)."
+      },
+      {
+        "question_number": 41,
+        "correct_option_index": 1,
+        "explanation": "Early mechanical calculators were unreliable (Slide 44)."
+      },
+      {
+        "question_number": 42,
+        "correct_option_index": 0,
+        "explanation": "The 19th century was about the industrial revolution (Slide 42)."
+      },
+      {
+        "question_number": 43,
+        "correct_option_index": 2,
+        "explanation": "The Abacus is a calculating tool/counting frame (Slide 36)."
+      },
+      {
+        "question_number": 44,
+        "correct_option_index": 1,
+        "explanation": "Morality is the differentiation of intentions/decisions (Slide 25)."
+      },
+      {
+        "question_number": 45,
+        "correct_option_index": 1,
+        "explanation": "HCI considers making computers useful/usable (Slide 16)."
+      },
+      {
+        "question_number": 46,
+        "correct_option_index": 4,
+        "explanation": "Email was the killer app of ARPANET (Slide 16)."
+      },
+      {
+        "question_number": 47,
+        "correct_option_index": 2,
+        "explanation": "The 21st century is the digital age (Slide 47)."
+      },
+      {
+        "question_number": 48,
+        "correct_option_index": 3,
+        "explanation": "Quantum computing is a non-classical model (Slide 47)."
+      },
+      {
+        "question_number": 49,
+        "correct_option_index": 1,
+        "explanation": "Ada Lovelace is the first programmer (Slide 44)."
+      },
+      {
+        "question_number": 50,
+        "correct_option_index": 0,
+        "explanation": "Cyber crime refers to criminal activities via computer (Week 2 context)."
+      }
+    ],
+    "Ethics 1": [
+      {
+        "question_number": 1,
+        "correct_option_index": 1,
+        "explanation": "The moral point of view respects other people and their core values (Slide 4)."
+      },
+      {
+        "question_number": 2,
+        "correct_option_index": 2,
+        "explanation": "Society is an association organized under rules to advance member good (Slide 5)."
+      },
+      {
+        "question_number": 3,
+        "correct_option_index": 0,
+        "explanation": "Morality refers to rules of conduct (Slide 5)."
+      },
+      {
+        "question_number": 4,
+        "correct_option_index": 4,
+        "explanation": "Ethics is a rational examination (Slide 5), branch of philosophy, and evaluation of behavior."
+      },
+      {
+        "question_number": 5,
+        "correct_option_index": 3,
+        "explanation": "Ethical decisions consider the impact on others (Slide 4)."
+      },
+      {
+        "question_number": 6,
+        "correct_option_index": 2,
+        "explanation": "Cultural Relativism: cultures prioritize different values (Slide 22)."
+      },
+      {
+        "question_number": 7,
+        "correct_option_index": 3,
+        "explanation": "Empathy helps understand others' perspectives (General Ethics)."
+      },
+      {
+        "question_number": 8,
+        "correct_option_index": 1,
+        "explanation": "Considering consequences helps mitigate harm (Slide 12 Pseudoinefficacy)."
+      },
+      {
+        "question_number": 9,
+        "correct_option_index": 3,
+        "explanation": "Fairness means decisions do not unjustly favor one party (Slide 4)."
+      },
+      {
+        "question_number": 10,
+        "correct_option_index": 3,
+        "explanation": "Accountability implies taking responsibility for actions (Slide 4)."
+      },
+      {
+        "question_number": 11,
+        "correct_option_index": 3,
+        "explanation": "Dilemmas arise when rules conflict (Slide 40 - Weakness of Kant)."
+      },
+      {
+        "question_number": 12,
+        "correct_option_index": 3,
+        "explanation": "Integrity is upholding principles even when challenging (Kantian Duty)."
+      },
+      {
+        "question_number": 13,
+        "correct_option_index": 0,
+        "explanation": "Communities allow specialization (Slide 3)."
+      },
+      {
+        "question_number": 14,
+        "correct_option_index": 1,
+        "explanation": "Responsible members take others' needs into account (Slide 4)."
+      },
+      {
+        "question_number": 15,
+        "correct_option_index": 0,
+        "explanation": "He Jiankui modified DNA of embryos (Slide 4 image context)."
+      },
+      {
+        "question_number": 16,
+        "correct_option_index": 3,
+        "explanation": "Josef Mengele was the 'Angel of Death' (Slide 4)."
+      },
+      {
+        "question_number": 17,
+        "correct_option_index": 0,
+        "explanation": "Core values include Life, Happiness, Ability to accomplish goals (Slide 4)."
+      },
+      {
+        "question_number": 18,
+        "correct_option_index": 0,
+        "explanation": "Rules advance the good of members over time (Slide 5)."
+      },
+      {
+        "question_number": 19,
+        "correct_option_index": 1,
+        "explanation": "Morality is what people ought to do (Slide 5)."
+      },
+      {
+        "question_number": 20,
+        "correct_option_index": 2,
+        "explanation": "Ethics is the rational examination of morality (Slide 5)."
+      },
+      {
+        "question_number": 21,
+        "correct_option_index": 0,
+        "explanation": "We used perceptual illusions (Slide 6/7)."
+      },
+      {
+        "question_number": 22,
+        "correct_option_index": 1,
+        "explanation": "This is the Identifiable Victim Effect (Slide 11)."
+      },
+      {
+        "question_number": 23,
+        "correct_option_index": 1,
+        "explanation": "Shows morality is subjective and imperfect (Slide 13)."
+      },
+      {
+        "question_number": 24,
+        "correct_option_index": 3,
+        "explanation": "Ethics is the philosophical study of morality (Slide 5)."
+      },
+      {
+        "question_number": 25,
+        "correct_option_index": 2,
+        "explanation": "Workable Ethical Theory produces persuasive explanations (Slide 20)."
+      },
+      {
+        "question_number": 26,
+        "correct_option_index": 3,
+        "explanation": "We need WET to explain algorithms involving human choice (Slide 20)."
+      },
+      {
+        "question_number": 27,
+        "correct_option_index": 2,
+        "explanation": "Relativism: morals are relative to context (Slide 22)."
+      },
+      {
+        "question_number": 28,
+        "correct_option_index": 3,
+        "explanation": "Cultural Relativism: 'right' is what society says is right (Slide 22)."
+      },
+      {
+        "question_number": 29,
+        "correct_option_index": 2,
+        "explanation": "It makes judgments subjective and variable (Slide 22)."
+      },
+      {
+        "question_number": 30,
+        "correct_option_index": 1,
+        "explanation": "Societies cannot judge others (Slide 23)."
+      },
+      {
+        "question_number": 31,
+        "correct_option_index": 3,
+        "explanation": "Values are valid only within their cultural context (Slide 22)."
+      },
+      {
+        "question_number": 32,
+        "correct_option_index": 0,
+        "explanation": "Right in one culture can be wrong in another (Slide 22)."
+      },
+      {
+        "question_number": 33,
+        "correct_option_index": 0,
+        "explanation": "It prevents moral criticism of harmful practices (Slide 23)."
+      },
+      {
+        "question_number": 34,
+        "correct_option_index": 1,
+        "explanation": "By understanding/respecting frameworks (Slide 23 Pros)."
+      },
+      {
+        "question_number": 35,
+        "correct_option_index": 3,
+        "explanation": "It doesn't account for evolution of moral guidelines (Slide 23 Cons)."
+      },
+      {
+        "question_number": 36,
+        "correct_option_index": 2,
+        "explanation": "Divine Command: Good actions are those aligned with God's will (Slide 24)."
+      },
+      {
+        "question_number": 37,
+        "correct_option_index": 0,
+        "explanation": "By consulting divine commands in holy books (Slide 24)."
+      },
+      {
+        "question_number": 38,
+        "correct_option_index": 3,
+        "explanation": "Euthyphro's Dilemma: morality is arbitrary if dependent on will (Slide 24)."
+      },
+      {
+        "question_number": 39,
+        "correct_option_index": 1,
+        "explanation": "God is the ultimate authority (Slide 25)."
+      },
+      {
+        "question_number": 40,
+        "correct_option_index": 0,
+        "explanation": "Egoism: Focus on self-interest (Slide 26)."
+      },
+      {
+        "question_number": 41,
+        "correct_option_index": 1,
+        "explanation": "Personal well-being is the aim (Slide 26)."
+      },
+      {
+        "question_number": 42,
+        "correct_option_index": 1,
+        "explanation": "Sharing data for profit without consent is acting in self-interest (Egoism)."
+      },
+      {
+        "question_number": 43,
+        "correct_option_index": 0,
+        "explanation": "Self-interest can lead to blatantly immoral behavior (Slide 27)."
+      },
+      {
+        "question_number": 44,
+        "correct_option_index": 3,
+        "explanation": "Kant: Good will/Intention and Duty (Slide 28)."
+      },
+      {
+        "question_number": 45,
+        "correct_option_index": 1,
+        "explanation": "Categorical Imperative 1st Formulation: Universal Law (Slide 30)."
+      },
+      {
+        "question_number": 46,
+        "correct_option_index": 1,
+        "explanation": "Yes, because he acted out of duty (Slide 29 example)."
+      },
+      {
+        "question_number": 47,
+        "correct_option_index": 1,
+        "explanation": "Right if intention was to respect honesty as universal duty (Slide 30)."
+      },
+      {
+        "question_number": 48,
+        "correct_option_index": 0,
+        "explanation": "No, because the rule 'claim credit for others work' is self-defeating (Slide 35)."
+      },
+      {
+        "question_number": 49,
+        "correct_option_index": 0,
+        "explanation": "Kantianism is a Workable Ethical Theory (Slide 40)."
+      },
+      {
+        "question_number": 50,
+        "correct_option_index": 1,
+        "explanation": "Trolley problem explores Utility vs Rules (Slide 20)."
+      }
+    ],
+    "Ethics 2": [
+      {
+        "question_number": 1,
+        "correct_option_index": 1,
+        "explanation": "Slide 3: Bentham and Mill are the founders of Utilitarianism (Benefits > Harms)."
+      },
+      {
+        "question_number": 2,
+        "correct_option_index": 1,
+        "explanation": "Slide 5: The Principle of Utility is the foundation of Utilitarianism."
+      },
+      {
+        "question_number": 3,
+        "correct_option_index": 3,
+        "explanation": "Slide 6: In Utilitarianism, morality is about consequences, not intent."
+      },
+      {
+        "question_number": 4,
+        "correct_option_index": 0,
+        "explanation": "Slide 6: Utilitarianism is explicitly defined as a consequentialist theory."
+      },
+      {
+        "question_number": 5,
+        "correct_option_index": 0,
+        "explanation": "Slide 11 (Cons): Utilitarianism struggles because all benefits/harms must be measured on a single scale, which is difficult."
+      },
+      {
+        "question_number": 6,
+        "correct_option_index": 0,
+        "explanation": "Slide 7: The conclusion was reached because the $39M benefit exceeded the $30M cost."
+      },
+      {
+        "question_number": 7,
+        "correct_option_index": 0,
+        "explanation": "Slide 9: Rule Utilitarianism focuses on adopting rules that increase total happiness."
+      },
+      {
+        "question_number": 8,
+        "correct_option_index": 0,
+        "explanation": "Slide 9: Rule Utilitarianism applies the principle to moral rules, not specific actions."
+      },
+      {
+        "question_number": 9,
+        "correct_option_index": 1,
+        "explanation": "Slide 9: Act Utilitarianism applies the principle to individual actions."
+      },
+      {
+        "question_number": 10,
+        "correct_option_index": 3,
+        "explanation": "Slide 10: The analysis concluded that the harm of normalizing malware outweighed the benefits."
+      },
+      {
+        "question_number": 11,
+        "correct_option_index": 0,
+        "explanation": "Slide 11: A major challenge/feature is that all consequences must be measured on a single scale to be calculated."
+      },
+      {
+        "question_number": 12,
+        "correct_option_index": 0,
+        "explanation": "Slide 5: Explicitly states 'Principle of Utility (Greatest Happiness Principle)'."
+      },
+      {
+        "question_number": 13,
+        "correct_option_index": 0,
+        "explanation": "Slide 3: Jeremy Bentham and John Stuart Mill."
+      },
+      {
+        "question_number": 14,
+        "correct_option_index": 3,
+        "explanation": "Slide 6: It is a consequentialist theory."
+      },
+      {
+        "question_number": 15,
+        "correct_option_index": 1,
+        "explanation": "Slide 8: 'Susceptible to the problem of moral luck' is listed as a Con of Act Utilitarianism."
+      },
+      {
+        "question_number": 16,
+        "correct_option_index": 0,
+        "explanation": "Slide 11: It ignores the problem of an unjust distribution of good consequences."
+      },
+      {
+        "question_number": 17,
+        "correct_option_index": 2,
+        "explanation": "Slide 13: Hobbes described the 'state of nature' as nasty, brutish, and short."
+      },
+      {
+        "question_number": 18,
+        "correct_option_index": 2,
+        "explanation": "Slide 15: Negative rights are guaranteed by others leaving you alone."
+      },
+      {
+        "question_number": 19,
+        "correct_option_index": 3,
+        "explanation": "Slide 15: Absolute rights are guaranteed without exception."
+      },
+      {
+        "question_number": 20,
+        "correct_option_index": 2,
+        "explanation": "Slide 22: Modern writers refer to moral virtues as virtues of character."
+      },
+      {
+        "question_number": 21,
+        "correct_option_index": 0,
+        "explanation": "Slide 25: A vice prevents flourishing/happiness."
+      },
+      {
+        "question_number": 22,
+        "correct_option_index": 0,
+        "explanation": "Slide 22: Moral virtue is developed by habitually performing the right action."
+      },
+      {
+        "question_number": 23,
+        "correct_option_index": 1,
+        "explanation": "Slide 22: Virtue is a disposition to act AND feel in a certain way (deriving pleasure)."
+      },
+      {
+        "question_number": 24,
+        "correct_option_index": 0,
+        "explanation": "Slide 12: Definition of Social Contract."
+      },
+      {
+        "question_number": 25,
+        "correct_option_index": 0,
+        "explanation": "Slide 12: Individuals give up natural rights in a Social Contract."
+      },
+      {
+        "question_number": 26,
+        "correct_option_index": 0,
+        "explanation": "Slide 12: Example states they agreed to let the government decide."
+      },
+      {
+        "question_number": 27,
+        "correct_option_index": 1,
+        "explanation": "Slide 20: Cons include 'May unjustly treat people incapable of upholding contract' (often associated with feminist/race critiques)."
+      },
+      {
+        "question_number": 28,
+        "correct_option_index": 3,
+        "explanation": "Slide 15: Negative right."
+      },
+      {
+        "question_number": 29,
+        "correct_option_index": 0,
+        "explanation": "Slide 15: Positive right obligates others to do something."
+      },
+      {
+        "question_number": 30,
+        "correct_option_index": 2,
+        "explanation": "Slide 15: Absolute right."
+      },
+      {
+        "question_number": 31,
+        "correct_option_index": 3,
+        "explanation": "Slide 15: Limited right."
+      },
+      {
+        "question_number": 32,
+        "correct_option_index": 0,
+        "explanation": "Slide 15: Freedom of speech is listed as a Negative Right."
+      },
+      {
+        "question_number": 33,
+        "correct_option_index": 1,
+        "explanation": "Slide 15: Free schooling is listed as a Positive Right."
+      },
+      {
+        "question_number": 34,
+        "correct_option_index": 0,
+        "explanation": "Slide 15: Freedom from torture is listed as an Absolute Right."
+      },
+      {
+        "question_number": 35,
+        "correct_option_index": 3,
+        "explanation": "Slide 15: Right to liberty is listed as a Limited Right (can be lawfully restricted)."
+      },
+      {
+        "question_number": 36,
+        "correct_option_index": 0,
+        "explanation": "Historical context referenced in Week 1 Slide 46 (ENIAC women)."
+      },
+      {
+        "question_number": 37,
+        "correct_option_index": 1,
+        "explanation": "Slide 17: This is Rawls's first principle, known as the Greatest Equal Liberty Principle."
+      },
+      {
+        "question_number": 38,
+        "correct_option_index": 0,
+        "explanation": "Slide 20: A listed Con is 'Some actions have multiple characterizations'."
+      },
+      {
+        "question_number": 39,
+        "correct_option_index": 0,
+        "explanation": "Slide 21: Virtue ethics considers emotions and relationships."
+      },
+      {
+        "question_number": 40,
+        "correct_option_index": 3,
+        "explanation": "Slide 22: Intellectual virtues are associated with reasoning."
+      },
+      {
+        "question_number": 41,
+        "correct_option_index": 2,
+        "explanation": "Slide 22: Moral virtues are virtues of character."
+      },
+      {
+        "question_number": 42,
+        "correct_option_index": 0,
+        "explanation": "Slide 23: Happiness derives from living a life of virtue."
+      },
+      {
+        "question_number": 43,
+        "correct_option_index": 3,
+        "explanation": "Slide 21/27: It is FALSE that emotions don't play a role; Virtue ethics says they DO."
+      },
+      {
+        "question_number": 44,
+        "correct_option_index": 1,
+        "explanation": "Slide 28: A fallacy is invalid reasoning (e.g., Slippery Slope)."
+      },
+      {
+        "question_number": 45,
+        "correct_option_index": 0,
+        "explanation": "Slide 30: Relativism is not considered a workable ethical theory for this course."
+      },
+      {
+        "question_number": 46,
+        "correct_option_index": 0,
+        "explanation": "Slide 5: Utilitarianism (Greatest Happiness Principle)."
+      },
+      {
+        "question_number": 47,
+        "correct_option_index": 2,
+        "explanation": "Slide 21: Virtue ethics focuses on character."
+      },
+      {
+        "question_number": 48,
+        "correct_option_index": 0,
+        "explanation": "Utilitarianism maximizes the good (saving a life). Highest chance of survival maximizes that outcome."
+      },
+      {
+        "question_number": 49,
+        "correct_option_index": 0,
+        "explanation": "Prioritizing essential services prevents the greatest harm (death/fire), aligning with Utility."
+      },
+      {
+        "question_number": 50,
+        "correct_option_index": 1,
+        "explanation": "Prioritizing 'care' and 'fairness' as character traits aligns with Virtue Ethics."
+      }
+    ],
+    "Networked Communications": [
+      {
+        "question_number": 1,
+        "correct_option_index": 3,
+        "explanation": "Radio, Cinema, and Live theater all declined due to TV (Slide 15)."
+      },
+      {
+        "question_number": 2,
+        "correct_option_index": 3,
+        "explanation": "Volume refers to quantity of data (Slide 47 - Big Data)."
+      },
+      {
+        "question_number": 3,
+        "correct_option_index": 0,
+        "explanation": "SEO spam attacks deluge sites with keywords."
+      },
+      {
+        "question_number": 4,
+        "correct_option_index": 0,
+        "explanation": "The lighthouse joke illustrates knowing who your endpoint is (Slide 4)."
+      },
+      {
+        "question_number": 5,
+        "correct_option_index": 1,
+        "explanation": "Velocity refers to speed of data generation (Slide 47)."
+      },
+      {
+        "question_number": 6,
+        "correct_option_index": 2,
+        "explanation": "Runners were human messengers (Slide 5)."
+      },
+      {
+        "question_number": 7,
+        "correct_option_index": 3,
+        "explanation": "Phishing usually has urgent/bad grammar, not a professional tone (Slide 43)."
+      },
+      {
+        "question_number": 8,
+        "correct_option_index": 1,
+        "explanation": "Communication required physical movement (Slide 4)."
+      },
+      {
+        "question_number": 9,
+        "correct_option_index": 4,
+        "explanation": "A wiki allows multiple people to contribute and edit content."
+      },
+      {
+        "question_number": 10,
+        "correct_option_index": 1,
+        "explanation": "Televisions were bought to witness national events (Slide 15)."
+      },
+      {
+        "question_number": 11,
+        "correct_option_index": 2,
+        "explanation": "Scalability is about handling increased demands (Slide 14)."
+      },
+      {
+        "question_number": 12,
+        "correct_option_index": 2,
+        "explanation": "IT risks include unintended consequences (Slide 19)."
+      },
+      {
+        "question_number": 13,
+        "correct_option_index": 2,
+        "explanation": "Pheidippides ran the Marathon (Slide 5)."
+      },
+      {
+        "question_number": 14,
+        "correct_option_index": 2,
+        "explanation": "Internet allowed multi-way communication (Slide 46)."
+      },
+      {
+        "question_number": 15,
+        "correct_option_index": 1,
+        "explanation": "Television transmits moving images and sound (Slide 15)."
+      },
+      {
+        "question_number": 16,
+        "correct_option_index": 3,
+        "explanation": "Spam is cheap and effective (Slide 26)."
+      },
+      {
+        "question_number": 17,
+        "correct_option_index": 0,
+        "explanation": "ARPANET was the early packet-switching network (Slide 16)."
+      },
+      {
+        "question_number": 18,
+        "correct_option_index": 3,
+        "explanation": "Risk of credit cards is identity theft (Slide 20)."
+      },
+      {
+        "question_number": 19,
+        "correct_option_index": 0,
+        "explanation": "Variety refers to different types of data (Slide 47)."
+      },
+      {
+        "question_number": 20,
+        "correct_option_index": 3,
+        "explanation": "Validity, Reliability, Availability are all secure comms aspects (Slide 13)."
+      },
+      {
+        "question_number": 21,
+        "correct_option_index": 1,
+        "explanation": "CASL applies to messages sent to Canada (Slide 35)."
+      },
+      {
+        "question_number": 22,
+        "correct_option_index": 0,
+        "explanation": "Time-sharing allocates resources to multiple users (Slide 16)."
+      },
+      {
+        "question_number": 23,
+        "correct_option_index": 1,
+        "explanation": "Spam causes significant costs to businesses (Slide 26)."
+      },
+      {
+        "question_number": 24,
+        "correct_option_index": 2,
+        "explanation": "Double-check and contact IT/Supervisor (Slide 45)."
+      },
+      {
+        "question_number": 25,
+        "correct_option_index": 2,
+        "explanation": "CS is connected to communication (Slide 4)."
+      },
+      {
+        "question_number": 26,
+        "correct_option_index": 0,
+        "explanation": "Unsolicited email advertising is Spam (Slide 26)."
+      },
+      {
+        "question_number": 27,
+        "correct_option_index": 0,
+        "explanation": "Direct mail is physical; not a method of *digital* spammers."
+      },
+      {
+        "question_number": 28,
+        "correct_option_index": 2,
+        "explanation": "Recommending a song is personal, not commercial (Slide 36)."
+      },
+      {
+        "question_number": 29,
+        "correct_option_index": 2,
+        "explanation": "Alexander Graham Bell patented the telephone (Slide 10)."
+      },
+      {
+        "question_number": 30,
+        "correct_option_index": 0,
+        "explanation": "Cyberbullying uses the Internet to inflict harm."
+      },
+      {
+        "question_number": 31,
+        "correct_option_index": 2,
+        "explanation": "Phishing targets via email/text for private info (Slide 38)."
+      },
+      {
+        "question_number": 32,
+        "correct_option_index": 0,
+        "explanation": "Heliograph signals by flashes of sunlight (Slide 6/48)."
+      },
+      {
+        "question_number": 33,
+        "correct_option_index": 3,
+        "explanation": "Command and control employs resources to solve missions (Slide 5)."
+      },
+      {
+        "question_number": 34,
+        "correct_option_index": 3,
+        "explanation": "Battery, Telegraph, Electromagnet all enabled networks (Slide 8)."
+      },
+      {
+        "question_number": 35,
+        "correct_option_index": 0,
+        "explanation": "CASL applies to commercial electronic messages (Slide 36)."
+      },
+      {
+        "question_number": 36,
+        "correct_option_index": 2,
+        "explanation": "Claude Chappe developed the Optical Telegraph (Slide 7)."
+      },
+      {
+        "question_number": 37,
+        "correct_option_index": 1,
+        "explanation": "Piracy is a major risk for electronic media (Slide 20)."
+      },
+      {
+        "question_number": 38,
+        "correct_option_index": 2,
+        "explanation": "Optical telegraph is a line of towers using visual signals (Slide 7)."
+      },
+      {
+        "question_number": 39,
+        "correct_option_index": 2,
+        "explanation": "Email utility: Easy way to keep in touch (Slide 20)."
+      },
+      {
+        "question_number": 40,
+        "correct_option_index": 1,
+        "explanation": "Heuristic filtering is widely used for spam (Slide 32)."
+      },
+      {
+        "question_number": 41,
+        "correct_option_index": 2,
+        "explanation": "Flag semaphore uses hand-held flags (Slide 6)."
+      },
+      {
+        "question_number": 42,
+        "correct_option_index": 1,
+        "explanation": "Spam is a risk of email (Slide 20)."
+      },
+      {
+        "question_number": 43,
+        "correct_option_index": 0,
+        "explanation": "A blog is a personal journal on the Web (Slide 16 context)."
+      },
+      {
+        "question_number": 44,
+        "correct_option_index": 1,
+        "explanation": "Telegraph transmits signals over wire (Slide 9)."
+      },
+      {
+        "question_number": 45,
+        "correct_option_index": 3,
+        "explanation": "GenAI will impact phone spams/scams (Slide 27)."
+      },
+      {
+        "question_number": 46,
+        "correct_option_index": 2,
+        "explanation": "Flag semaphore is the later derivative (Slide 6)."
+      },
+      {
+        "question_number": 47,
+        "correct_option_index": 1,
+        "explanation": "Veracity refers to data quality/accuracy (Slide 47)."
+      },
+      {
+        "question_number": 48,
+        "correct_option_index": 2,
+        "explanation": "Heliograph is a simple instrument for optical communication (Slide 48)."
+      },
+      {
+        "question_number": 49,
+        "correct_option_index": 3,
+        "explanation": "Marconi invented radio transmission (Slide 15)."
+      },
+      {
+        "question_number": 50,
+        "correct_option_index": 0,
+        "explanation": "No, pre-checked boxes are not valid express consent (Slide 37)."
+      }
+    ],
+    "Computer Security": [
+      {
+        "question_number": 1,
+        "correct_option_index": 0,
+        "explanation": "Generative adversarial networks (GANs) pit two AI algorithms against each other to create convincing deepfakes."
+      },
+      {
+        "question_number": 2,
+        "correct_option_index": 3,
+        "explanation": "According to the AI Era Update, double extortion involves both encrypting the victim's data and threatening to leak the stolen data online if the ransom is not paid (Slide 41)."
+      },
+      {
+        "question_number": 3,
+        "correct_option_index": 3,
+        "explanation": "Cryptocurrency is preferred in cybercrime because it enables anonymous or pseudonymous payments (Slide 41)."
+      },
+      {
+        "question_number": 4,
+        "correct_option_index": 2,
+        "explanation": "Social Engineering is a special form of attack where hackers use deception to manipulate human psychology into divulging confidential information (Slide 7)."
+      },
+      {
+        "question_number": 5,
+        "correct_option_index": 0,
+        "explanation": "Backdoor trojans are commonly used to secretly deliver and install other malicious payloads like spyware and adware (Slide 37)."
+      },
+      {
+        "question_number": 6,
+        "correct_option_index": 0,
+        "explanation": "Cybersecurity is challenging today because there are more devices than people, and attackers are constantly becoming more innovative (Slide 10)."
+      },
+      {
+        "question_number": 7,
+        "correct_option_index": 3,
+        "explanation": "A virus is defined as a piece of self-replicating code that is embedded within another host program or file (Slide 23)."
+      },
+      {
+        "question_number": 8,
+        "correct_option_index": 0,
+        "explanation": "Anonymous is a loosely organized international movement of hacktivists (hackers with a social or political cause) (Slide 57)."
+      },
+      {
+        "question_number": 9,
+        "correct_option_index": 0,
+        "explanation": "John Draper used a toy Captain Crunch Whistle to 'phreak' telephone systems and make free phone calls (Slide 12)."
+      },
+      {
+        "question_number": 10,
+        "correct_option_index": 1,
+        "explanation": "The increasing use and utility of networked computers leads directly to the growing importance of computer security (Slide 9)."
+      },
+      {
+        "question_number": 11,
+        "correct_option_index": 0,
+        "explanation": "A botnet is a collection of bot-infected computers controlled remotely by the same command-and-control program (Slide 39)."
+      },
+      {
+        "question_number": 12,
+        "correct_option_index": 3,
+        "explanation": "A firewall is a software application installed on a single computer that can selectively block network traffic to and from that computer (Slide 62)."
+      },
+      {
+        "question_number": 13,
+        "correct_option_index": 1,
+        "explanation": "Social engineering relies on tricking and deceiving someone into voluntarily handing over secure information (Slide 7)."
+      },
+      {
+        "question_number": 14,
+        "correct_option_index": 0,
+        "explanation": "A major 'Password Do' is to not use a word from the dictionary, as these are highly vulnerable to cracking (Slide 17)."
+      },
+      {
+        "question_number": 15,
+        "correct_option_index": 1,
+        "explanation": "Dumpster diving is the practice of foraging in garbage that has been put out on the street in dumpsters for discarded items that may still be valuable (Slide 16)."
+      },
+      {
+        "question_number": 16,
+        "correct_option_index": 3,
+        "explanation": "A Denial of Service (DoS) attack is an intentional action designed to prevent legitimate users from making use of a computer service (Slide 47)."
+      },
+      {
+        "question_number": 17,
+        "correct_option_index": 3,
+        "explanation": "Spamming refers to sending unsolicited bulk messages. While spam can contain social engineering (like phishing), spamming itself is not fundamentally a social engineering technique in the same way pretexting or tailgating is."
+      },
+      {
+        "question_number": 18,
+        "correct_option_index": 0,
+        "explanation": "A worm is a self-contained program that replicates itself in order to spread through a computer network (Slide 29)."
+      },
+      {
+        "question_number": 19,
+        "correct_option_index": 1,
+        "explanation": "SQL Injection is a method of attacking a database-driven Web application with improper security by injecting SQL queries (Slide 46)."
+      },
+      {
+        "question_number": 20,
+        "correct_option_index": 3,
+        "explanation": "Cyber crime continues to be a major threat because criminal organizations are making significant amounts of money from malware (Slide 48)."
+      },
+      {
+        "question_number": 21,
+        "correct_option_index": 0,
+        "explanation": "AI vs AI refers to the escalating cybersecurity arms race where both attackers and defenders leverage AI technologies to outsmart each other (Slide 40)."
+      },
+      {
+        "question_number": 22,
+        "correct_option_index": 0,
+        "explanation": "In cross-site scripting (XSS), an attacker injects a malicious client-side script into a Web site to steal cookies or track user activity (Slide 33)."
+      },
+      {
+        "question_number": 23,
+        "correct_option_index": 2,
+        "explanation": "Eavesdropping is the act of secretly listening to a private conversation (Slide 16)."
+      },
+      {
+        "question_number": 24,
+        "correct_option_index": 1,
+        "explanation": "A Phreaker is someone who uses different frequencies to explore and exploit telecommunication networks (Slide 11)."
+      },
+      {
+        "question_number": 25,
+        "correct_option_index": 1,
+        "explanation": "Ransomware-as-a-Service (RaaS) is a subscription-based business model where malware creators provide ransomware tools to affiliates for a share of the profits (Slide 41)."
+      },
+      {
+        "question_number": 26,
+        "correct_option_index": 0,
+        "explanation": "Phreaking is the oldest phone hacking technique, originating with the manipulation of telephone network routing tones (Slide 11)."
+      },
+      {
+        "question_number": 27,
+        "correct_option_index": 0,
+        "explanation": "Social engineering includes talking to or manipulating a person to get them to reveal their password (matches the question text)."
+      },
+      {
+        "question_number": 28,
+        "correct_option_index": 1,
+        "explanation": "Under the Canadian Criminal Code, willfully interfering with or denying someone's lawful access to computer data constitutes computer mischief (Slide 64)."
+      },
+      {
+        "question_number": 29,
+        "correct_option_index": 2,
+        "explanation": "Antivirus software packages are designed to allow computer users to detect and destroy computer viruses (Slide 28)."
+      },
+      {
+        "question_number": 30,
+        "correct_option_index": 3,
+        "explanation": "In the early days of computing (1950s), the original meaning of 'hacker' was an explorer, risk taker, and system innovator who was praised for their skills (Slide 13)."
+      },
+      {
+        "question_number": 31,
+        "correct_option_index": 0,
+        "explanation": "A key risk associated with AI-generated phishing attacks is that large language models can create highly personalized, grammatically correct, and convincing messages at scale (Slide 40)."
+      },
+      {
+        "question_number": 32,
+        "correct_option_index": 3,
+        "explanation": "Under the Canadian Criminal Code, mischief refers to the willful destruction, rendering useless, or interference with the lawful use of computer data or property (Slide 64)."
+      },
+      {
+        "question_number": 33,
+        "correct_option_index": 0,
+        "explanation": "Voter privacy is listed as a major risk and drawback of online voting ('More difficult to preserve voter privacy'), not a benefit (Slide 61)."
+      },
+      {
+        "question_number": 34,
+        "correct_option_index": 1,
+        "explanation": "'Do not use long passwords' is false; longer passwords are much stronger and highly recommended (Slide 17 says 'Do not use short passwords')."
+      },
+      {
+        "question_number": 35,
+        "correct_option_index": 0,
+        "explanation": "The original meaning of a hacker was an explorer, risk taker, and system innovator. 'Crackers' is a later term for malicious attackers (Slide 13)."
+      },
+      {
+        "question_number": 36,
+        "correct_option_index": 1,
+        "explanation": "Joining an unknown or unencrypted wireless access point puts you at risk of sidejacking and being hacked (Slide 19)."
+      },
+      {
+        "question_number": 37,
+        "correct_option_index": 1,
+        "explanation": "Adware is a type of spyware specifically designed to display pop-up advertisements related to a user's activity (Slide 37)."
+      },
+      {
+        "question_number": 38,
+        "correct_option_index": 0,
+        "explanation": "Blue Security failed and shut down because they could not protect their customers from retaliatory DDoS attacks and virus-laced emails launched by spammers (Slide 50)."
+      },
+      {
+        "question_number": 39,
+        "correct_option_index": 1,
+        "explanation": "A person who manages and controls a botnet is known as a bot herder (Slide 39)."
+      },
+      {
+        "question_number": 40,
+        "correct_option_index": 0,
+        "explanation": "Spyware is a program that communicates over an Internet connection without the user's knowledge or consent to surreptitiously monitor their activity (Slide 37)."
+      },
+      {
+        "question_number": 41,
+        "correct_option_index": 0,
+        "explanation": "Shoulder surfing is the physical act of watching someone enter a security code, password, or PIN without their permission."
+      },
+      {
+        "question_number": 42,
+        "correct_option_index": 3,
+        "explanation": "Botnets are utilized for all of the above: launching distributed denial of service attacks, sending spam, and scraping the web (Slide 38)."
+      },
+      {
+        "question_number": 43,
+        "correct_option_index": 1,
+        "explanation": "Ransomware attacks most commonly target hospitals, school boards, municipal governments, and critical infrastructure because these essential public services cannot afford downtime (Slide 41)."
+      },
+      {
+        "question_number": 44,
+        "correct_option_index": 0,
+        "explanation": "Hacking is defined as attempting to gain unauthorized access to data in a system or computer (Slide 2)."
+      },
+      {
+        "question_number": 45,
+        "correct_option_index": 0,
+        "explanation": "The aim of a Denial-of-Service (DoS) attack is not to steal information, but to disrupt a server's ability to respond to its legitimate clients (Slide 47)."
+      },
+      {
+        "question_number": 46,
+        "correct_option_index": 1,
+        "explanation": "Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks (Slide 10)."
+      },
+      {
+        "question_number": 47,
+        "correct_option_index": 2,
+        "explanation": "A major risk associated with online voting is that the systems are an obvious target for a DDoS attack (Slide 61)."
+      },
+      {
+        "question_number": 48,
+        "correct_option_index": 0,
+        "explanation": "Kevin Mitnick was the world's most wanted hacker in the 90s, who spent 5 years in federal prison and later became a security consultant (Slide 4)."
+      },
+      {
+        "question_number": 49,
+        "correct_option_index": 3,
+        "explanation": "Social engineering is the use of deception to manipulate individuals into divulging confidential or personal information that may be used for fraudulent purposes (Slide 7)."
+      },
+      {
+        "question_number": 50,
+        "correct_option_index": 1,
+        "explanation": "Cyber attacks are usually aimed at accessing, changing, or destroying sensitive information, extortion, or interrupting normal processes (Slide 10)."
+      }
+    ],
+    "Green computing": [
+      {
+        "question_number": 1,
+        "correct_option_index": 0,
+        "explanation": "According to the Website Carbon calculator methodology, website traffic is a key data point used to calculate energy and emissions."
+      },
+      {
+        "question_number": 2,
+        "correct_option_index": 3,
+        "explanation": "Edge computing stores and processes data closer to the users and IoT devices to increase efficiency."
+      },
+      {
+        "question_number": 3,
+        "correct_option_index": 1,
+        "explanation": "In ecodesign, a functional unit is a unit of reference that corresponds to a user goal, allowing for the estimation and comparison of environmental impacts."
+      },
+      {
+        "question_number": 4,
+        "correct_option_index": 2,
+        "explanation": "Cloud computing promotes green software practices by centralizing physical resources and optimizing server utilization."
+      },
+      {
+        "question_number": 5,
+        "correct_option_index": 0,
+        "explanation": "The first step in Ecodesign is defining the functional unit to properly estimate the impact of the user journey."
+      },
+      {
+        "question_number": 6,
+        "correct_option_index": 1,
+        "explanation": "The Impact Framework is an open-source initiative put forth by the Green Software Foundation."
+      },
+      {
+        "question_number": 7,
+        "correct_option_index": 0,
+        "explanation": "Ecodesign involves integrating the environment from the very beginning of the design process and maintaining it at every step of the product's life-cycle."
+      },
+      {
+        "question_number": 8,
+        "correct_option_index": 2,
+        "explanation": "Creating a frictionless lightweight experience means the user is alerted at the beginning of a complex process about the required data to avoid wasted time and energy."
+      },
+      {
+        "question_number": 9,
+        "correct_option_index": 0,
+        "explanation": "A survey of IT leaders found that 70% state sustainability and compute performance are in direct conflict."
+      },
+      {
+        "question_number": 10,
+        "correct_option_index": 2,
+        "explanation": "Energy-efficient background processes limit unnecessary CPU usage, conserving battery and reducing energy consumption on mobile devices."
+      },
+      {
+        "question_number": 11,
+        "correct_option_index": 1,
+        "explanation": "Ecodesign principles dictate that environmental considerations must be applied on all the steps of the life-cycle of the service."
+      },
+      {
+        "question_number": 12,
+        "correct_option_index": 1,
+        "explanation": "In the Impact Framework, plugins form a pipeline that converts raw observations (like CPU utilization) into environmental impact metrics."
+      },
+      {
+        "question_number": 13,
+        "correct_option_index": 2,
+        "explanation": "Reusing and recycling components reduces e-waste and lessens the need for new raw materials, supporting a circular economy."
+      },
+      {
+        "question_number": 14,
+        "correct_option_index": 1,
+        "explanation": "Using energy-efficient data storage technologies and compressing data directly minimizes the hardware and power required to store data."
+      },
+      {
+        "question_number": 15,
+        "correct_option_index": 3,
+        "explanation": "Adding alt tags is a development task, whereas a functional unit must correspond to a measurable user goal (like checking a bank balance or booking an appointment)."
+      },
+      {
+        "question_number": 16,
+        "correct_option_index": 2,
+        "explanation": "Quantum computing is noted in green tech discussions as a breakthrough that 'just might save the planet' through highly efficient advanced modeling."
+      },
+      {
+        "question_number": 17,
+        "correct_option_index": 3,
+        "explanation": "The Impact Framework allows you to calculate environmental impacts without writing any code by simply writing a manifest file."
+      },
+      {
+        "question_number": 18,
+        "correct_option_index": 1,
+        "explanation": "Containerization bundles an application's code with all its required files and libraries, allowing it to run efficiently on any infrastructure."
+      },
+      {
+        "question_number": 19,
+        "correct_option_index": 2,
+        "explanation": "Green software focuses on reduction; it is software responsible for emitting fewer greenhouse gases."
+      },
+      {
+        "question_number": 20,
+        "correct_option_index": 1,
+        "explanation": "Green computing is driven by the increasing concern about climate change and the urgent need to reduce our carbon footprints."
+      },
+      {
+        "question_number": 21,
+        "correct_option_index": 0,
+        "explanation": "Modular design in hardware allows specific components to be upgraded or repaired, drastically reducing e-waste from complete device replacements."
+      },
+      {
+        "question_number": 22,
+        "correct_option_index": 1,
+        "explanation": "Power management systems are critical because they automatically reduce or shut down power usage when servers or devices are idle."
+      },
+      {
+        "question_number": 23,
+        "correct_option_index": 1,
+        "explanation": "Websitecarbon.com uses variables like website traffic and data transfer to calculate the carbon emissions of a website."
+      },
+      {
+        "question_number": 24,
+        "correct_option_index": 3,
+        "explanation": "Efficient software optimization reduces excessive processing and wear, extending hardware lifespan and reducing the need for upgrades."
+      },
+      {
+        "question_number": 25,
+        "correct_option_index": 3,
+        "explanation": "The Web Sustainability Guidelines consist of 93 recommendations created to help teams build more sustainable digital products."
+      },
+      {
+        "question_number": 26,
+        "correct_option_index": 0,
+        "explanation": "Green computing refers to the design, development, and implementation of computer systems that have a minimal negative impact on the environment."
+      },
+      {
+        "question_number": 27,
+        "correct_option_index": 2,
+        "explanation": "Virtualization allows multiple virtual machines to run on a single physical server, greatly reducing the number of physical servers needed and their associated energy consumption."
+      },
+      {
+        "question_number": 28,
+        "correct_option_index": 0,
+        "explanation": "Ecodesign is defined as the approach to designing technology with the environment in mind."
+      },
+      {
+        "question_number": 29,
+        "correct_option_index": 1,
+        "explanation": "Green software is developed using practices that ensure the final product is highly energy-efficient."
+      },
+      {
+        "question_number": 30,
+        "correct_option_index": 0,
+        "explanation": "The Impact Framework focuses on being Transparent, Verifiable, Flexible, Modular, and Neutral, rather than 'Predictable'."
+      },
+      {
+        "question_number": 31,
+        "correct_option_index": 0,
+        "explanation": "The Impact Framework measures runtime observables like CPU utilization, page views, and installs to calculate emissions, not the number of developers."
+      },
+      {
+        "question_number": 32,
+        "correct_option_index": 0,
+        "explanation": "Ecodesign is a continuous process of estimating impact, identifying issues, and simplifying the user journey."
+      },
+      {
+        "question_number": 33,
+        "correct_option_index": 0,
+        "explanation": "Software can be made greener by minimizing the amount of code and system resources required to perform tasks efficiently."
+      },
+      {
+        "question_number": 34,
+        "correct_option_index": 1,
+        "explanation": "Developers can reduce energy consumption by optimizing algorithms to lower CPU-intensive processing, which directly translates to less power usage."
+      },
+      {
+        "question_number": 35,
+        "correct_option_index": 1,
+        "explanation": "Scalable software manages increased user loads dynamically without a proportional, 1-to-1 increase in server resources."
+      },
+      {
+        "question_number": 36,
+        "correct_option_index": 0,
+        "explanation": "The manifest file holds all necessary input data and configurations required for the Impact Framework to execute."
+      },
+      {
+        "question_number": 37,
+        "correct_option_index": 1,
+        "explanation": "Using recycled materials decreases the reliance on mining new raw materials and diverts electronic waste from landfills."
+      },
+      {
+        "question_number": 38,
+        "correct_option_index": 1,
+        "explanation": "The primary goal of green hardware is to actively reduce the negative environmental impacts caused by its production, usage, and disposal."
+      },
+      {
+        "question_number": 39,
+        "correct_option_index": 1,
+        "explanation": "A hallmark of green hardware is the use of energy-efficient components designed to reduce overall power consumption during operation."
+      },
+      {
+        "question_number": 40,
+        "correct_option_index": 3,
+        "explanation": "Sustainable web design suggests ensuring navigation and way-finding are well structured, including providing ways for visitors to easily find new content and services."
+      },
+      {
+        "question_number": 41,
+        "correct_option_index": 2,
+        "explanation": "Optimized code runs faster and requires fewer computational cycles, directly reducing the runtime energy consumption."
+      },
+      {
+        "question_number": 42,
+        "correct_option_index": 3,
+        "explanation": "Efficient software extends the lifespan of hardware by reducing thermal stress and physical wear from excessive processing."
+      },
+      {
+        "question_number": 43,
+        "correct_option_index": 0,
+        "explanation": "In ecodesign, the manufacturing phase is often considered the most critical as electronic equipment production carries the heaviest environmental impact."
+      },
+      {
+        "question_number": 44,
+        "correct_option_index": 2,
+        "explanation": "Server virtualization allows multiple independent virtual machines to run concurrently on a single physical host."
+      },
+      {
+        "question_number": 45,
+        "correct_option_index": 1,
+        "explanation": "Designing hardware so it can be easily disassembled makes it much simpler to repair or recycle individual components, reducing waste."
+      },
+      {
+        "question_number": 46,
+        "correct_option_index": 2,
+        "explanation": "A green data center utilizes advanced power management systems to automatically power down or reduce the consumption of servers when they are idle."
+      },
+      {
+        "question_number": 47,
+        "correct_option_index": 1,
+        "explanation": "The Impact Framework is an open-source initiative designed to model and measure the environmental impacts of software."
+      },
+      {
+        "question_number": 48,
+        "correct_option_index": 2,
+        "explanation": "E-waste refers to discarded electronic appliances, devices, and hardware components that are environmentally harmful when put in landfills."
+      },
+      {
+        "question_number": 49,
+        "correct_option_index": 3,
+        "explanation": "Adding closed captioning is an accessibility standard, not an environmental indicator like Resource use, Water consumption, or Ecotoxicity."
+      },
+      {
+        "question_number": 50,
+        "correct_option_index": 2,
+        "explanation": "Energy Star is a widely recognized certification indicating that a piece of hardware meets specific energy efficiency and environmental standards."
+      }
+    ],
+    "Privacy": [
+      {
+        "question_number": 1,
+        "correct_option_index": 3,
+        "explanation": "Alan Westin defines privacy as the claim of individuals, groups, or institutions to determine for themselves when, how, and to what extent information about them is communicated."
+      },
+      {
+        "question_number": 2,
+        "correct_option_index": 2,
+        "explanation": "Alan Westin is recognized for the earliest and most significant work on the problem of consumer data privacy and data protection."
+      },
+      {
+        "question_number": 3,
+        "correct_option_index": 0,
+        "explanation": "Personal privacy protects a person against undue interference (like physical searches) and information that violates his or her moral sense."
+      },
+      {
+        "question_number": 4,
+        "correct_option_index": 1,
+        "explanation": "Territorial privacy protects the physical area surrounding a person from being violated without their permission."
+      },
+      {
+        "question_number": 5,
+        "correct_option_index": 0,
+        "explanation": "Informational privacy specifically deals with the gathering, compilation, and selective dissemination of information."
+      },
+      {
+        "question_number": 6,
+        "correct_option_index": 3,
+        "explanation": "In privacy discussions, access encompasses both physical proximity to a person and having knowledge about a person."
+      },
+      {
+        "question_number": 7,
+        "correct_option_index": 3,
+        "explanation": "Privacy advocates argue that assuming data collection is inherently harmful is misguided; instead, the focus should be on regulating the misuse of that data."
+      },
+      {
+        "question_number": 8,
+        "correct_option_index": 3,
+        "explanation": "Surveillance cameras can help protect victims of domestic violence, reduce police abuse of power, and locate missing people, validating 'All of the above'."
+      },
+      {
+        "question_number": 9,
+        "correct_option_index": 1,
+        "explanation": "Lawfulness and fairness are core foundational privacy principles governing how data is collected and processed."
+      },
+      {
+        "question_number": 10,
+        "correct_option_index": 3,
+        "explanation": "Information Technology erodes privacy by making the collection, exchange, combination, and distribution of personal information easier than ever."
+      },
+      {
+        "question_number": 11,
+        "correct_option_index": 0,
+        "explanation": "Privacy can be bad in certain instances when it acts as a cover or safe haven for illegal and immoral activities or dysfunctional family dynamics."
+      },
+      {
+        "question_number": 12,
+        "correct_option_index": 2,
+        "explanation": "Samuel Warren and Louis Brandeis authored the seminal 1890 Harvard Law Review article 'The Right to Privacy'."
+      },
+      {
+        "question_number": 13,
+        "correct_option_index": 2,
+        "explanation": "The foundational article 'The Right to Privacy' was published in 1890."
+      },
+      {
+        "question_number": 14,
+        "correct_option_index": 1,
+        "explanation": "Warren and Brandeis famously defined the right to privacy as 'the right to be let alone'."
+      },
+      {
+        "question_number": 15,
+        "correct_option_index": 0,
+        "explanation": "The right to privacy is generally considered a negative right, meaning it obligates others to not interfere and leave you alone."
+      },
+      {
+        "question_number": 16,
+        "correct_option_index": 1,
+        "explanation": "The 1890 Harvard Law Review article 'The Right to Privacy' influenced all modern and Canadian conceptions of privacy."
+      },
+      {
+        "question_number": 17,
+        "correct_option_index": 2,
+        "explanation": "A major risk of over-sharing on social media (like 'sharenting') is the unpredictable and uncontrollable nature of the 'invisible audience'."
+      },
+      {
+        "question_number": 18,
+        "correct_option_index": 1,
+        "explanation": "Privacy is seen by some philosophers as a prudential right because granting individuals privacy provides a net benefit to society."
+      },
+      {
+        "question_number": 19,
+        "correct_option_index": 2,
+        "explanation": "A public record is information about an incident or action reported to a government agency for the purpose of informing the public."
+      },
+      {
+        "question_number": 20,
+        "correct_option_index": 1,
+        "explanation": "A deed to a property is registered with the government and constitutes a public record, unlike personal credit card or gift card purchases."
+      },
+      {
+        "question_number": 21,
+        "correct_option_index": 0,
+        "explanation": "Computerized shopping carts (like ShopRite's) monitor buying habits to provide personalized services and pop-up ads."
+      },
+      {
+        "question_number": 22,
+        "correct_option_index": 3,
+        "explanation": "Body scanners in clothing stores provide exact body dimensions for customized clothing but raise significant personal privacy concerns."
+      },
+      {
+        "question_number": 23,
+        "correct_option_index": 2,
+        "explanation": "RFID tags typically cannot distinguish between legitimate and unauthorized readers, making them a privacy tracking risk."
+      },
+      {
+        "question_number": 24,
+        "correct_option_index": 2,
+        "explanation": "RFID stands for Radio frequency identification."
+      },
+      {
+        "question_number": 25,
+        "correct_option_index": 0,
+        "explanation": "Implanted RFID chips in humans have been used experimentally as contactless 'debit cards' to pay for purchases."
+      },
+      {
+        "question_number": 26,
+        "correct_option_index": 3,
+        "explanation": "Changing to electronic medical records allows quicker data sharing, which has effectively lowered healthcare administrative costs."
+      },
+      {
+        "question_number": 27,
+        "correct_option_index": 2,
+        "explanation": "Smart TVs track user inputs second-by-second and can collect and share data about viewing habits with advertisers without explicit consent."
+      },
+      {
+        "question_number": 28,
+        "correct_option_index": 3,
+        "explanation": "Data mining involves searching for patterns in large databases to create highly specific profiles of individuals."
+      },
+      {
+        "question_number": 29,
+        "correct_option_index": 3,
+        "explanation": "Google keeps track of your search queries and the Web pages you have visited to infer your interests and personalize search results."
+      },
+      {
+        "question_number": 30,
+        "correct_option_index": 0,
+        "explanation": "Collaborative filtering is a data mining technique that analyzes the preferences of a large group of people to predict what one individual may prefer."
+      },
+      {
+        "question_number": 31,
+        "correct_option_index": 3,
+        "explanation": "An 'opt-in' policy means the consumer must explicitly grant permission before an organization can share their information."
+      },
+      {
+        "question_number": 32,
+        "correct_option_index": 1,
+        "explanation": "Credit bureaus keep track of debts and bill payments to provide credit reports used by potential lenders to assess creditworthiness."
+      },
+      {
+        "question_number": 33,
+        "correct_option_index": 1,
+        "explanation": "Businesses use data mining and targeted direct mail to efficiently advertise only to those consumers most likely to purchase their products."
+      },
+      {
+        "question_number": 34,
+        "correct_option_index": 1,
+        "explanation": "Political campaigns use microtargeting to identify and directly reach out to potential supporters based on demographic and GIS data."
+      },
+      {
+        "question_number": 35,
+        "correct_option_index": 3,
+        "explanation": "Price customization allows retailers to use aggregated data to offer different, personalized prices to different people based on their shopper profiles."
+      },
+      {
+        "question_number": 36,
+        "correct_option_index": 0,
+        "explanation": "Companies use social network analysis to identify key nodes or 'influencers' and offer them special promotions."
+      },
+      {
+        "question_number": 37,
+        "correct_option_index": 0,
+        "explanation": "Secondary use occurs when information collected for one specific purpose is subsequently used for an entirely different purpose."
+      },
+      {
+        "question_number": 38,
+        "correct_option_index": 2,
+        "explanation": "Geographic Information Systems (GIS) data is used in political microtargeting to map and locate the most likely supporters for targeted outreach."
+      },
+      {
+        "question_number": 39,
+        "correct_option_index": 0,
+        "explanation": "Banks analyze social network data alongside credit reports to assess the risk and determine an individual's creditworthiness."
+      },
+      {
+        "question_number": 40,
+        "correct_option_index": 0,
+        "explanation": "Lotus faced massive consumer backlash and protests for developing a CD containing the personal data of 120 million Americans."
+      },
+      {
+        "question_number": 41,
+        "correct_option_index": 2,
+        "explanation": "The 2018 Cambridge Analytica scandal involved Facebook's deceptive disclosures allowing third-party apps to harvest users' personal information."
+      },
+      {
+        "question_number": 42,
+        "correct_option_index": 0,
+        "explanation": "Researchers proved that the 100 million movie ratings released for the Netflix Prize were not truly anonymous if cross-referenced with other data."
+      },
+      {
+        "question_number": 43,
+        "correct_option_index": 3,
+        "explanation": "The iPhone app 'Path' caused a massive privacy scandal in 2012 when it was discovered quietly uploading users' address books to its servers."
+      },
+      {
+        "question_number": 44,
+        "correct_option_index": 2,
+        "explanation": "In 2021, app privacy labels revealed that Instagram collected 79% of its users' personal data and aggressively shared it with third parties."
+      },
+      {
+        "question_number": 45,
+        "correct_option_index": 0,
+        "explanation": "When shoppers noticed signs indicating malls were tracking their cell phone locations, the resulting protest forced the malls to quickly halt the study."
+      },
+      {
+        "question_number": 46,
+        "correct_option_index": 1,
+        "explanation": "A major privacy risk with Generative AI chatbots is that they may collect and persistently store your personal information inputted during conversations."
+      },
+      {
+        "question_number": 47,
+        "correct_option_index": 1,
+        "explanation": "Transparency is a concern because many AI chatbots do not clearly explain how personal information is used, stored, or shared."
+      },
+      {
+        "question_number": 48,
+        "correct_option_index": 0,
+        "explanation": "A significant future risk is that AI systems may autonomously create profiles about you or make automated decisions based on conversations."
+      },
+      {
+        "question_number": 49,
+        "correct_option_index": 1,
+        "explanation": "When an AI chatbot uses personal data from one user to generate a response for another, it constitutes unauthorized disclosure and secondary use of information."
+      },
+      {
+        "question_number": 50,
+        "correct_option_index": 3,
+        "explanation": "Profiling involves analyzing personal data to evaluate specific personal aspects, creating user profiles specifically for automated decision making."
+      }
+    ],
+    "Intellectual Property": [
+      {
+        "question_number": 1,
+        "correct_option_index": 3,
+        "explanation": "An Industrial Design is a government instrument granting exclusive rights to the visual/aesthetic features of a finished article for 10 years."
+      },
+      {
+        "question_number": 2,
+        "correct_option_index": 0,
+        "explanation": "IP laws are territorial in nature; a patent granted in one country has no legal effect beyond that country's borders."
+      },
+      {
+        "question_number": 3,
+        "correct_option_index": 2,
+        "explanation": "Properly marking your work (e.g., with the \u00a9 symbol) is associated with Copyright protection."
+      },
+      {
+        "question_number": 4,
+        "correct_option_index": 1,
+        "explanation": "In Canada and the U.S., there is a 12-month grace period. Public disclosure more than 12 months before filing will bar a successful patent application."
+      },
+      {
+        "question_number": 5,
+        "correct_option_index": 0,
+        "explanation": "To be patentable, an invention must be novel, have utility, and be non-obvious. 'Supporting global good' is not a legal test for a patent."
+      },
+      {
+        "question_number": 6,
+        "correct_option_index": 1,
+        "explanation": "A trademark in Canada grants the exclusive right to use the mark for a period of 10 years, and it is renewable."
+      },
+      {
+        "question_number": 7,
+        "correct_option_index": 0,
+        "explanation": "The term of a patent is 20 years from the filing date."
+      },
+      {
+        "question_number": 8,
+        "correct_option_index": 0,
+        "explanation": "Territorial nature means that IP protections are strictly limited to the territory or country where they have been legally granted."
+      },
+      {
+        "question_number": 9,
+        "correct_option_index": 1,
+        "explanation": "The 'non-obvious' test requires that an inventive step is needed to arrive at the invention, meaning it wouldn't be immediately apparent to an expert in the field."
+      },
+      {
+        "question_number": 10,
+        "correct_option_index": 2,
+        "explanation": "A Minimum Viable Product (MVP) has just those core features needed to deploy and test the product's market viability with minimum effort and cost."
+      },
+      {
+        "question_number": 11,
+        "correct_option_index": 0,
+        "explanation": "A trade secret relies entirely on confidentiality. Once the secret is publicly disclosed, the legal protection is lost."
+      },
+      {
+        "question_number": 12,
+        "correct_option_index": 0,
+        "explanation": "A patent application remains confidential and unpublished for up to 18 months after the filing date."
+      },
+      {
+        "question_number": 13,
+        "correct_option_index": 3,
+        "explanation": "An MVP is designed to have just those core features that allow the product to be deployed for feedback, and no more."
+      },
+      {
+        "question_number": 14,
+        "correct_option_index": 1,
+        "explanation": "The Canadian Intellectual Property Office (CIPO) is the organization tasked with administering patents and registering IP in Canada."
+      },
+      {
+        "question_number": 15,
+        "correct_option_index": 0,
+        "explanation": "A trademark is a distinctive sign, word, or design used to uniquely identify the products or services of an organization."
+      },
+      {
+        "question_number": 16,
+        "correct_option_index": 1,
+        "explanation": "If a patent is infringed upon, the patent holder has the right to enforce it by seeking damages and/or an injunction in a civil court."
+      },
+      {
+        "question_number": 17,
+        "correct_option_index": 0,
+        "explanation": "The four main types of intellectual property protection are Trademarks, Copyrights, Patents, and Trade Secrets."
+      },
+      {
+        "question_number": 18,
+        "correct_option_index": 0,
+        "explanation": "Trade Stocks are financial instruments, not a form of Intellectual Property. Trade secrets, plant breeders' rights, and industrial designs are IP."
+      },
+      {
+        "question_number": 19,
+        "correct_option_index": 1,
+        "explanation": "In Canada, a patent grants exclusive rights for 20 years from the date the application is filed."
+      },
+      {
+        "question_number": 20,
+        "correct_option_index": 1,
+        "explanation": "Trademarks can include words, slogans, designs, and even sounds (e.g., the MGM Lion roar)."
+      },
+      {
+        "question_number": 21,
+        "correct_option_index": 0,
+        "explanation": "A Trade Secret is confidential business information (like a recipe or algorithm) that provides a competitive advantage because it is kept secret."
+      },
+      {
+        "question_number": 22,
+        "correct_option_index": 2,
+        "explanation": "Music created specifically for a video game under a 'work for hire' contract means the game developer (the employer) owns the copyright."
+      },
+      {
+        "question_number": 23,
+        "correct_option_index": 1,
+        "explanation": "To be granted a patent, the invention must meet three criteria: Novelty, Utility, and Non-obviousness."
+      },
+      {
+        "question_number": 24,
+        "correct_option_index": 0,
+        "explanation": "Covetous claiming is a pitfall in patenting where the applicant claims an over-breadth of rights beyond what was actually invented."
+      },
+      {
+        "question_number": 25,
+        "correct_option_index": 0,
+        "explanation": "Trade secrets are maintained internally through security measures and legally through strict confidentiality/non-disclosure agreements."
+      },
+      {
+        "question_number": 26,
+        "correct_option_index": 3,
+        "explanation": "Before filing a patent, the most crucial first practical step is to conduct a patent search to ensure the invention is actually novel."
+      },
+      {
+        "question_number": 27,
+        "correct_option_index": 0,
+        "explanation": "In exchange for the government granting you a 20-year monopoly, you must provide a complete and public description of your invention."
+      },
+      {
+        "question_number": 28,
+        "correct_option_index": 2,
+        "explanation": "The Patent Cooperation Treaty (PCT) allows inventors to file a single international application to seek patent protection in multiple member countries."
+      },
+      {
+        "question_number": 29,
+        "correct_option_index": 0,
+        "explanation": "Once a patent expires after its 20-year term, the invention enters the public domain and anyone is free to use it."
+      },
+      {
+        "question_number": 30,
+        "correct_option_index": 0,
+        "explanation": "In Canada, the protection of intellectual property is primarily a federal responsibility, governed by acts of Parliament."
+      },
+      {
+        "question_number": 31,
+        "correct_option_index": 0,
+        "explanation": "The Kentucky Fried Chicken spice mixture and the Coca-Cola recipe are classic examples of valuable Trade Secrets."
+      },
+      {
+        "question_number": 32,
+        "correct_option_index": 1,
+        "explanation": "A provisional patent application (in the US) acts as a placeholder, protecting your priority filing date in line for a period of 1 year."
+      },
+      {
+        "question_number": 33,
+        "correct_option_index": 1,
+        "explanation": "IP laws ensure that the intangible products of human intellect are granted protective ownership rights similar to physical property."
+      },
+      {
+        "question_number": 34,
+        "correct_option_index": 1,
+        "explanation": "Copyright is automatic the moment a creative work is expressed in a fixed, tangible form; registration simply provides archived proof."
+      },
+      {
+        "question_number": 35,
+        "correct_option_index": 2,
+        "explanation": "Under the Canadian Patent Act, mere scientific principles, abstract theorems, and scientific theories are explicitly excluded from patentability."
+      },
+      {
+        "question_number": 36,
+        "correct_option_index": 0,
+        "explanation": "Fair dealing covers research, private study, education, parody, satire, criticism, and news reporting. Personal entertainment does not fall under these exceptions."
+      },
+      {
+        "question_number": 37,
+        "correct_option_index": 0,
+        "explanation": "WIPO (World Intellectual Property Organization) is the global forum for intellectual property policy, services, and international coordination."
+      },
+      {
+        "question_number": 38,
+        "correct_option_index": 3,
+        "explanation": "Invention is the process of creating something entirely new, whereas innovation is the process of improving or modifying it."
+      },
+      {
+        "question_number": 39,
+        "correct_option_index": 1,
+        "explanation": "Using copyrighted music within a game always requires a license, regardless of whether the game is sold or distributed for free."
+      },
+      {
+        "question_number": 40,
+        "correct_option_index": 2,
+        "explanation": "The Patent Cooperation Treaty (PCT) provides a unified international procedure for filing patent applications to protect inventions."
+      },
+      {
+        "question_number": 41,
+        "correct_option_index": 1,
+        "explanation": "Game developers must obtain a sync license to legally synchronize copyrighted music with their game's visual media."
+      },
+      {
+        "question_number": 42,
+        "correct_option_index": 0,
+        "explanation": "Unlike patents or copyrights, a trade secret does not expire. Its term is indefinite as long as the information remains confidential."
+      },
+      {
+        "question_number": 43,
+        "correct_option_index": 0,
+        "explanation": "The four principal federal statutes governing IP in Canada are the Patent Act, Trademarks Act, Copyright Act, and Industrial Design Act."
+      },
+      {
+        "question_number": 44,
+        "correct_option_index": 2,
+        "explanation": "Any inventor or their legal assignee, regardless of their nationality or residency, can apply for a patent in Canada."
+      },
+      {
+        "question_number": 45,
+        "correct_option_index": 0,
+        "explanation": "Intellectual property laws protect the benefits of intellectual pursuits and help bring innovative ideas and thoughts to the market securely."
+      },
+      {
+        "question_number": 46,
+        "correct_option_index": 3,
+        "explanation": "Until December 2022, the duration of copyright protection in Canada was the life of the author plus 50 years (it has since been extended to 70 years)."
+      },
+      {
+        "question_number": 47,
+        "correct_option_index": 0,
+        "explanation": "A patent is a government instrument granting you the right to exclude others from making, using, or selling your invention for 20 years."
+      },
+      {
+        "question_number": 48,
+        "correct_option_index": 3,
+        "explanation": "In Canada, a trademark grants protection for 10 years and can be continually renewed every 10 years thereafter."
+      },
+      {
+        "question_number": 49,
+        "correct_option_index": 1,
+        "explanation": "Under Canada's Copyright Act, software code is treated as a literary work and enjoys standard copyright protection periods."
+      },
+      {
+        "question_number": 50,
+        "correct_option_index": 0,
+        "explanation": "In virtue ethics, Aristotle believed that true human flourishing and happiness derive directly from living a life of virtue."
+      }
+    ],
+    "EDIA": [
+      {
+        "question_number": 1,
+        "correct_option_index": 3,
+        "explanation": "Ensuring that all videos have closed captions is an essential accessibility standard (specifically under WCAG guidelines for Audio and Video Captions) for making online learning platforms inclusive."
+      },
+      {
+        "question_number": 2,
+        "correct_option_index": 1,
+        "explanation": "Inclusion refers to the notion of belonging, feeling welcome, having a sense of citizenship, and ensuring that all employees feel respected and valued for their unique contributions."
+      },
+      {
+        "question_number": 3,
+        "correct_option_index": 2,
+        "explanation": "In Computer Science, accessibility primarily refers to designing products, devices, services, or environments so as to be usable by people with disabilities, effectively making them available to as many people as possible."
+      },
+      {
+        "question_number": 4,
+        "correct_option_index": 0,
+        "explanation": "Virtual reality can cater to diverse learning styles by creating immersive, interactive educational experiences that help explain complex abstract concepts."
+      },
+      {
+        "question_number": 5,
+        "correct_option_index": 0,
+        "explanation": "Utilizing software that reduces unconscious bias in resume screening (like blinding names and demographic info) is a proven strategy for promoting equitable hiring practices."
+      },
+      {
+        "question_number": 6,
+        "correct_option_index": 0,
+        "explanation": "Unconscious bias (or implicit bias) occurs at the level of the subconscious and acts as a mental shortcut that leads to snap judgments about people."
+      },
+      {
+        "question_number": 7,
+        "correct_option_index": 1,
+        "explanation": "Offering flexible working hours is an inclusive practice that accommodates employees with different personal needs, responsibilities, or disabilities."
+      },
+      {
+        "question_number": 8,
+        "correct_option_index": 0,
+        "explanation": "Equality means treating everyone the exact same way. However, without considering individual needs, this can sometimes be discriminatory or result in unequal outcomes."
+      },
+      {
+        "question_number": 9,
+        "correct_option_index": 2,
+        "explanation": "Affinity bias\u2014the tendency to favor people who are 'like me'\u2014can heavily affect resume-screening and career advancement, hindering equity and diversity."
+      },
+      {
+        "question_number": 10,
+        "correct_option_index": 2,
+        "explanation": "Ableism is defined as the inherent beliefs, attitudes, and practices about the superiority of able-bodied people over those who live with a disability."
+      },
+      {
+        "question_number": 11,
+        "correct_option_index": 1,
+        "explanation": "The first step to tackling unconscious bias is recognizing and becoming aware of your own biases so that you can actively respond to them."
+      },
+      {
+        "question_number": 12,
+        "correct_option_index": 3,
+        "explanation": "Because the brain processes only a fraction of available information, it constantly takes mental shortcuts to 'fill in the blanks', which leads to cognitive and unconscious bias."
+      },
+      {
+        "question_number": 13,
+        "correct_option_index": 0,
+        "explanation": "Speech-to-text software is a classic example of assistive technology in Universal Design for Learning (UDL), supporting users with physical or learning impairments."
+      },
+      {
+        "question_number": 14,
+        "correct_option_index": 2,
+        "explanation": "Providing content in multiple languages removes geographical and linguistic barriers, making the website more accessible and inclusive."
+      },
+      {
+        "question_number": 15,
+        "correct_option_index": 1,
+        "explanation": "Universal Design for Learning (UDL) emphasizes providing multiple means of representation, such as offering step-by-step instructions in various formats (text, video, audio)."
+      },
+      {
+        "question_number": 16,
+        "correct_option_index": 2,
+        "explanation": "The primary aim of the Accessibility for Ontarians with Disabilities Act (AODA) is to identify, remove, and prevent barriers for all Ontarians with disabilities."
+      },
+      {
+        "question_number": 17,
+        "correct_option_index": 0,
+        "explanation": "The four foundational principles of web accessibility are Perceivable, Operable, Understandable, and Robust (often referred to by the acronym POUR)."
+      },
+      {
+        "question_number": 18,
+        "correct_option_index": 2,
+        "explanation": "According to AODA definitions, 'content' means any information found on a web page or web application, including text, images, forms, and sounds."
+      },
+      {
+        "question_number": 19,
+        "correct_option_index": 0,
+        "explanation": "A diverse team brings a variety of perspectives, which drastically enhances their ability to understand and design for a much wider range of user needs and experiences."
+      },
+      {
+        "question_number": 20,
+        "correct_option_index": 1,
+        "explanation": "Kimberl\u00e9 Crenshaw defines intersectionality as a lens for seeing the way in which various forms of inequality (like race, gender, and class) operate together and exacerbate each other."
+      },
+      {
+        "question_number": 21,
+        "correct_option_index": 1,
+        "explanation": "AODA requirements apply to all public websites and web content published on a website after January 1, 2012."
+      },
+      {
+        "question_number": 22,
+        "correct_option_index": 2,
+        "explanation": "Equity focuses on fairness and providing the specific supports that each person needs to achieve an equitable outcome, such as offering additional support to struggling students."
+      },
+      {
+        "question_number": 23,
+        "correct_option_index": 2,
+        "explanation": "Inclusive design is a methodology that considers the full range of human diversity from the outset, delivering experiences that are adaptable, usable, and open to all."
+      },
+      {
+        "question_number": 24,
+        "correct_option_index": 2,
+        "explanation": "Usability (and ensuring it applies to people with diverse abilities) is the most crucial principle when focusing on accessible software design."
+      },
+      {
+        "question_number": 25,
+        "correct_option_index": 1,
+        "explanation": "The primary goal of inclusive design is to consider the full range of human diversity to design products that are usable by as many people as possible."
+      },
+      {
+        "question_number": 26,
+        "correct_option_index": 1,
+        "explanation": "Equity is not about treating everyone exactly the same (equality); it's about providing every student with the specific resources and accommodations they need to succeed."
+      },
+      {
+        "question_number": 27,
+        "correct_option_index": 3,
+        "explanation": "Gender equity encourages balanced team dynamics, promotes a diversity of ideas, and helps prevent biased algorithms and products."
+      },
+      {
+        "question_number": 28,
+        "correct_option_index": 0,
+        "explanation": "The Accessibility for Ontarians with Disabilities Act (AODA) officially became law in Ontario on June 13, 2005."
+      },
+      {
+        "question_number": 29,
+        "correct_option_index": 1,
+        "explanation": "Providing voice control options provides an alternative, hands-free method of operation for users with limited hand mobility."
+      },
+      {
+        "question_number": 30,
+        "correct_option_index": 2,
+        "explanation": "AI programs and open-source algorithms often reflect the example bias that already exists in society and the training data, demonstrating coded unconscious bias."
+      },
+      {
+        "question_number": 31,
+        "correct_option_index": 3,
+        "explanation": "The AODA officially sets the Web Content Accessibility Guidelines (WCAG) 2.0 Level AA as its standard for legal compliance in Ontario."
+      },
+      {
+        "question_number": 32,
+        "correct_option_index": 0,
+        "explanation": "Anchor bias (or anchoring) is a cognitive bias where an individual relies too heavily on an initial piece of information offered when making decisions."
+      },
+      {
+        "question_number": 33,
+        "correct_option_index": 0,
+        "explanation": "Universal design is an approach being adopted by technologists to ensure that products and services create one experience that is accessible by all people."
+      },
+      {
+        "question_number": 34,
+        "correct_option_index": 1,
+        "explanation": "Inclusive design is a methodology that considers human diversity to deliver experiences that are usable and open to all, often embracing multiple design variations to achieve the goal."
+      },
+      {
+        "question_number": 35,
+        "correct_option_index": 2,
+        "explanation": "Incorporating feedback mechanisms for different senses (like visual alerts combined with audio cues) is essential to accommodate varying physical impairments."
+      },
+      {
+        "question_number": 36,
+        "correct_option_index": 3,
+        "explanation": "Text-to-speech functionality (like screen readers) is a crucial accessibility tool that reads digital text aloud for individuals with visual impairments."
+      },
+      {
+        "question_number": 37,
+        "correct_option_index": 1,
+        "explanation": "Allocating resources according to individual need (rather than giving everyone the exact same thing) is the fundamental definition of practicing equity."
+      },
+      {
+        "question_number": 38,
+        "correct_option_index": 0,
+        "explanation": "The AODA Customer Service Standard dictates how organizations must provide goods and services to people with disabilities, which includes allowing assistive devices and service animals."
+      },
+      {
+        "question_number": 39,
+        "correct_option_index": 0,
+        "explanation": "Non-customizable text sizes prevent users with low vision from increasing the font to a readable size, creating a direct barrier to accessibility."
+      },
+      {
+        "question_number": 40,
+        "correct_option_index": 0,
+        "explanation": "Using strong color contrast is a primary example of Universal Design, as it ensures content remains legible and avoids stigmatizing users with color blindness."
+      },
+      {
+        "question_number": 41,
+        "correct_option_index": 1,
+        "explanation": "Confirmation bias is the psychological tendency to search for, favor, and recall information that confirms one's pre-existing beliefs."
+      },
+      {
+        "question_number": 42,
+        "correct_option_index": 0,
+        "explanation": "Universal Design Principle 2: 'Flexibility in Use' states that the design must accommodate a wide range of individual preferences and abilities."
+      },
+      {
+        "question_number": 43,
+        "correct_option_index": 1,
+        "explanation": "A diverse workforce brings together varied backgrounds and experiences, which drives creative innovation and helps build better, less biased technology."
+      },
+      {
+        "question_number": 44,
+        "correct_option_index": 3,
+        "explanation": "Intentional inclusion is a reflexive practice built upon intentionally learning from different people and challenging prescribed modes of thinking."
+      },
+      {
+        "question_number": 45,
+        "correct_option_index": 0,
+        "explanation": "Adjusting expectations based on an initial number given (like a salary range) is a classic example of Anchor bias."
+      },
+      {
+        "question_number": 46,
+        "correct_option_index": 0,
+        "explanation": "Blind hiring is the practice of removing personally identifiable information from resumes to prevent unconscious bias from influencing the screening process."
+      },
+      {
+        "question_number": 47,
+        "correct_option_index": 1,
+        "explanation": "While diversity represents the makeup of a group, inclusion focuses on how well the perspectives and contributions of those diverse people are actually valued and integrated."
+      },
+      {
+        "question_number": 48,
+        "correct_option_index": 3,
+        "explanation": "The AODA specifically sets the Web Content Accessibility Guidelines (WCAG) 2.0 Level AA as its standard for legal compliance."
+      },
+      {
+        "question_number": 49,
+        "correct_option_index": 0,
+        "explanation": "'Tolerance for Error' is Principle 5 of Universal Design, which minimizes hazards and adverse consequences of accidental actions."
+      },
+      {
+        "question_number": 50,
+        "correct_option_index": 0,
+        "explanation": "Scholarship programs for underrepresented minorities directly dismantle financial and systemic barriers, actively promoting diversity and equity in CS education."
+      }
+    ]
+  }
+}

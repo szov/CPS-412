@@ -1,0 +1,46 @@
+.progress-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+}
+
+.topic-progress-item {
+    padding: 0.5rem 0;
+}
+
+.topic-name {
+    font-size: 0.75rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    color: var(--text-sub);
+}
+
+.confidence-bar {
+    height: 6px;
+    background: var(--border);
+    border-radius: 3px;
+    position: relative;
+    overflow: hidden;
+}
+
+.confidence-fill {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    border-radius: 3px;
+}
+
+.confidence-fill.green {
+    background: var(--conf-green);
+    left: 0;
+}
+
+.confidence-fill.yellow {
+    background: var(--conf-yellow);
+}
+
+.confidence-fill.red {
+    background: var(--conf-red);
+}

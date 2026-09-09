@@ -1,0 +1,510 @@
+{
+  "quiz_title": "Networked Communications",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which of these declined because television allowed viewers to be entertained with sound and moving pictures in their homes?",
+      "options": [
+        "Radio",
+        "Cinema",
+        "Live theater",
+        "All of the above"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "______ refers to the quantity of data generated and stored by a system.",
+      "options": [
+        "Velocity",
+        "Variety",
+        "Veracity",
+        "Volume"
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "______ sink website search rankings by deluging sites with spammy keywords and backlinks.",
+      "options": [
+        "SEO spam attacks",
+        "Denial of service attacks",
+        "Phishing attacks",
+        "Junk emails"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "The video of the USS Montana requesting a lighthouse to divert course showed us that",
+      "options": [
+        "It is important to know who your communication endpoint is",
+        "ship captains need to communicate better",
+        "networked communication is similar to communicating with a lighthouse",
+        "lighthouses need to communicate better"
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "_____ refers to how fast data can be generated, gathered and analyzed",
+      "options": [
+        "Volume",
+        "Velocity",
+        "Veracity",
+        "Variety"
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "Runners such as Phidippides were",
+      "options": [
+        "digital architects",
+        "first programmers",
+        "human messengers",
+        "human calculators"
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "Which of these is NOT a common sign of a Phishing email?:",
+      "options": [
+        "Unidentified senders",
+        "Contains suspicious looking links or attachments.",
+        "When the email seems too good to be true.",
+        "Professional and informative tone of voice"
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "Communication in the past required",
+      "options": [
+        "a router",
+        "physical movement.",
+        "broadband internet",
+        "helicopters"
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "A wiki is",
+      "options": [
+        "An electronic profile constructed automatically by a Web browser.",
+        "A piece of software that allows ISPs to monitor who visits which Web sites.",
+        "A personal journal kept on the Web.",
+        "An online encyclopedia.",
+        "A Web site that allows multiple people to contribute and edit its content."
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "Important national events broadcast live for the first time were an impetus for consumers to buy what so they could witness these events",
+      "options": [
+        "Radio sets",
+        "Televisions",
+        "Movie tickets",
+        "Telephones"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "What is a question we could ask when considering scalability and growth of a network?",
+      "options": [
+        "Is it easy to learn?",
+        "Is it easy to use?",
+        "What is the capability of the network to handle increased demands and grow its capacity as the need arises?",
+        "Is it error tolerant?"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "What risks do increasing use of IT systems have?",
+      "options": [
+        "Pre-planned risks",
+        "No risks",
+        "Unintended consequences",
+        "None of the above"
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "Pheidippides was a human messenger who is remembered for his contribution to",
+      "options": [
+        "the Battle of Waterloo",
+        "the first computer program",
+        "the Battle of Marathon",
+        "World War 1"
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "The Internet and WWW allowed ______ communication",
+      "options": [
+        "no",
+        "one-way",
+        "multi-way",
+        "one-man"
+      ]
+    },
+    {
+      "question_number": 15,
+      "question": "What is a telecommunication medium for transmitting moving images and sound?",
+      "options": [
+        "Computer network",
+        "Television",
+        "Telephone",
+        "Telegraph"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "The volume of spam is increasing because",
+      "options": [
+        "companies have found it to be effective.",
+        "it is hundred times less expensive than a traditional flyer sent via the U.S. mail.",
+        "some people respond to spam advertisements.",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "The ______ was an early packet-switching network and the first network to implement the TCP/IP protocol suite.",
+      "options": [
+        "ARPANET",
+        "INTERNET",
+        "DIGINET",
+        "None of the above"
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "What is a risk of credit cards?",
+      "options": [
+        "Convenience",
+        "Ease of use",
+        "Purchase protection",
+        "Increases possibility of identity theft"
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "_____ refers to the different types of data.",
+      "options": [
+        "Variety",
+        "Veracity",
+        "Volume",
+        "Velocity"
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "What are some aspects we consider for secure communication?",
+      "options": [
+        "Reliability",
+        "Availability",
+        "Validity",
+        "All of the above"
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "Does CASL apply to messages received in Canada from other countries?",
+      "options": [
+        "Only if it is sent to a work email",
+        "Yes",
+        "No",
+        "Only if sent to more than 1000 people"
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "In computing what do we call the sharing of a computing resource among many users by means of multiprogramming and multi-tasking at the same time.",
+      "options": [
+        "time-sharing",
+        "collaboration",
+        "resource allocation",
+        "usability"
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "What was a significant impact of spam in the 21st century?",
+      "options": [
+        "Decreased need for cybersecurity",
+        "Significant costs to businesses for managing spam",
+        "Increased email efficiency",
+        "Reduction in electronic waste"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "What should you do if you suspect a phishing attempt?",
+      "options": [
+        "Forward the phishing email to a friend or colleague to ask them if they can check the link out first.",
+        "Interact with the scammer directly by confronting them and getting down to the bottom of the situation.",
+        "Double-check the email ID and the content and then contact your supervisor or the IT department to confirm its authenticity.",
+        "Click on the link anyway and see where it takes you."
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "Computer Science is inextricably connected to",
+      "options": [
+        "wind power generation",
+        "trees",
+        "communication",
+        "food sources"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "Unsolicited e-mail advertising is known as _______.",
+      "options": [
+        "Spam",
+        "Marketing",
+        "Junk",
+        "Newsgroup"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "Which of the following is NOT a common method used by spammers in the 21st century?",
+      "options": [
+        "Direct mail advertising",
+        "Phishing emails",
+        "Malware distribution through email attachments",
+        "Social media spamming"
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "Which of these is not an example of a commercial electronic message?",
+      "options": [
+        "offers to purchase or lease a product",
+        "offers to provide a gaming opportunity",
+        "recommending a song for the class via email to the Professor",
+        "promoting the public image of a person"
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "____ is credited with patenting the first practical telephone on March 7 1876.",
+      "options": [
+        "Philo Taylor Farnsworth",
+        "John Baird",
+        "Alexander Graham Bell",
+        "Charles Jenkins"
+      ]
+    },
+    {
+      "question_number": 30,
+      "question": "Cyberbullying is defined as inflicting psychological harm on another person using",
+      "options": [
+        "the Internet.",
+        "broadcast media such as radio or television.",
+        "both the phone and the internet",
+        "phone, internet, radio and television",
+        "the phone system."
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "_____ is a cybercrime where individuals are targeted via email or text messages or phone calls in order to retrieve private information.",
+      "options": [
+        "Cyber bullying",
+        "Fishing",
+        "Phishing",
+        "DDOS"
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "A ____ is a wireless telegraph that signals by flashes of sunlight (generally using Morse code) reflected by a mirror",
+      "options": [
+        "heliograph",
+        "flag semaphore",
+        "semaphore",
+        "radiograph"
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "___ is a set of organizational and technical attributes and processes ... [that] employs human, physical, and information resources to solve problems and accomplish missions to achieve the goals of an organization or enterprise.",
+      "options": [
+        "Data Science",
+        "Digital arts",
+        "Online communication",
+        "Command and control"
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "Which of these innovations made modern networks possible?",
+      "options": [
+        "Battery",
+        "Telegraphs",
+        "Electromagnet",
+        "All of the above"
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "CASL applies to",
+      "options": [
+        "commercial electronic messages.",
+        "voice communications only.",
+        "personal email messages.",
+        "spam emails only."
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "engineer that developed tested and worked to implement the first robust mechanical long-range communication system (optical telegraph).",
+      "options": [
+        "Crawford Pierce",
+        "Martin Rossman",
+        "Claude Chappe",
+        "Benjamin Rossman"
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "What is a risk of video and music in electronic form?",
+      "options": [
+        "More easily accessible",
+        "Piracy",
+        "Easy to market",
+        "Fast access"
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "What is an optical telegraph?",
+      "options": [
+        "A simple but effective instrument for instantaneous optical communication over long distances during the late 19th and early 20th century.",
+        "An image produced on a sensitive plate or film by X-rays.",
+        "A line of stations - typically towers - for the purpose of conveying textual information by means of visual signals.",
+        "None of the above"
+      ]
+    },
+    {
+      "question_number": 39,
+      "question": "What is the utility we gain from email?",
+      "options": [
+        "Spam",
+        "Denial of service",
+        "Easy way to keep in touch",
+        "Phishing attacks"
+      ]
+    },
+    {
+      "question_number": 40,
+      "question": "What is a widely used technique to filter out spam emails?",
+      "options": [
+        "Mandatory email account shutdown after receiving spam",
+        "Heuristic filtering methods",
+        "Calling the person to validate the sender",
+        "Manual review of each incoming email"
+      ]
+    },
+    {
+      "question_number": 41,
+      "question": "_____ is the telegraphy system conveying information at a distance by means of visual signals with hand-held flags.",
+      "options": [
+        "Tower semaphore",
+        "Flag heliograph",
+        "Flag semaphore",
+        "Tower heliograph"
+      ]
+    },
+    {
+      "question_number": 42,
+      "question": "What is a risk of using email?",
+      "options": [
+        "Easy way to keep in touch",
+        "Spam",
+        "Fast communication",
+        "Accessibility"
+      ]
+    },
+    {
+      "question_number": 43,
+      "question": "A blog is",
+      "options": [
+        "a personal journal kept on the Web.",
+        "the Web version of a couch potato.",
+        "a special symbol visible on displays that show Unicode characters.",
+        "a character in Lineage",
+        "a person who assumes a false identity in a chat room."
+      ]
+    },
+    {
+      "question_number": 44,
+      "question": "____ worked by transmitting electrical signals over a wire laid between stations.",
+      "options": [
+        "A computer",
+        "A telegraph",
+        "A television",
+        "A mobile phone"
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "Generative artificial intelligence is expected to drastically impact",
+      "options": [
+        "Quantum computing",
+        "Newsgroups",
+        "Telivision sales",
+        "Phone spams"
+      ]
+    },
+    {
+      "question_number": 46,
+      "question": "A later derivative of the semaphore system is _____ which had signalling with hand-held flags.",
+      "options": [
+        "colored semaphore",
+        "electrical semaphore",
+        "flag semaphore",
+        "digital semaphore"
+      ]
+    },
+    {
+      "question_number": 47,
+      "question": "_____ refers to the data's quality and accuracy.",
+      "options": [
+        "Velocity",
+        "Veracity",
+        "Variety",
+        "Volume"
+      ]
+    },
+    {
+      "question_number": 48,
+      "question": "What is a heliograph?",
+      "options": [
+        "An early sound-reproducing machine that used cylinders to record as well as reproduce sound.",
+        "An image produced on a sensitive plate or film by X-rays.",
+        "A simple but effective instrument for instantaneous optical communication over long distances during the late 19th and early 20th century.",
+        "A device that receives television signals and reproduces them on a screen."
+      ]
+    },
+    {
+      "question_number": 49,
+      "question": "Who invented radio transmission?",
+      "options": [
+        "Hector",
+        "Joshua",
+        "Benjamin",
+        "Marconi"
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "Can a form use pre-checked boxes to obtain express consent per CASL?",
+      "options": [
+        "No",
+        "Yes but only in Ontario",
+        "Yes",
+        "Yes but it needs to be green in color"
+      ]
+    }
+  ]
+}

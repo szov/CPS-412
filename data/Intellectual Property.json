@@ -1,0 +1,507 @@
+{
+  "quiz_title": "Intellectual Property",
+  "total_questions": 50,
+  "scraped_at": "2026-04-19T21:20:29.387688",
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "What is a government instrument granting you the exclusive right to produce or reproduce your design throughout Canada for a term of 10 years?",
+      "options": [
+        "Trademark",
+        "Trade secret",
+        "Copyright",
+        "Industrial design"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "Which of these is true of patents?",
+      "options": [
+        "A patent granted in one country has no effect beyond the territorial boundary of that country",
+        "A patent is universal",
+        "A patent granted in one country holds beyond the territorial boundary of that country",
+        "The exclusive purpose of the patent system is to benefit the patent holder"
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "____ helps you properly mark your work",
+      "options": [
+        "Trade secret",
+        "Industrial designs",
+        "Copyright",
+        "Marketing"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "Under Canadian patent law when does public disclosure of an invention potentially bar a successful patent application?",
+      "options": [
+        "If disclosure occurs after filing the patent application",
+        "If disclosure occurs more than 12 months before filing the patent application",
+        "At any time before the patent is granted",
+        "Public disclosure is not a bar to patentability in Canada"
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "Which of these is not a basic test for a patent to be granted for an invention?",
+      "options": [
+        "it supports global good",
+        "it is novel",
+        "it has utility",
+        "it is not obvious"
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "A trademark in Canada is issued for ____ years.",
+      "options": [
+        "20 years",
+        "10 years",
+        "2 years",
+        "15 years"
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "Patent term is ____ years from filing date.",
+      "options": [
+        "20",
+        "10",
+        "50",
+        "5"
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "IP laws are territorial in nature. This means they are",
+      "options": [
+        "Limited to the territory of the country where they have been granted",
+        "Governed by international treaties and agreements.",
+        "Enforced uniformly across all jurisdictions.",
+        "Subject to interpretation by global regulatory bodies."
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "What does it mean when a patent is not obvious?",
+      "options": [
+        "there are other similar products on the market",
+        "an inventive step is needed to arrive at the invention",
+        "the invention has been patented before by you",
+        "the invention has been patented before by someone else"
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "What is the primary purpose of an MVP in software development?",
+      "options": [
+        "To fully develop all the features that the final product will have before launch",
+        "To attract early-stage investors by demonstrating technical feasibility",
+        "To test a product's market viability with the least effort and cost",
+        "To provide a detailed roadmap for future product development"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "Once a trade secret is disclosed",
+      "options": [
+        "it is lost",
+        "it needs to be renewed",
+        "it remains protected indefinitely",
+        "it can still be protected through litigation"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "For how long does a patent application remain unpublished after filing date",
+      "options": [
+        "up to 18 months",
+        "up to 12 months",
+        "up to 6 months",
+        "forever"
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "What is a Minimum Viable Product (MVP)?",
+      "options": [
+        "The Minimum price a user would pay for a product",
+        "The product that costs the least",
+        "A product that has been in the market for a minimum of 5 years",
+        "Has just those core features that allow the product to be deployed and no more."
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "Which organization administers patents in Canada?",
+      "options": [
+        "Innovation Science and Economic Development Canada",
+        "Canadian Intellectual Property Office (CIPO)",
+        "World Intellectual Property Organization (WIPO)",
+        "Canadian Science and Innovation Council"
+      ]
+    },
+    {
+      "question_number": 15,
+      "question": "What is a Trade mark?",
+      "options": [
+        "A distinctive sign used to identify products or services",
+        "A symbol used by companies for marketing purposes",
+        "A type of legal protection for creative works",
+        "A government-issued license for small business activities"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "What can be done if a Canadian patent is infringed upon?",
+      "options": [
+        "The patent holder can only issue a cease and desist letter",
+        "The patent holder can seek damages and/or an injunction in court",
+        "The patent is automatically voided",
+        "The infringer becomes the new patent holder"
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "What are the four main types of intellectual property protection?",
+      "options": [
+        "Trademark; copyrights; patents; trade secrets",
+        "Copyrights; patents; designs; monopolies",
+        "Trademarks; copyrights; patents; licenses",
+        "Trademarks; copyrights; inventions; trade secrets"
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "Which of these is not a form of Intellectual Property?",
+      "options": [
+        "Trade Stocks",
+        "Act Trade Secrets",
+        "Plant Breeders Rights",
+        "Industrial Design"
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "What is the term length of a patent in Canada from the filing date?",
+      "options": [
+        "15 years",
+        "20 years",
+        "25 years",
+        "Life of the inventor + 50 years"
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "Which of these can be trademarked?",
+      "options": [
+        "Common words like tomato or bag or tree",
+        "Words or Slogans or Designs or Sounds",
+        "Professional names such as attorneyship or engineering or teaching",
+        "All of the other choices"
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "What is a word to describe Confidential information in business resulting in competitive advantage",
+      "options": [
+        "Trade Secret",
+        "Trademark",
+        "Patent",
+        "Slogan"
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "How does copyright law typically treat music created specifically for a video game?",
+      "options": [
+        "The composer retains all rights regardless of their contract with the game developer.",
+        "Music becomes public domain once integrated into a game.",
+        "The game developer owns the copyright if the music was commissioned as a work for hire.",
+        "Copyright law does not recognize music created for video games as a protected work."
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "What are the three main criteria a patent application must meet to be granted in Canada?",
+      "options": [
+        "Novelty usefulness and creativity",
+        "Novelty utility and non-obviousness",
+        "Utility originality and complexity",
+        "Creativity practicality and simplicity"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "What is covetous claiming (with respect to patents)?",
+      "options": [
+        "Over breadth of claims",
+        "Hiding the patent for a year",
+        "Dissolving a patent",
+        "Adding a friend on a patent"
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "One way trade secrets can be kept secret is through",
+      "options": [
+        "Confidentiality agreements",
+        "Publishing",
+        "Public disclosure",
+        "Encryption"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "What is the first step in the Canadian patent application process?",
+      "options": [
+        "Filing a patent application",
+        "Paying the filing fee",
+        "Requesting examination",
+        "Conducting a patent search"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "What do you give the government in exchange for the patent?",
+      "options": [
+        "a complete description of your invention.",
+        "a sample of the product",
+        "100% of the revenue for 3 years",
+        "rights to sell your product"
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "What does the Patent Cooperation Treaty (PCT) allow Canadian inventors to do?",
+      "options": [
+        "File a single patent application to get patent protection only in Canada",
+        "Directly obtain patents in all PCT member countries",
+        "File a single patent application to seek patent protection in multiple countries",
+        "Bypass examination in Canada"
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "What happens to a patent upon expiry?",
+      "options": [
+        "it becomes public domain",
+        "it goes back to being a secret",
+        "royalty payments continue to be made to the creator",
+        "licensing agreements continue to still be valid"
+      ]
+    },
+    {
+      "question_number": 30,
+      "question": "The protection of intellectual property is primarily a _____ responsibility.",
+      "options": [
+        "federal",
+        "provincial",
+        "commercial",
+        "feminist"
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "An example of a trade secret is",
+      "options": [
+        "Kentucky Fried Chicken spice mixture",
+        "a published paper on caring analytics",
+        "the WordPress website",
+        "asexually reproducing plants"
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "What protects your place in line for patents for a period of 1 year?",
+      "options": [
+        "Persistent patent",
+        "Provisional patent",
+        "Periodic patent",
+        "Primary patent"
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "IP laws ensure that",
+      "options": [
+        "physical property can be equally shared.",
+        "certain products of human intellect are afforded the same protective rights that apply to physical property.",
+        "intent is always addressed when protective rights of property or products is considered.",
+        "the law is always upheld."
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "Copyright is automatic",
+      "options": [
+        "upon registration with the copyright office",
+        "upon creation of the work in a fixed form",
+        "upon publication of the work",
+        "upon sharing the work with others"
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "Which of the following is not patentable in Canada?",
+      "options": [
+        "Software algorithms",
+        "Artistic works",
+        "Scientific theories",
+        "Biological processes for production of plants or animals"
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "Which of the following is not considered fair dealing under Canadian copyright law?",
+      "options": [
+        "Use of a copyrighted work for personal entertainment",
+        "Use of a copyrighted work for educational purposes",
+        "Use of a copyrighted work for news reporting",
+        "Use of a copyrighted work for research or private study"
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "____ is the global forum for intellectual property policy; services; information and cooperation.",
+      "options": [
+        "WIPO (World Intellectual Property Organization)",
+        "WTO (World Trade Organization)",
+        "IMF (International Monetary Fund)",
+        "WHO (World Health Organization)"
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "What is the process of of creating something new called?",
+      "options": [
+        "Innovation",
+        "Resolution",
+        "Patenting",
+        "Invention"
+      ]
+    },
+    {
+      "question_number": 39,
+      "question": "In the context of video games when does using copyrighted music typically require a license?",
+      "options": [
+        "Only when the game is sold commercially.",
+        "Whenever music is used within the game regardless of commercial intent.",
+        "Only when the game is distributed for free.",
+        "When the music is used in promotional materials but not within the game itself."
+      ]
+    },
+    {
+      "question_number": 40,
+      "question": "Which international treaty provides a unified procedure for filing patent applications to protect inventions in each of its contracting states?",
+      "options": [
+        "Berne Convention",
+        "Madrid Protocol",
+        "Patent Cooperation Treaty",
+        "TRIPS agreement"
+      ]
+    },
+    {
+      "question_number": 41,
+      "question": "Which of the following is a common way video game developers can use copyrighted music without infringing copyright?",
+      "options": [
+        "Using the music without acknowledgment assuming fair use will apply.",
+        "Obtaining a sync license for the music to legally include it in their game.",
+        "Modifying the music slightly to avoid direct copying.",
+        "Using the music and attributing the creator in the game credits."
+      ]
+    },
+    {
+      "question_number": 42,
+      "question": "The term of a trade secret is",
+      "options": [
+        "indefinite as long as confidentiality is not breached",
+        "10 years",
+        "non-renewable after 10 years",
+        "renewable every 10 years to maintain confidentiality"
+      ]
+    },
+    {
+      "question_number": 43,
+      "question": "The protection of intellectual property is the subject of which of these principal federal statutes?",
+      "options": [
+        "Patent Act; Trademarks Act; Copyright Act and Industrial Design Act",
+        "Patent Act; Trademarks Act and the Personal Information Protection and Electronic Documents Act",
+        "Patent Act; Trademarks Act; Copyright Act and Personal Information Protection and Electronic Documents Act",
+        "Only the Patent Act; Trademarks Act and Copyright Act"
+      ]
+    },
+    {
+      "question_number": 44,
+      "question": "Who can apply for a patent in Canada?",
+      "options": [
+        "Only Canadian citizens",
+        "Anyone who is the first inventor",
+        "Any inventor or their assignee regardless of nationality",
+        "Only Canadian residents"
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "Intellectual property laws help",
+      "options": [
+        "Bring ideas and thoughts to market",
+        "Destroy creators' rights and interests.",
+        "Ensure fair competition in the marketplace.",
+        "Regulate the use of non-copyrighted materials."
+      ]
+    },
+    {
+      "question_number": 46,
+      "question": "What is the duration of copyright protection in Canada for works created by an individual (until Dec 2022)? Note that this has since changed to 70 years.",
+      "options": [
+        "50 years after the author's death",
+        "10 years after the author's death",
+        "Life of the author plus 10 years",
+        "Life of the author plus 50 years"
+      ]
+    },
+    {
+      "question_number": 47,
+      "question": "A government instrument granting you the right to exclude others from making using and/or selling your invention for 20 years from filing date is a",
+      "options": [
+        "patent",
+        "copyright",
+        "trademark",
+        "industrial slogan"
+      ]
+    },
+    {
+      "question_number": 48,
+      "question": "In Canada...a trademark",
+      "options": [
+        "cannot be renewed.",
+        "should be renewed every year.",
+        "cannot be renewed by the same company twice.",
+        "can be renewed every 10 years."
+      ]
+    },
+    {
+      "question_number": 49,
+      "question": "How does Canada's Copyright Act treat software copyright?",
+      "options": [
+        "Software is not protected under the Copyright Act.",
+        "Software is treated the same as literary works with a protection period of life of the author plus 50 years.",
+        "Software copyrights last for 20 years from the date of publication.",
+        "Software is protected but only the code itself not the functionality or ideas."
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "Aristotle beleived that happiness derives from living a life of",
+      "options": [
+        "virtue",
+        "vice",
+        "virtue and vice",
+        "social ethics"
+      ]
+    }
+  ]
+}

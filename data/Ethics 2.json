@@ -1,0 +1,506 @@
+{
+  "quiz_title": "Ethics 2",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "According to Bentham and Mill, an action is good if its benefits exceed its harms, and an action is bad if its harms exceed its benefits. This is the theory of",
+      "options": [
+        "Kantianism",
+        "Utilitarianism",
+        "Relativism",
+        "Egalitarianism"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "______ is based upon the principle of utility, also called the Greatest Happiness Principle",
+      "options": [
+        "Egalitarianism",
+        "Utilitarianism",
+        "Relativism",
+        "Kantianism"
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "According to _____ Morality of an action has nothing to do with intent",
+      "options": [
+        "Kantianism",
+        "Egalitarianism",
+        "Relativism",
+        "Utilitarianism"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "_____ is a consequentialist theory",
+      "options": [
+        "Utilitarianism",
+        "Egalitarianism",
+        "Relativism",
+        "Kantianism"
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "One challenge with Act Utilitarianism is that",
+      "options": [
+        "Not all benefits have equal weight.",
+        "it focusses on intent.",
+        "considers an action right only if it increases learning",
+        "it does not focus on the consequence"
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "The street routing scenario concluded that building the highway was a good action accoording to act utilitarianism because",
+      "options": [
+        "overall benefits exceed costs",
+        "everyone was benefitted",
+        "costs were temporary",
+        "benefits were universal"
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "_____ states that we ought to adopt moral rules which if followed by everyone will lead to the greatest increase in total happiness",
+      "options": [
+        "Rule Utilitariansim",
+        "Act Utilitariansim",
+        "Kantianism",
+        "Virtue ethics"
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "_____ applies Principle of Utility to moral rules",
+      "options": [
+        "Rule Utilitariansim",
+        "Act Utilitariansim",
+        "Kantianism",
+        "Virtue ethics"
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "____ applies Principle of Utility to individual actions",
+      "options": [
+        "Rule Utilitariansim",
+        "Act Utilitariansim",
+        "Kantianism",
+        "Virtue ethics"
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "In the anti-worm scenario of releasing the Nachi worm we concluded according to rule utilitariansim that",
+      "options": [
+        "Harm is less than benefits. Releasing anti-worm is wrong.",
+        "Harm is less than benefits. Releasing anti-worm is right.",
+        "Harm outweighs benefits. Releasing anti-worm is right.",
+        "Harm outweighs benefits. Releasing anti-worm is wrong."
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "Rule Utilitarianism states that",
+      "options": [
+        "All consequences must be measured on a single scale.",
+        "All consequences should be ignored",
+        "All consequences should be measured by atleast 4 different individuals",
+        "All consequences must be measured on varied scale."
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "The Principle of Utility is also called",
+      "options": [
+        "the Greatest Happiness Principle",
+        "the Categorical Imperative.",
+        "the Difference Principle.",
+        "the Social Contract."
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "Two philosophers closely associated with utilitarianism are",
+      "options": [
+        "Jeremy Bentham and John Stuart Mill.",
+        "Immanuel Kant and Jeremy Bentham.",
+        "Immanuel Kant and John Stuart Mill.",
+        "John Stuart Mill and John Rawls."
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "Utilitarianism is an example of",
+      "options": [
+        "a non-consequentialist theory.",
+        "a relativistic theory.",
+        "the social contract theory.",
+        "a consequentialist theory."
+      ]
+    },
+    {
+      "question_number": 15,
+      "question": "The problem of moral luck is raised as a criticism of",
+      "options": [
+        "the divine command theory.",
+        "act utilitarianism",
+        "rule utilitarianism",
+        "kantianism"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "Utilitarianism does not mean \"the greatest good of the greatest number\" because",
+      "options": [
+        "it focuses solely on \"the greatest good\" and pays no attention to how \"the good\" is distributed.",
+        "it is impossible to calculate \"the greatest good.\"",
+        "some people have no moral worth.",
+        "it is impossible to maximize \"the good\" without ruining the environment."
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "Thomas Hobbes called life without rules and a means of enforcing them",
+      "options": [
+        "democracy",
+        "utopia.",
+        "the state of nature",
+        "anarchy."
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "A right that another can guarantee by leaving you alone to exercise the right is called",
+      "options": [
+        "a positive right.",
+        "a cold right.",
+        "a negative right",
+        "a complete right."
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "A right that is guaranteed without exception is called",
+      "options": [
+        "a positive right.",
+        "a complete right.",
+        "a negative right.",
+        "an absolute right"
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "Modern writers often refer to moral virtues as",
+      "options": [
+        "intellectual virtues.",
+        "philosophical virtues.",
+        "virtues of character",
+        "social virtues."
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "A character trait that prevents a human being from flourishing or become truly happy is called a",
+      "options": [
+        "vice",
+        "fatal attraction.",
+        "negative virtue",
+        "inverse virtue"
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "According to Aristotle moral virtue results from",
+      "options": [
+        "repetition of the appropriate acts.",
+        "loving family",
+        "living a long life.",
+        "a good education."
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "According to Aristotle deriving pleasure from a virtuous act is a sign that you",
+      "options": [
+        "are brave",
+        "have developed the virtue.",
+        "are egotistical",
+        "have not yet developed the virtue."
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "_____ is an implicit agreement among the members of a society to cooperate for social benefits.",
+      "options": [
+        "Social contract",
+        "Benefit contract",
+        "Societal laws",
+        "Benefit agreement"
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "Individuals give up certain natural rights in order to enjoy the benefits of society in a",
+      "options": [
+        "Social contract",
+        "Benefit agreement",
+        "Democracy",
+        "Kantian world"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "According to social contract theory - who decides when two people are fighting over code ownership",
+      "options": [
+        "the government",
+        "the first person",
+        "the second person",
+        "they negotiate"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "Feminists and race-conscious philosophers have argued that ________ is incomplete since individual may have to give up certian rights",
+      "options": [
+        "Democracy",
+        "Social contract theory",
+        "Utilitarianism",
+        "Kantianism"
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "A right that another can guarantee by leaving you alone is a",
+      "options": [
+        "positive right",
+        "limited right",
+        "absolute right",
+        "negative right"
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "A right obligating others to do something on your behalf",
+      "options": [
+        "positive right",
+        "limited right",
+        "negative right",
+        "absolute right"
+      ]
+    },
+    {
+      "question_number": 30,
+      "question": "A right guaranteed without exception",
+      "options": [
+        "negative right",
+        "positive right",
+        "absolute right",
+        "limited right"
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "A right that may be restricted based on the circumstances",
+      "options": [
+        "positive right",
+        "absolute right",
+        "negative right",
+        "limited right"
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "Freedom of speech is an example of a/an",
+      "options": [
+        "negative right",
+        "limited right",
+        "absolute right",
+        "positive right"
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "Right to free schooling is an example of a/an",
+      "options": [
+        "negative right",
+        "positive right",
+        "absolute right",
+        "limited right"
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "Right to freedom from torture is an example of a/an",
+      "options": [
+        "absolute right",
+        "negative right",
+        "limited right",
+        "positive right"
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "Right to liberty is an example of a/an",
+      "options": [
+        "positive right",
+        "negative right",
+        "absolute right",
+        "limited right"
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "Many computers during World War II were ____",
+      "options": [
+        "women",
+        "men",
+        "little children",
+        "professors"
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "Each person is to have an equal right to the most extensive total system of equal basic liberties compatible with a similar system of liberty for all is often called the",
+      "options": [
+        "similar system principle",
+        "greatest equal liberty principle",
+        "totalitarian principle",
+        "equal rights principle"
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "A criticism of social contract theory is that",
+      "options": [
+        "Some actions have multiple characterizations",
+        "Explains why people act in self-interest",
+        "Framed in language of rights",
+        "Explains why people are good"
+      ]
+    },
+    {
+      "question_number": 39,
+      "question": "Which of these theories considers emotions and family and social replationships?",
+      "options": [
+        "Virtue ethics",
+        "Relativism",
+        "Kantianism",
+        "Utilitariansim"
+      ]
+    },
+    {
+      "question_number": 40,
+      "question": "Virtues associated with reasoning and truth are called",
+      "options": [
+        "Digital virtue",
+        "Moral virtue",
+        "Good virtue",
+        "Intellectual virtue"
+      ]
+    },
+    {
+      "question_number": 41,
+      "question": "Virtues of character are called",
+      "options": [
+        "Intellectual virtue",
+        "Digital virtue",
+        "Moral virtue",
+        "Good virtue"
+      ]
+    },
+    {
+      "question_number": 42,
+      "question": "Aristotle beleived that happiness derives from living a life of",
+      "options": [
+        "virtue",
+        "social ethics",
+        "vice",
+        "virtue and vice"
+      ]
+    },
+    {
+      "question_number": 43,
+      "question": "Which of these is not true of Virtue ethics?",
+      "options": [
+        "Personal relationships can be morally relevant to decision making",
+        "Our moral decision-making skills develop over time",
+        "With this theory there are no irresolvable moral dilemmas",
+        "Emotions do not play an important role in living a moral life"
+      ]
+    },
+    {
+      "question_number": 44,
+      "question": "A _____ is the use of invalid or otherwise faulty reasoning",
+      "options": [
+        "Ad hominem",
+        "fallacy",
+        "generalization",
+        "Flow chart"
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "Which of these is not a Workable ethical theory",
+      "options": [
+        "Relativism",
+        "Kantianism",
+        "Social contract theory",
+        "Virtue ethics"
+      ]
+    },
+    {
+      "question_number": 46,
+      "question": "What principle suggests that an action is ethical if it promotes the greatest good for the greatest number?",
+      "options": [
+        "Utilitarianism",
+        "Deontological ethics",
+        "Ethical egoism",
+        "Virtue ethics"
+      ]
+    },
+    {
+      "question_number": 47,
+      "question": "Which concept emphasizes the importance of the character and virtues of the individual in ethical decision-making?",
+      "options": [
+        "Consequentialism",
+        "Deontological ethics",
+        "Virtue ethics",
+        "Utilitarianism"
+      ]
+    },
+    {
+      "question_number": 48,
+      "question": "A hospital has a limited supply of a life-saving medication. Four patients need the medication but there's only enough for one. Which decision best applies the utilitarian approach?",
+      "options": [
+        "Giving the medication to the patient with the highest chance of survival.",
+        "Giving the medication to the youngest patient.",
+        "Giving the medication to the oldest patient.",
+        "Giving the medication to the richest patient."
+      ]
+    },
+    {
+      "question_number": 49,
+      "question": "During a severe drought a water rationing app must be implemented. How should the available water be allocated to serve the greatest good, according to utilitarianism?",
+      "options": [
+        "Prioritize water for essential services (e.g.",
+        "Equally divide the water among all households",
+        "Allocate water based on consumption",
+        "Sell the water to the highest bidders to generate revenue for future water projects."
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "A programmer designs a recommendation system prioritizing fairness, transparency, and care over speed and profit. Which ethical theory best supports this choice?",
+      "options": [
+        "Rule Utilitarianism",
+        "Virtue Ethics",
+        "Act Utilitarianism",
+        "Economic Pragmatism"
+      ]
+    }
+  ]
+}
